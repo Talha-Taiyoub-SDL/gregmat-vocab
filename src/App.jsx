@@ -53,11 +53,30 @@ export default function App() {
                   </button>
                 </>
               ) : (
-                <button className="btn small" onClick={store.signIn}>
+                <button className="btn small signin" onClick={store.signIn}>
                   Sign in with Google to sync
                 </button>
               ))}
+            {/* <span className={`muted sync sync-${store.sync}`}>
+              {SYNC_TEXT[store.sync]}
+            </span> */}
             <span className={`muted sync sync-${store.sync}`}>
+              {store.sync === "synced" && (
+                <svg
+                  className="tick"
+                  width="14"
+                  height="14"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="3"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d="M20 6 9 17l-5-5" />
+                </svg>
+              )}
               {SYNC_TEXT[store.sync]}
             </span>
           </div>

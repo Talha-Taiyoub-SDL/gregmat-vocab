@@ -777,3 +777,23 @@ ol.defs li {
     animation: none;
   }
 }
+
+.btn.signin {
+  background: #e3f2e8;
+  color: #2e7d5b;
+  border-color: #2e7d5b;
+}
+.btn.signin:hover {
+  background: #cfeadb;
+}
+
+@media (prefers-color-scheme: dark) {
+  .btn.signin {
+    background: var(--good-bg);
+    color: var(--good);
+    border-color: var(--good-border);
+  }
+  .btn.signin:hover {
+    background: var(--good-bg-hover);
+  }
+}
