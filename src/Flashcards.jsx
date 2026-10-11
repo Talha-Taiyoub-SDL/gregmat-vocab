@@ -9,7 +9,7 @@ import {
   ScopePicker,
   StatusChip,
 } from "./ui";
-import { lookup } from "./pronounce";
+import { lookup, preloadWord } from "./pronounce";
 
 export default function Flashcards({ initialScope }) {
   const store = useStore();
@@ -53,6 +53,7 @@ export default function Flashcards({ initialScope }) {
       const n = BY_ID[id];
       if (!n) continue;
       if (n.image) new Image().src = n.image;
+      preloadWord(n.word);
       lookup(n.word);
     }
   }, [deck, i]);

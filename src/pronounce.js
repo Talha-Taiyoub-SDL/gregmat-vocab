@@ -132,18 +132,37 @@ function stopAll() {
   }
 }
 
-export function playWord(word, info) {
-  stopAll();
+// Bundled audio lives in public/audio/<word>.mp3 (made by scripts/generate_audio.py).
+// This must match slug() in scripts/generate_audio.py.
+const slug = (w) =>
+  w
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+const localUrl = (w) => `/audio/${slug(w)}.mp3`;
+
+export function preloadWord(word) {
+  preloadAudio(localUrl(word));
+}
+
+function fallback(word, info) {
   if (info?.audio) {
-    const a = preloadAudio(info.audio);
-    current = a;
-    try {
-      a.currentTime = 0;
-    } catch {
-      /* not loaded yet: it will start from the beginning anyway */
-    }
-    a.play().catch(() => speak(word));
+    const b = preloadAudio(info.audio);
+    current = b;
+    b.play().catch(() => speak(word));
   } else {
     speak(word);
   }
+}
+
+export function playWord(word, info) {
+  stopAll();
+  const a = preloadAudio(localUrl(word));
+  current = a;
+  try {
+    a.currentTime = 0;
+  } catch {
+    /* not loaded yet: it will start from the beginning anyway */
+  }
+  a.play().catch(() => fallback(word, info));
 }
