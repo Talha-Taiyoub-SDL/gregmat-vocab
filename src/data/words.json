@@ -1,0 +1,10698 @@
+[
+ {
+  "set": 1,
+  "num": 1,
+  "word": "abound",
+  "defs": [
+   "exist in large numbers or amounts."
+  ],
+  "images": [
+   "s01-01-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-01"
+ },
+ {
+  "set": 1,
+  "num": 2,
+  "word": "amorphous",
+  "defs": [
+   "without a clearly defined shape or form."
+  ],
+  "images": [
+   "s01-02-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-02"
+ },
+ {
+  "set": 1,
+  "num": 3,
+  "word": "austere",
+  "defs": [
+   "Strict in manner",
+   "Lack of comforts or luxuries"
+  ],
+  "images": [
+   "s01-03-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-03"
+ },
+ {
+  "set": 1,
+  "num": 4,
+  "word": "belie",
+  "defs": [
+   "(of an appearance) fail to give a true impression of (something).",
+   "fail to fulfill or justify (a claim or expectation)."
+  ],
+  "images": [
+   "s01-04-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-04"
+ },
+ {
+  "set": 1,
+  "num": 5,
+  "word": "capricious",
+  "defs": [
+   "given to sudden and unaccountable changes of mood or behavior."
+  ],
+  "images": [
+   "s01-05-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-05"
+ },
+ {
+  "set": 1,
+  "num": 6,
+  "word": "cerebral",
+  "defs": [
+   "of the cerebrum of the brain.",
+   "intellectual rather than emotional or physical."
+  ],
+  "images": [
+   "s01-06-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-06"
+ },
+ {
+  "set": 1,
+  "num": 7,
+  "word": "congenial",
+  "defs": [
+   "(of a person) pleasing or liked on account of having qualities or interests that are similar to one's own.",
+   "(of a thing) pleasant or agreeable because suited to one's taste or inclination."
+  ],
+  "images": [
+   "s01-07-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-07"
+ },
+ {
+  "set": 1,
+  "num": 8,
+  "word": "conspicuous",
+  "defs": [
+   "clearly visible.",
+   "attracting notice or attention."
+  ],
+  "images": [
+   "s01-08-0.webp"
+  ],
+  "page": 1,
+  "id": "s01-08"
+ },
+ {
+  "set": 1,
+  "num": 9,
+  "word": "cursory",
+  "defs": [
+   "hasty and therefore not thorough or detailed."
+  ],
+  "images": [
+   "s01-09-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-09"
+ },
+ {
+  "set": 1,
+  "num": 10,
+  "word": "daunting",
+  "defs": [
+   "seeming difficult to deal with in prospect; intimidating."
+  ],
+  "images": [
+   "s01-10-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-10"
+ },
+ {
+  "set": 1,
+  "num": 11,
+  "word": "deify",
+  "defs": [
+   "worship or regard as a god."
+  ],
+  "images": [
+   "s01-11-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-11"
+ },
+ {
+  "set": 1,
+  "num": 12,
+  "word": "didactic",
+  "defs": [
+   "in the manner of a teacher, particularly so as to appear patronizing."
+  ],
+  "images": [
+   "s01-12-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-12"
+ },
+ {
+  "set": 1,
+  "num": 13,
+  "word": "disseminate",
+  "defs": [
+   "spread (something, especially information) widely."
+  ],
+  "images": [
+   "s01-13-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-13"
+ },
+ {
+  "set": 1,
+  "num": 14,
+  "word": "feasible",
+  "defs": [
+   "possible to do easily or conveniently."
+  ],
+  "images": [
+   "s01-14-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-14"
+ },
+ {
+  "set": 1,
+  "num": 15,
+  "word": "flout",
+  "defs": [
+   "openly disregard (a rule, law, or convention)"
+  ],
+  "images": [
+   "s01-15-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-15"
+ },
+ {
+  "set": 1,
+  "num": 16,
+  "word": "homogeneous",
+  "defs": [
+   "of the same kind; alike."
+  ],
+  "images": [
+   "s01-16-0.webp"
+  ],
+  "page": 2,
+  "id": "s01-16"
+ },
+ {
+  "set": 1,
+  "num": 17,
+  "word": "humdrum",
+  "defs": [
+   "lacking excitement or variety; boringly monotonous."
+  ],
+  "images": [
+   "s01-17-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-17"
+ },
+ {
+  "set": 1,
+  "num": 18,
+  "word": "insipid",
+  "defs": [
+   "lacking flavor; weak or tasteless.",
+   "lacking vigor or interest."
+  ],
+  "images": [
+   "s01-18-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-18"
+ },
+ {
+  "set": 1,
+  "num": 19,
+  "word": "loquacious",
+  "defs": [
+   "tending to talk a great deal; talkative."
+  ],
+  "images": [
+   "s01-19-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-19"
+ },
+ {
+  "set": 1,
+  "num": 20,
+  "word": "misanthropic",
+  "defs": [
+   "having or showing a dislike of other people; unsociable."
+  ],
+  "images": [
+   "s01-20-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-20"
+ },
+ {
+  "set": 1,
+  "num": 21,
+  "word": "misnomer",
+  "defs": [
+   "a wrong or inaccurate name or designation."
+  ],
+  "images": [
+   "s01-21-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-21"
+ },
+ {
+  "set": 1,
+  "num": 22,
+  "word": "negligent",
+  "defs": [
+   "failing to take proper care over something."
+  ],
+  "images": [
+   "s01-22-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-22"
+ },
+ {
+  "set": 1,
+  "num": 23,
+  "word": "obsequious",
+  "defs": [
+   "obedient or attentive to an excessive or servile degree."
+  ],
+  "images": [
+   "s01-23-0.webp"
+  ],
+  "page": 3,
+  "id": "s01-23"
+ },
+ {
+  "set": 1,
+  "num": 24,
+  "word": "placate",
+  "defs": [
+   "make (someone) less angry or hostile."
+  ],
+  "images": [
+   "s01-24-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-24"
+ },
+ {
+  "set": 1,
+  "num": 25,
+  "word": "proclivity",
+  "defs": [
+   "a tendency to choose or do something regularly; an inclination or predisposition towards a particular thing."
+  ],
+  "images": [
+   "s01-25-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-25"
+ },
+ {
+  "set": 1,
+  "num": 26,
+  "word": "puerile",
+  "defs": [
+   "childishly silly and immature."
+  ],
+  "images": [
+   "s01-26-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-26"
+ },
+ {
+  "set": 1,
+  "num": 27,
+  "word": "quixotic",
+  "defs": [
+   "extremely idealistic; unrealistic and impractical."
+  ],
+  "images": [
+   "s01-27-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-27"
+ },
+ {
+  "set": 1,
+  "num": 28,
+  "word": "spendthrift",
+  "defs": [
+   "a person who spends money in an extravagant, irresponsible way."
+  ],
+  "images": [
+   "s01-28-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-28"
+ },
+ {
+  "set": 1,
+  "num": 29,
+  "word": "taciturn",
+  "defs": [
+   "(of a person) reserved or uncommunicative in speech; saying little."
+  ],
+  "images": [
+   "s01-29-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-29"
+ },
+ {
+  "set": 1,
+  "num": 30,
+  "word": "wary",
+  "defs": [
+   "feeling or showing caution about possible dangers or problems."
+  ],
+  "images": [
+   "s01-30-0.webp"
+  ],
+  "page": 4,
+  "id": "s01-30"
+ },
+ {
+  "set": 2,
+  "num": 1,
+  "word": "adulterate",
+  "defs": [
+   "render (something) poorer in quality by adding another substance."
+  ],
+  "images": [
+   "s02-01-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-01"
+ },
+ {
+  "set": 2,
+  "num": 2,
+  "word": "advocate",
+  "defs": [
+   "a person who publicly supports or recommends a particular cause or policy."
+  ],
+  "images": [
+   "s02-02-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-02"
+ },
+ {
+  "set": 2,
+  "num": 3,
+  "word": "aggrandize",
+  "defs": [
+   "increase the power, status, or wealth of."
+  ],
+  "images": [
+   "s02-03-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-03"
+ },
+ {
+  "set": 2,
+  "num": 4,
+  "word": "alacrity",
+  "defs": [
+   "brisk and cheerful readiness."
+  ],
+  "images": [
+   "s02-04-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-04"
+ },
+ {
+  "set": 2,
+  "num": 5,
+  "word": "ambivalent",
+  "defs": [
+   "having mixed feelings or contradictory ideas about something or someone."
+  ],
+  "images": [
+   "s02-05-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-05"
+ },
+ {
+  "set": 2,
+  "num": 6,
+  "word": "ameliorate",
+  "defs": [
+   "make (something bad or unsatisfactory) better."
+  ],
+  "images": [
+   "s02-06-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-06"
+ },
+ {
+  "set": 2,
+  "num": 7,
+  "word": "amenable",
+  "defs": [
+   "open and responsive to suggestion; easily persuaded or controlled."
+  ],
+  "images": [
+   "s02-07-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-07"
+ },
+ {
+  "set": 2,
+  "num": 8,
+  "word": "anachronistic",
+  "defs": [
+   "belonging to a period other than that being portrayed."
+  ],
+  "images": [
+   "s02-08-0.webp"
+  ],
+  "page": 5,
+  "id": "s02-08"
+ },
+ {
+  "set": 2,
+  "num": 9,
+  "word": "audacious",
+  "defs": [
+   "showing a willingness to take surprisingly bold risks.",
+   "showing an impudent lack of respect."
+  ],
+  "images": [
+   "s02-09-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-09"
+ },
+ {
+  "set": 2,
+  "num": 10,
+  "word": "avaricious",
+  "defs": [
+   "having or showing an extreme greed for wealth or material gain."
+  ],
+  "images": [
+   "s02-10-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-10"
+ },
+ {
+  "set": 2,
+  "num": 11,
+  "word": "banal",
+  "defs": [
+   "so lacking in originality as to be obvious and boring."
+  ],
+  "images": [
+   "s02-11-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-11"
+ },
+ {
+  "set": 2,
+  "num": 12,
+  "word": "benign",
+  "defs": [
+   "gentle and kind.",
+   "not harmful to the environment."
+  ],
+  "images": [
+   "s02-12-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-12"
+ },
+ {
+  "set": 2,
+  "num": 13,
+  "word": "brazen",
+  "defs": [
+   "bold and without shame."
+  ],
+  "images": [
+   "s02-13-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-13"
+ },
+ {
+  "set": 2,
+  "num": 14,
+  "word": "calumny",
+  "defs": [
+   "the making of false and defamatory statements about someone in order to damage their reputation; slander."
+  ],
+  "images": [
+   "s02-14-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-14"
+ },
+ {
+  "set": 2,
+  "num": 15,
+  "word": "candid",
+  "defs": [
+   "truthful and straightforward; frank."
+  ],
+  "images": [
+   "s02-15-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-15"
+ },
+ {
+  "set": 2,
+  "num": 16,
+  "word": "castigate",
+  "defs": [
+   "reprimand (someone) severely."
+  ],
+  "images": [
+   "s02-16-0.webp"
+  ],
+  "page": 6,
+  "id": "s02-16"
+ },
+ {
+  "set": 2,
+  "num": 17,
+  "word": "caustic",
+  "defs": [
+   "sarcastic in a scathing and bitter way.",
+   "able to burn or corrode organic tissue by chemical action."
+  ],
+  "images": [
+   "s02-17-0.webp"
+  ],
+  "page": 7,
+  "id": "s02-17"
+ },
+ {
+  "set": 2,
+  "num": 18,
+  "word": "construe",
+  "defs": [
+   "interpret (a word or action) in a particular way."
+  ],
+  "images": [
+   "s02-18-0.webp"
+  ],
+  "page": 7,
+  "id": "s02-18"
+ },
+ {
+  "set": 2,
+  "num": 19,
+  "word": "contrite",
+  "defs": [
+   "feeling or expressing remorse at the recognition that one has done wrong."
+  ],
+  "images": [
+   "s02-19-0.webp"
+  ],
+  "page": 7,
+  "id": "s02-19"
+ },
+ {
+  "set": 2,
+  "num": 20,
+  "word": "convoluted",
+  "defs": [
+   "(especially of an argument, story, or sentence) extremely complex and difficult to follow.",
+   "intricately folded, twisted, or coiled."
+  ],
+  "images": [
+   "s02-20-0.webp"
+  ],
+  "page": 7,
+  "id": "s02-20"
+ },
+ {
+  "set": 2,
+  "num": 21,
+  "word": "covet",
+  "defs": [
+   "yearn to possess (something, especially something belonging to another)."
+  ],
+  "images": [
+   "s02-21-0.webp"
+  ],
+  "page": 7,
+  "id": "s02-21"
+ },
+ {
+  "set": 2,
+  "num": 22,
+  "word": "craven",
+  "defs": [
+   "contemptibly lacking in courage; cowardly."
+  ],
+  "images": [
+   "s02-22-0.webp"
+  ],
+  "page": 7,
+  "id": "s02-22"
+ },
+ {
+  "set": 2,
+  "num": 23,
+  "word": "decorum",
+  "defs": [
+   "behaviour in keeping with good taste and propriety."
+  ],
+  "images": [
+   "s02-23-0.webp"
+  ],
+  "page": 8,
+  "id": "s02-23"
+ },
+ {
+  "set": 2,
+  "num": 24,
+  "word": "deft",
+  "defs": [
+   "neatly skilful and quick in one's movements."
+  ],
+  "images": [
+   "s02-24-0.webp"
+  ],
+  "page": 8,
+  "id": "s02-24"
+ },
+ {
+  "set": 2,
+  "num": 25,
+  "word": "demur",
+  "defs": [
+   "raise objections or show reluctance."
+  ],
+  "images": [
+   "s02-25-0.webp"
+  ],
+  "page": 8,
+  "id": "s02-25"
+ },
+ {
+  "set": 2,
+  "num": 26,
+  "word": "derivative",
+  "defs": [
+   "something which is based on another source.",
+   "imitative of the work of another artist, writer, etc., and usually disapproved of for that reason."
+  ],
+  "images": [
+   "s02-26-0.webp"
+  ],
+  "page": 8,
+  "id": "s02-26"
+ },
+ {
+  "set": 2,
+  "num": 27,
+  "word": "desiccate",
+  "defs": [
+   "remove the moisture from (something); cause to become completely dry."
+  ],
+  "images": [
+   "s02-27-0.webp"
+  ],
+  "page": 8,
+  "id": "s02-27"
+ },
+ {
+  "set": 2,
+  "num": 28,
+  "word": "diatribe",
+  "defs": [
+   "a forceful and bitter verbal attack against someone or something."
+  ],
+  "images": [
+   "s02-28-0.webp"
+  ],
+  "page": 8,
+  "id": "s02-28"
+ },
+ {
+  "set": 2,
+  "num": 29,
+  "word": "incredulous",
+  "defs": [
+   "(of a person or their manner) unwilling or unable to believe something."
+  ],
+  "images": [
+   "s02-29-0.webp"
+  ],
+  "page": 9,
+  "id": "s02-29"
+ },
+ {
+  "set": 2,
+  "num": 30,
+  "word": "ingenuous",
+  "defs": [
+   "(of a person or action) innocent and unsuspecting."
+  ],
+  "images": [
+   "s02-30-0.webp"
+  ],
+  "page": 9,
+  "id": "s02-30"
+ },
+ {
+  "set": 3,
+  "num": 1,
+  "word": "abate",
+  "defs": [
+   "(of something unpleasant or severe) become less intense or widespread."
+  ],
+  "images": [
+   "s03-01-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-01"
+ },
+ {
+  "set": 3,
+  "num": 2,
+  "word": "abjure",
+  "defs": [
+   "solemnly renounce (a belief, cause, or claim)."
+  ],
+  "images": [
+   "s03-02-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-02"
+ },
+ {
+  "set": 3,
+  "num": 3,
+  "word": "anomalous",
+  "defs": [
+   "deviating from what is standard, normal, or expected."
+  ],
+  "images": [
+   "s03-03-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-03"
+ },
+ {
+  "set": 3,
+  "num": 4,
+  "word": "antipathy",
+  "defs": [
+   "a deep-seated feeling of aversion."
+  ],
+  "images": [
+   "s03-04-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-04"
+ },
+ {
+  "set": 3,
+  "num": 5,
+  "word": "arcane",
+  "defs": [
+   "understood by few; mysterious or secret."
+  ],
+  "images": [
+   "s03-05-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-05"
+ },
+ {
+  "set": 3,
+  "num": 6,
+  "word": "arduous",
+  "defs": [
+   "involving or requiring strenuous effort; difficult and tiring."
+  ],
+  "images": [
+   "s03-06-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-06"
+ },
+ {
+  "set": 3,
+  "num": 7,
+  "word": "artless",
+  "defs": [
+   "without effort or pretentiousness; natural and simple."
+  ],
+  "images": [
+   "s03-07-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-07"
+ },
+ {
+  "set": 3,
+  "num": 8,
+  "word": "ascetic",
+  "defs": [
+   "characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons."
+  ],
+  "images": [
+   "s03-08-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-08"
+ },
+ {
+  "set": 3,
+  "num": 9,
+  "word": "assuage",
+  "defs": [
+   "make (an unpleasant feeling) less intense."
+  ],
+  "images": [
+   "s03-09-0.webp"
+  ],
+  "page": 10,
+  "id": "s03-09"
+ },
+ {
+  "set": 3,
+  "num": 10,
+  "word": "betray",
+  "defs": [
+   "unintentionally reveal; be evidence of.",
+   "expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy."
+  ],
+  "images": [],
+  "page": 11,
+  "id": "s03-10"
+ },
+ {
+  "set": 3,
+  "num": 11,
+  "word": "bucolic",
+  "defs": [
+   "relating to the pleasant aspects of the countryside and country life."
+  ],
+  "images": [
+   "s03-11-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-11"
+ },
+ {
+  "set": 3,
+  "num": 12,
+  "word": "burgeon",
+  "defs": [
+   "begin to grow or increase rapidly; flourish."
+  ],
+  "images": [
+   "s03-12-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-12"
+ },
+ {
+  "set": 3,
+  "num": 13,
+  "word": "cacophonous",
+  "defs": [
+   "involving or producing a harsh, discordant mixture of sounds."
+  ],
+  "images": [
+   "s03-13-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-13"
+ },
+ {
+  "set": 3,
+  "num": 14,
+  "word": "canonize",
+  "defs": [
+   "place in or regard as belonging to a canon of literary or artistic works.",
+   "(in the Roman Catholic Church) officially declare (a dead person) to be a saint."
+  ],
+  "images": [
+   "s03-14-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-14"
+ },
+ {
+  "set": 3,
+  "num": 15,
+  "word": "censure",
+  "defs": [
+   "express severe disapproval of (someone or something), especially in a formal statement."
+  ],
+  "images": [
+   "s03-15-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-15"
+ },
+ {
+  "set": 3,
+  "num": 16,
+  "word": "chicanery",
+  "defs": [
+   "the use of deception or subterfuge to achieve one's purpose."
+  ],
+  "images": [
+   "s03-16-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-16"
+ },
+ {
+  "set": 3,
+  "num": 17,
+  "word": "coalesce",
+  "defs": [
+   "come together to form one mass or whole."
+  ],
+  "images": [
+   "s03-17-0.webp"
+  ],
+  "page": 11,
+  "id": "s03-17"
+ },
+ {
+  "set": 3,
+  "num": 18,
+  "word": "cogent",
+  "defs": [
+   "(of an argument or case) clear, logical, and convincing."
+  ],
+  "images": [
+   "s03-18-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-18"
+ },
+ {
+  "set": 3,
+  "num": 19,
+  "word": "compelling",
+  "defs": [
+   "evoking interest, attention, or admiration in a powerfully irresistible way."
+  ],
+  "images": [
+   "s03-19-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-19"
+ },
+ {
+  "set": 3,
+  "num": 20,
+  "word": "contend",
+  "defs": [
+   "compete with others in a struggle to achieve (something).",
+   "assert something as a position in an argument."
+  ],
+  "images": [
+   "s03-20-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-20"
+ },
+ {
+  "set": 3,
+  "num": 21,
+  "word": "copious",
+  "defs": [
+   "abundant in supply or quantity."
+  ],
+  "images": [
+   "s03-21-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-21"
+ },
+ {
+  "set": 3,
+  "num": 22,
+  "word": "cosmopolitan",
+  "defs": [
+   "including people from many different countries.",
+   "(of a plant or animal) found all over the world."
+  ],
+  "images": [
+   "s03-22-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-22"
+ },
+ {
+  "set": 3,
+  "num": 23,
+  "word": "deference",
+  "defs": [
+   "polite submission and respect."
+  ],
+  "images": [
+   "s03-23-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-23"
+ },
+ {
+  "set": 3,
+  "num": 24,
+  "word": "desultory",
+  "defs": [
+   "lacking a plan, purpose, or enthusiasm."
+  ],
+  "images": [
+   "s03-24-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-24"
+ },
+ {
+  "set": 3,
+  "num": 25,
+  "word": "diffident",
+  "defs": [
+   "modest or shy because of a lack of self- confidence."
+  ],
+  "images": [
+   "s03-25-0.webp"
+  ],
+  "page": 12,
+  "id": "s03-25"
+ },
+ {
+  "set": 3,
+  "num": 26,
+  "word": "dilatory",
+  "defs": [
+   "slow to act.",
+   "intended to cause delay."
+  ],
+  "images": [
+   "s03-26-0.webp"
+  ],
+  "page": 13,
+  "id": "s03-26"
+ },
+ {
+  "set": 3,
+  "num": 27,
+  "word": "equivocate",
+  "defs": [
+   "use ambiguous language so as to conceal the truth or avoid committing oneself."
+  ],
+  "images": [
+   "s03-27-0.webp"
+  ],
+  "page": 13,
+  "id": "s03-27"
+ },
+ {
+  "set": 3,
+  "num": 28,
+  "word": "polarize",
+  "defs": [
+   "divide or cause to divide into two sharply contrasting groups or sets of opinions or beliefs."
+  ],
+  "images": [
+   "s03-28-0.webp"
+  ],
+  "page": 13,
+  "id": "s03-28"
+ },
+ {
+  "set": 3,
+  "num": 29,
+  "word": "prodigal",
+  "defs": [
+   "spending money or using resources freely and recklessly; wastefully extravagant.",
+   "having or giving something on a lavish scale."
+  ],
+  "images": [
+   "s03-29-0.webp"
+  ],
+  "page": 13,
+  "id": "s03-29"
+ },
+ {
+  "set": 3,
+  "num": 30,
+  "word": "verbose",
+  "defs": [
+   "using or expressed in more words than are needed."
+  ],
+  "images": [
+   "s03-30-0.webp"
+  ],
+  "page": 13,
+  "id": "s03-30"
+ },
+ {
+  "set": 4,
+  "num": 1,
+  "word": "abstain",
+  "defs": [
+   "restrain oneself from doing or enjoying something.",
+   "formally decline to vote either for or against a proposal or motion."
+  ],
+  "images": [
+   "s04-01-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-01"
+ },
+ {
+  "set": 4,
+  "num": 2,
+  "word": "approbation",
+  "defs": [
+   "approval or praise."
+  ],
+  "images": [
+   "s04-02-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-02"
+ },
+ {
+  "set": 4,
+  "num": 3,
+  "word": "cherish",
+  "defs": [
+   "protect and care for (someone) lovingly.",
+   "keep (a hope or ambition) in one's mind."
+  ],
+  "images": [
+   "s04-03-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-03"
+ },
+ {
+  "set": 4,
+  "num": 4,
+  "word": "corroborate",
+  "defs": [
+   "confirm or give support to (a statement, theory, or finding)."
+  ],
+  "images": [
+   "s04-04-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-04"
+ },
+ {
+  "set": 4,
+  "num": 5,
+  "word": "disparate",
+  "defs": [
+   "essentially different in kind; not able to be compared."
+  ],
+  "images": [
+   "s04-05-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-05"
+ },
+ {
+  "set": 4,
+  "num": 6,
+  "word": "emulate",
+  "defs": [
+   "match or surpass (a person or achievement), typically by imitation."
+  ],
+  "images": [
+   "s04-06-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-06"
+ },
+ {
+  "set": 4,
+  "num": 7,
+  "word": "enervate",
+  "defs": [
+   "make (someone) feel drained of energy or vitality."
+  ],
+  "images": [
+   "s04-07-0.webp"
+  ],
+  "page": 14,
+  "id": "s04-07"
+ },
+ {
+  "set": 4,
+  "num": 8,
+  "word": "ephemeral",
+  "defs": [
+   "lasting for a very short time."
+  ],
+  "images": [
+   "s04-08-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-08"
+ },
+ {
+  "set": 4,
+  "num": 9,
+  "word": "fervid",
+  "defs": [
+   "intensely enthusiastic or passionate, especially to an excessive degree."
+  ],
+  "images": [
+   "s04-09-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-09"
+ },
+ {
+  "set": 4,
+  "num": 10,
+  "word": "garrulous",
+  "defs": [
+   "excessively talkative, especially on trivial matters."
+  ],
+  "images": [
+   "s04-10-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-10"
+ },
+ {
+  "set": 4,
+  "num": 11,
+  "word": "incendiary",
+  "defs": [
+   "tending to stir up conflict.",
+   "(of a device or attack) designed to cause fires."
+  ],
+  "images": [
+   "s04-11-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-11"
+ },
+ {
+  "set": 4,
+  "num": 12,
+  "word": "inimical",
+  "defs": [
+   "tending to obstruct or harm."
+  ],
+  "images": [
+   "s04-12-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-12"
+ },
+ {
+  "set": 4,
+  "num": 13,
+  "word": "intimate",
+  "defs": [
+   "closely acquainted; familiar.",
+   "state or make known."
+  ],
+  "images": [
+   "s04-13-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-13"
+ },
+ {
+  "set": 4,
+  "num": 14,
+  "word": "invigorate",
+  "defs": [
+   "give strength or energy to."
+  ],
+  "images": [
+   "s04-14-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-14"
+ },
+ {
+  "set": 4,
+  "num": 15,
+  "word": "mitigate",
+  "defs": [
+   "make (something bad) less severe, serious, or painful."
+  ],
+  "images": [
+   "s04-15-0.webp"
+  ],
+  "page": 15,
+  "id": "s04-15"
+ },
+ {
+  "set": 4,
+  "num": 16,
+  "word": "obsolete",
+  "defs": [
+   "no longer produced or used; out of date."
+  ],
+  "images": [
+   "s04-16-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-16"
+ },
+ {
+  "set": 4,
+  "num": 17,
+  "word": "opaque",
+  "defs": [
+   "not able to be seen through; not transparent.",
+   "(especially of language) hard or impossible to understand."
+  ],
+  "images": [
+   "s04-17-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-17"
+ },
+ {
+  "set": 4,
+  "num": 18,
+  "word": "paradigmatic",
+  "defs": [
+   "serving as a typical example of something.",
+   "of or denoting the relationship between a set of linguistic items that form mutually exclusive choices in particular syntactic roles."
+  ],
+  "images": [
+   "s04-18-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-18"
+ },
+ {
+  "set": 4,
+  "num": 19,
+  "word": "pedantic",
+  "defs": [
+   "excessively concerned with minor details or rules; overscrupulous."
+  ],
+  "images": [
+   "s04-19-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-19"
+ },
+ {
+  "set": 4,
+  "num": 20,
+  "word": "placid",
+  "defs": [
+   "not easily upset or excited.",
+   "calm and peaceful, with little movement or activity."
+  ],
+  "images": [
+   "s04-20-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-20"
+ },
+ {
+  "set": 4,
+  "num": 21,
+  "word": "polemical",
+  "defs": [
+   "of or involving strongly critical or disputatious writing or speech."
+  ],
+  "images": [
+   "s04-21-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-21"
+ },
+ {
+  "set": 4,
+  "num": 22,
+  "word": "precipitate",
+  "defs": [
+   "cause (an event or situation, typically one that is undesirable) to happen suddenly, unexpectedly, or prematurely."
+  ],
+  "images": [
+   "s04-22-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-22"
+ },
+ {
+  "set": 4,
+  "num": 23,
+  "word": "profundity",
+  "defs": [
+   "great depth of insight or knowledge."
+  ],
+  "images": [
+   "s04-23-0.webp"
+  ],
+  "page": 16,
+  "id": "s04-23"
+ },
+ {
+  "set": 4,
+  "num": 24,
+  "word": "prophetic",
+  "defs": [
+   "accurately predicting what will happen in the future."
+  ],
+  "images": [
+   "s04-24-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-24"
+ },
+ {
+  "set": 4,
+  "num": 25,
+  "word": "prudent",
+  "defs": [
+   "acting with or showing care and thought for the future."
+  ],
+  "images": [
+   "s04-25-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-25"
+ },
+ {
+  "set": 4,
+  "num": 26,
+  "word": "punctilious",
+  "defs": [
+   "showing great attention to detail or correct behavior."
+  ],
+  "images": [
+   "s04-26-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-26"
+ },
+ {
+  "set": 4,
+  "num": 27,
+  "word": "recondite",
+  "defs": [
+   "(of a subject or knowledge) little known; abstruse."
+  ],
+  "images": [
+   "s04-27-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-27"
+ },
+ {
+  "set": 4,
+  "num": 28,
+  "word": "scrupulous",
+  "defs": [
+   "(of a person or process) careful, thorough, and extremely attentive to details."
+  ],
+  "images": [
+   "s04-28-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-28"
+ },
+ {
+  "set": 4,
+  "num": 29,
+  "word": "tranquil",
+  "defs": [
+   "free from disturbance; calm."
+  ],
+  "images": [
+   "s04-29-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-29"
+ },
+ {
+  "set": 4,
+  "num": 30,
+  "word": "vacillate",
+  "defs": [
+   "waver between different opinions or actions; be indecisive."
+  ],
+  "images": [
+   "s04-30-0.webp"
+  ],
+  "page": 17,
+  "id": "s04-30"
+ },
+ {
+  "set": 5,
+  "num": 1,
+  "word": "aloof",
+  "defs": [
+   "not friendly or forthcoming; cool and distant."
+  ],
+  "images": [
+   "s05-01-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-01"
+ },
+ {
+  "set": 5,
+  "num": 2,
+  "word": "clangor",
+  "defs": [
+   "a continuous loud banging or ringing sound."
+  ],
+  "images": [
+   "s05-02-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-02"
+ },
+ {
+  "set": 5,
+  "num": 3,
+  "word": "conventional",
+  "defs": [
+   "based on or in accordance with what is generally done or believed.",
+   "(of a bid) intended to convey a particular meaning according to an agreed convention."
+  ],
+  "images": [
+   "s05-03-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-03"
+ },
+ {
+  "set": 5,
+  "num": 4,
+  "word": "debunk",
+  "defs": [
+   "expose the falseness or hollowness of (an idea or belief)."
+  ],
+  "images": [
+   "s05-04-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-04"
+ },
+ {
+  "set": 5,
+  "num": 5,
+  "word": "diminutive",
+  "defs": [
+   "extremely or unusually small.",
+   "(of a word, name, or suffix) implying smallness, either actual or imputed to convey affection,scorn etc."
+  ],
+  "images": [
+   "s05-05-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-05"
+ },
+ {
+  "set": 5,
+  "num": 6,
+  "word": "discernible",
+  "defs": [
+   "able to be discerned; perceptible."
+  ],
+  "images": [
+   "s05-06-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-06"
+ },
+ {
+  "set": 5,
+  "num": 7,
+  "word": "enigmatic",
+  "defs": [
+   "difficult to interpret or understand; mysterious."
+  ],
+  "images": [
+   "s05-07-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-07"
+ },
+ {
+  "set": 5,
+  "num": 8,
+  "word": "estranged",
+  "defs": [
+   "(of a person) no longer close or affectionate to someone; alienated."
+  ],
+  "images": [
+   "s05-08-0.webp"
+  ],
+  "page": 18,
+  "id": "s05-08"
+ },
+ {
+  "set": 5,
+  "num": 9,
+  "word": "extravagant",
+  "defs": [
+   "lacking restraint in spending money or using resources."
+  ],
+  "images": [
+   "s05-09-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-09"
+ },
+ {
+  "set": 5,
+  "num": 10,
+  "word": "fanciful",
+  "defs": [
+   "over-imaginative and unrealistic.",
+   "highly ornamental or imaginative in design."
+  ],
+  "images": [
+   "s05-10-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-10"
+ },
+ {
+  "set": 5,
+  "num": 11,
+  "word": "frivolous",
+  "defs": [
+   "not having any serious purpose or value."
+  ],
+  "images": [
+   "s05-11-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-11"
+ },
+ {
+  "set": 5,
+  "num": 12,
+  "word": "heterogeneous",
+  "defs": [
+   "diverse in character or content."
+  ],
+  "images": [
+   "s05-12-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-12"
+ },
+ {
+  "set": 5,
+  "num": 13,
+  "word": "imperious",
+  "defs": [
+   "arrogant and domineering."
+  ],
+  "images": [
+   "s05-13-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-13"
+ },
+ {
+  "set": 5,
+  "num": 14,
+  "word": "impertinent",
+  "defs": [
+   "not showing proper respect; rude.",
+   "not pertinent to a particular matter; irrelevant."
+  ],
+  "images": [
+   "s05-14-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-14"
+ },
+ {
+  "set": 5,
+  "num": 15,
+  "word": "invasive",
+  "defs": [
+   "tending to spread very quickly and undesirably or harmfully."
+  ],
+  "images": [
+   "s05-15-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-15"
+ },
+ {
+  "set": 5,
+  "num": 16,
+  "word": "irresolute",
+  "defs": [
+   "showing or feeling hesitancy; uncertain."
+  ],
+  "images": [
+   "s05-16-0.webp"
+  ],
+  "page": 19,
+  "id": "s05-16"
+ },
+ {
+  "set": 5,
+  "num": 17,
+  "word": "laudable",
+  "defs": [
+   "(of an action, idea, or aim) deserving praise and commendation."
+  ],
+  "images": [
+   "s05-17-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-17"
+ },
+ {
+  "set": 5,
+  "num": 18,
+  "word": "lax",
+  "defs": [
+   "not sufficiently strict, severe, or careful.",
+   "(of the limbs or muscles) relaxed."
+  ],
+  "images": [
+   "s05-18-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-18"
+ },
+ {
+  "set": 5,
+  "num": 19,
+  "word": "marginalize",
+  "defs": [
+   "treat (a person, group, or concept) as insignificant or peripheral."
+  ],
+  "images": [
+   "s05-19-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-19"
+ },
+ {
+  "set": 5,
+  "num": 20,
+  "word": "panache",
+  "defs": [
+   "flamboyant confidence of style or manner."
+  ],
+  "images": [
+   "s05-20-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-20"
+ },
+ {
+  "set": 5,
+  "num": 21,
+  "word": "plodding",
+  "defs": [
+   "slow-moving and unexciting."
+  ],
+  "images": [
+   "s05-21-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-21"
+ },
+ {
+  "set": 5,
+  "num": 22,
+  "word": "prosaic",
+  "defs": [
+   "having or using the style or diction of prose as opposed to poetry; lacking imaginativeness or originality."
+  ],
+  "images": [
+   "s05-22-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-22"
+ },
+ {
+  "set": 5,
+  "num": 23,
+  "word": "remedial",
+  "defs": [
+   "giving or intended as a remedy or cure."
+  ],
+  "images": [
+   "s05-23-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-23"
+ },
+ {
+  "set": 5,
+  "num": 24,
+  "word": "restive",
+  "defs": [
+   "(of a person) unable to remain still, silent, or submissive, especially because of boredom or dissatisfaction."
+  ],
+  "images": [
+   "s05-24-0.webp"
+  ],
+  "page": 20,
+  "id": "s05-24"
+ },
+ {
+  "set": 5,
+  "num": 25,
+  "word": "sporadic",
+  "defs": [
+   "occurring at irregular intervals or only in a few places; scattered or isolated."
+  ],
+  "images": [
+   "s05-25-0.webp"
+  ],
+  "page": 21,
+  "id": "s05-25"
+ },
+ {
+  "set": 5,
+  "num": 26,
+  "word": "stigmatize",
+  "defs": [
+   "describe or regard as worthy of disgrace or great disapproval."
+  ],
+  "images": [
+   "s05-26-0.webp"
+  ],
+  "page": 21,
+  "id": "s05-26"
+ },
+ {
+  "set": 5,
+  "num": 27,
+  "word": "undermine",
+  "defs": [
+   "lessen the effectiveness, power, or ability of, especially gradually or insidiously.",
+   "erode the base or foundation of (a rock formation)."
+  ],
+  "images": [
+   "s05-27-0.webp"
+  ],
+  "page": 21,
+  "id": "s05-27"
+ },
+ {
+  "set": 5,
+  "num": 28,
+  "word": "utterly",
+  "defs": [
+   "completely and without qualification; absolutely."
+  ],
+  "images": [
+   "s05-28-0.webp"
+  ],
+  "page": 21,
+  "id": "s05-28"
+ },
+ {
+  "set": 5,
+  "num": 29,
+  "word": "weary",
+  "defs": [
+   "feeling or showing extreme tiredness, especially as a result of excessive exertion."
+  ],
+  "images": [
+   "s05-29-0.webp"
+  ],
+  "page": 21,
+  "id": "s05-29"
+ },
+ {
+  "set": 5,
+  "num": 30,
+  "word": "zealous",
+  "defs": [
+   "having or showing zeal."
+  ],
+  "images": [
+   "s05-30-0.webp"
+  ],
+  "page": 21,
+  "id": "s05-30"
+ },
+ {
+  "set": 6,
+  "num": 1,
+  "word": "admonish",
+  "defs": [
+   "warn or reprimand someone firmly."
+  ],
+  "images": [
+   "s06-01-0.webp"
+  ],
+  "page": 22,
+  "id": "s06-01"
+ },
+ {
+  "set": 6,
+  "num": 2,
+  "word": "aesthetic",
+  "defs": [
+   "concerned with beauty or the appreciation of beauty."
+  ],
+  "images": [
+   "s06-02-0.webp"
+  ],
+  "page": 22,
+  "id": "s06-02"
+ },
+ {
+  "set": 6,
+  "num": 3,
+  "word": "affectation",
+  "defs": [
+   "behavior, speech, or writing that is pretentious and designed to impress."
+  ],
+  "images": [
+   "s06-03-0.webp"
+  ],
+  "page": 22,
+  "id": "s06-03"
+ },
+ {
+  "set": 6,
+  "num": 4,
+  "word": "alleviate",
+  "defs": [
+   "make (suffering, deficiency, or a problem) less severe."
+  ],
+  "images": [
+   "s06-04-0.webp"
+  ],
+  "page": 22,
+  "id": "s06-04"
+ },
+ {
+  "set": 6,
+  "num": 5,
+  "word": "analogous",
+  "defs": [
+   "comparable in certain respects, typically in a way which makes clearer the nature of the things compared."
+  ],
+  "images": [
+   "s06-05-0.webp"
+  ],
+  "page": 22,
+  "id": "s06-05"
+ },
+ {
+  "set": 6,
+  "num": 6,
+  "word": "bolster",
+  "defs": [
+   "support or strengthen."
+  ],
+  "images": [
+   "s06-06-0.webp"
+  ],
+  "page": 22,
+  "id": "s06-06"
+ },
+ {
+  "set": 6,
+  "num": 7,
+  "word": "chauvinistic",
+  "defs": [
+   "feeling or displaying aggressive or exaggerated patriotism."
+  ],
+  "images": [
+   "s06-07-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-07"
+ },
+ {
+  "set": 6,
+  "num": 8,
+  "word": "connoisseur",
+  "defs": [
+   "an expert judge in matters of taste."
+  ],
+  "images": [
+   "s06-08-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-08"
+ },
+ {
+  "set": 6,
+  "num": 9,
+  "word": "dissemble",
+  "defs": [
+   "conceal or disguise one's true feelings or beliefs."
+  ],
+  "images": [
+   "s06-09-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-09"
+ },
+ {
+  "set": 6,
+  "num": 10,
+  "word": "dogged",
+  "defs": [
+   "having or showing tenacity and grim persistence."
+  ],
+  "images": [],
+  "page": 23,
+  "id": "s06-10"
+ },
+ {
+  "set": 6,
+  "num": 11,
+  "word": "dupe",
+  "defs": [
+   "deceive; trick."
+  ],
+  "images": [
+   "s06-11-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-11"
+ },
+ {
+  "set": 6,
+  "num": 12,
+  "word": "empirical",
+  "defs": [
+   "based on, concerned with, or verifiable by observation or experience rather than theory or pure logic."
+  ],
+  "images": [],
+  "page": 23,
+  "id": "s06-12"
+ },
+ {
+  "set": 6,
+  "num": 13,
+  "word": "engender",
+  "defs": [
+   "cause or give rise to (a feeling, situation, or condition)."
+  ],
+  "images": [
+   "s06-13-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-13"
+ },
+ {
+  "set": 6,
+  "num": 14,
+  "word": "entitled",
+  "defs": [
+   "believing oneself to be inherently deserving of privileges or special treatment."
+  ],
+  "images": [
+   "s06-14-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-14"
+ },
+ {
+  "set": 6,
+  "num": 15,
+  "word": "pertinacious",
+  "defs": [
+   "holding firmly to an opinion or a course of action."
+  ],
+  "images": [
+   "s06-15-0.webp"
+  ],
+  "page": 23,
+  "id": "s06-15"
+ },
+ {
+  "set": 6,
+  "num": 16,
+  "word": "presumptuous",
+  "defs": [
+   "(of a person or their behaviour) failing to observe the limits of what is permitted or appropriate/overconfident"
+  ],
+  "images": [
+   "s06-16-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-16"
+ },
+ {
+  "set": 6,
+  "num": 17,
+  "word": "probity",
+  "defs": [
+   "the quality of having strong moral principles; honesty and decency."
+  ],
+  "images": [
+   "s06-17-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-17"
+ },
+ {
+  "set": 6,
+  "num": 18,
+  "word": "proliferate",
+  "defs": [
+   "increase rapidly in number; multiply."
+  ],
+  "images": [
+   "s06-18-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-18"
+ },
+ {
+  "set": 6,
+  "num": 19,
+  "word": "specious",
+  "defs": [
+   "superficially plausible, but actually wrong."
+  ],
+  "images": [
+   "s06-19-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-19"
+ },
+ {
+  "set": 6,
+  "num": 20,
+  "word": "spurious",
+  "defs": [
+   "not being what it purports to be; false or fake."
+  ],
+  "images": [
+   "s06-20-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-20"
+ },
+ {
+  "set": 6,
+  "num": 21,
+  "word": "subjective",
+  "defs": [
+   "based on or influenced by personal feelings, tastes, or opinions."
+  ],
+  "images": [],
+  "page": 24,
+  "id": "s06-21"
+ },
+ {
+  "set": 6,
+  "num": 22,
+  "word": "subvert",
+  "defs": [
+   "undermine the power and authority of (an established system or institution)."
+  ],
+  "images": [
+   "s06-22-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-22"
+ },
+ {
+  "set": 6,
+  "num": 23,
+  "word": "timorous",
+  "defs": [
+   "showing or suffering from nervousness or a lack of confidence."
+  ],
+  "images": [
+   "s06-23-0.webp"
+  ],
+  "page": 24,
+  "id": "s06-23"
+ },
+ {
+  "set": 6,
+  "num": 24,
+  "word": "tortuous",
+  "defs": [
+   "full of twists and turns.",
+   "excessively lengthy and complex."
+  ],
+  "images": [
+   "s06-24-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-24"
+ },
+ {
+  "set": 6,
+  "num": 25,
+  "word": "tractable",
+  "defs": [
+   "easy to control or influence."
+  ],
+  "images": [
+   "s06-25-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-25"
+ },
+ {
+  "set": 6,
+  "num": 26,
+  "word": "transient",
+  "defs": [
+   "lasting only for a short time; impermanent."
+  ],
+  "images": [
+   "s06-26-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-26"
+ },
+ {
+  "set": 6,
+  "num": 27,
+  "word": "ubiquitous",
+  "defs": [
+   "present, appearing, or found everywhere."
+  ],
+  "images": [
+   "s06-27-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-27"
+ },
+ {
+  "set": 6,
+  "num": 28,
+  "word": "underscore",
+  "defs": [
+   "emphasize."
+  ],
+  "images": [
+   "s06-28-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-28"
+ },
+ {
+  "set": 6,
+  "num": 29,
+  "word": "venal",
+  "defs": [
+   "showing or motivated by susceptibility to bribery; corrupt."
+  ],
+  "images": [
+   "s06-29-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-29"
+ },
+ {
+  "set": 6,
+  "num": 30,
+  "word": "venerate",
+  "defs": [
+   "regard with great respect; revere."
+  ],
+  "images": [
+   "s06-30-0.webp"
+  ],
+  "page": 25,
+  "id": "s06-30"
+ },
+ {
+  "set": 7,
+  "num": 1,
+  "word": "appease",
+  "defs": [
+   "pacify or placate (someone) by acceding to their demands.",
+   "assuage or satisfy (a demand or a feeling)."
+  ],
+  "images": [
+   "s07-01-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-01"
+ },
+ {
+  "set": 7,
+  "num": 2,
+  "word": "arbitrary",
+  "defs": [
+   "based on random choice or personal whim, rather than any reason or system.",
+   "(of power or a ruling body) unrestrained and autocratic in the use of authority."
+  ],
+  "images": [
+   "s07-02-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-02"
+ },
+ {
+  "set": 7,
+  "num": 3,
+  "word": "archaic",
+  "defs": [
+   "very old or old-fashioned."
+  ],
+  "images": [
+   "s07-03-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-03"
+ },
+ {
+  "set": 7,
+  "num": 4,
+  "word": "clamorous",
+  "defs": [
+   "making a loud and confused noise.",
+   "expressing or characterized by vehement protests or demands."
+  ],
+  "images": [
+   "s07-04-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-04"
+ },
+ {
+  "set": 7,
+  "num": 5,
+  "word": "dearth",
+  "defs": [
+   "a scarcity or lack of something."
+  ],
+  "images": [
+   "s07-05-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-05"
+ },
+ {
+  "set": 7,
+  "num": 6,
+  "word": "explicable",
+  "defs": [
+   "able to be accounted for or understood."
+  ],
+  "images": [
+   "s07-06-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-06"
+ },
+ {
+  "set": 7,
+  "num": 7,
+  "word": "hyperbole",
+  "defs": [
+   "exaggerated statements or claims not meant to be taken literally."
+  ],
+  "images": [
+   "s07-07-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-07"
+ },
+ {
+  "set": 7,
+  "num": 8,
+  "word": "immutable",
+  "defs": [
+   "unchanging over time or unable to be changed."
+  ],
+  "images": [
+   "s07-08-0.webp"
+  ],
+  "page": 26,
+  "id": "s07-08"
+ },
+ {
+  "set": 7,
+  "num": 9,
+  "word": "indefatigable",
+  "defs": [
+   "(of a person or their efforts) persisting tirelessly."
+  ],
+  "images": [
+   "s07-09-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-09"
+ },
+ {
+  "set": 7,
+  "num": 10,
+  "word": "indolent",
+  "defs": [
+   "wanting to avoid activity or exertion; lazy.",
+   "(of a disease or condition) causing little or no pain."
+  ],
+  "images": [
+   "s07-10-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-10"
+ },
+ {
+  "set": 7,
+  "num": 11,
+  "word": "insular",
+  "defs": [
+   "ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience."
+  ],
+  "images": [
+   "s07-11-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-11"
+ },
+ {
+  "set": 7,
+  "num": 12,
+  "word": "intransigent",
+  "defs": [
+   "unwilling or refusing to change one's views or to agree about something."
+  ],
+  "images": [
+   "s07-12-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-12"
+ },
+ {
+  "set": 7,
+  "num": 13,
+  "word": "intrepid",
+  "defs": [
+   "fearless; adventurous (often used for rhetorical or humorous effect)."
+  ],
+  "images": [
+   "s07-13-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-13"
+ },
+ {
+  "set": 7,
+  "num": 14,
+  "word": "irreverent",
+  "defs": [
+   "showing a lack of respect for people or things that are generally taken seriously."
+  ],
+  "images": [
+   "s07-14-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-14"
+ },
+ {
+  "set": 7,
+  "num": 15,
+  "word": "loathe",
+  "defs": [
+   "feel intense dislike or disgust for."
+  ],
+  "images": [
+   "s07-15-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-15"
+ },
+ {
+  "set": 7,
+  "num": 16,
+  "word": "malign",
+  "defs": [
+   "evil in nature or effect.",
+   "speak about (someone) in a spitefully critical manner."
+  ],
+  "images": [
+   "s07-16-0.webp"
+  ],
+  "page": 27,
+  "id": "s07-16"
+ },
+ {
+  "set": 7,
+  "num": 17,
+  "word": "malleable",
+  "defs": [
+   "easily influenced; pliable."
+  ],
+  "images": [
+   "s07-17-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-17"
+ },
+ {
+  "set": 7,
+  "num": 18,
+  "word": "neophyte",
+  "defs": [
+   "a person who is new to a subject or activity.",
+   "a new convert to a religion."
+  ],
+  "images": [
+   "s07-18-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-18"
+ },
+ {
+  "set": 7,
+  "num": 19,
+  "word": "plastic",
+  "defs": [
+   "not genuine; artificial or unnatural.",
+   "(of a substance or material) easily shaped or moulded."
+  ],
+  "images": [
+   "s07-19-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-19"
+ },
+ {
+  "set": 7,
+  "num": 20,
+  "word": "platitude",
+  "defs": [
+   "a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful."
+  ],
+  "images": [
+   "s07-20-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-20"
+ },
+ {
+  "set": 7,
+  "num": 21,
+  "word": "prescient",
+  "defs": [
+   "having or showing knowledge of events before they take place."
+  ],
+  "images": [
+   "s07-21-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-21"
+ },
+ {
+  "set": 7,
+  "num": 22,
+  "word": "pristine",
+  "defs": [
+   "in its original condition; unspoilt."
+  ],
+  "images": [
+   "s07-22-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-22"
+ },
+ {
+  "set": 7,
+  "num": 23,
+  "word": "reproach",
+  "defs": [
+   "express to (someone) one's disapproval of or disappointment in their actions."
+  ],
+  "images": [
+   "s07-23-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-23"
+ },
+ {
+  "set": 7,
+  "num": 24,
+  "word": "robust",
+  "defs": [
+   "strong and healthy; vigorous.",
+   "(of wine or food) strong and rich in flavour or smell."
+  ],
+  "images": [
+   "s07-24-0.webp"
+  ],
+  "page": 28,
+  "id": "s07-24"
+ },
+ {
+  "set": 7,
+  "num": 25,
+  "word": "salubrious",
+  "defs": [
+   "health-giving; healthy.",
+   "(of a place) pleasant; not run-down."
+  ],
+  "images": [
+   "s07-25-0.webp"
+  ],
+  "page": 29,
+  "id": "s07-25"
+ },
+ {
+  "set": 7,
+  "num": 26,
+  "word": "sanction",
+  "defs": [
+   "a threatened penalty for disobeying a law or rule.",
+   "official permission or approval for an action."
+  ],
+  "images": [
+   "s07-26-0.webp"
+  ],
+  "page": 29,
+  "id": "s07-26"
+ },
+ {
+  "set": 7,
+  "num": 27,
+  "word": "sedulous",
+  "defs": [
+   "(of a person or action) showing dedication and diligence."
+  ],
+  "images": [
+   "s07-27-0.webp"
+  ],
+  "page": 29,
+  "id": "s07-27"
+ },
+ {
+  "set": 7,
+  "num": 28,
+  "word": "soporific",
+  "defs": [
+   "tending to induce drowsiness or sleep."
+  ],
+  "images": [
+   "s07-28-0.webp"
+  ],
+  "page": 29,
+  "id": "s07-28"
+ },
+ {
+  "set": 7,
+  "num": 29,
+  "word": "stern",
+  "defs": [
+   "(of a person or their manner) serious and unrelenting, especially in the assertion of authority and exercise of discipline."
+  ],
+  "images": [
+   "s07-29-0.webp"
+  ],
+  "page": 29,
+  "id": "s07-29"
+ },
+ {
+  "set": 7,
+  "num": 30,
+  "word": "tendentious",
+  "defs": [
+   "expressing or intending to promote a particular cause or point of view, especially a controversial one."
+  ],
+  "images": [
+   "s07-30-0.webp"
+  ],
+  "page": 29,
+  "id": "s07-30"
+ },
+ {
+  "set": 8,
+  "num": 1,
+  "word": "accentuate",
+  "defs": [
+   "make more noticeable or prominent."
+  ],
+  "images": [
+   "s08-01-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-01"
+ },
+ {
+  "set": 8,
+  "num": 2,
+  "word": "conjectural",
+  "defs": [
+   "based on or involving conjecture."
+  ],
+  "images": [
+   "s08-02-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-02"
+ },
+ {
+  "set": 8,
+  "num": 3,
+  "word": "convivial",
+  "defs": [
+   "friendly, lively, and enjoyable."
+  ],
+  "images": [],
+  "page": 30,
+  "id": "s08-03"
+ },
+ {
+  "set": 8,
+  "num": 4,
+  "word": "decadent",
+  "defs": [
+   "characterized by or reflecting a state of moral or cultural decline."
+  ],
+  "images": [],
+  "page": 30,
+  "id": "s08-04"
+ },
+ {
+  "set": 8,
+  "num": 5,
+  "word": "egregious",
+  "defs": [
+   "outstandingly bad; shocking."
+  ],
+  "images": [
+   "s08-05-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-05"
+ },
+ {
+  "set": 8,
+  "num": 6,
+  "word": "evanescent",
+  "defs": [
+   "soon passing out of sight, memory, or existence; quickly fading or disappearing."
+  ],
+  "images": [
+   "s08-06-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-06"
+ },
+ {
+  "set": 8,
+  "num": 7,
+  "word": "flamboyant",
+  "defs": [
+   "(of a person or their behaviour) tending to attract attention because of their exuberance, confidence, and stylishness.",
+   "bright, colourful, and very noticeable."
+  ],
+  "images": [
+   "s08-07-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-07"
+ },
+ {
+  "set": 8,
+  "num": 8,
+  "word": "forestall",
+  "defs": [
+   "prevent or obstruct (an anticipated event or action) by taking advance action."
+  ],
+  "images": [
+   "s08-08-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-08"
+ },
+ {
+  "set": 8,
+  "num": 9,
+  "word": "gainsay",
+  "defs": [
+   "deny or contradict (a fact or statement)."
+  ],
+  "images": [
+   "s08-09-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-09"
+ },
+ {
+  "set": 8,
+  "num": 10,
+  "word": "galvanize",
+  "defs": [
+   "shock or excite (someone) into taking action.",
+   "coat (iron or steel) with a protective layer of zinc."
+  ],
+  "images": [
+   "s08-10-0.webp"
+  ],
+  "page": 30,
+  "id": "s08-10"
+ },
+ {
+  "set": 8,
+  "num": 11,
+  "word": "indiscriminate",
+  "defs": [
+   "done at random or without careful judgement."
+  ],
+  "images": [
+   "s08-11-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-11"
+ },
+ {
+  "set": 8,
+  "num": 12,
+  "word": "innocuous",
+  "defs": [
+   "not harmful or offensive."
+  ],
+  "images": [
+   "s08-12-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-12"
+ },
+ {
+  "set": 8,
+  "num": 13,
+  "word": "momentary",
+  "defs": [
+   "lasting for a very short time; brief."
+  ],
+  "images": [
+   "s08-13-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-13"
+ },
+ {
+  "set": 8,
+  "num": 14,
+  "word": "mundane",
+  "defs": [
+   "lacking interest or excitement; dull.",
+   "of this earthly world rather than a heavenly or spiritual one."
+  ],
+  "images": [
+   "s08-14-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-14"
+ },
+ {
+  "set": 8,
+  "num": 15,
+  "word": "nettlesome",
+  "defs": [
+   "causing annoyance or difficulty."
+  ],
+  "images": [
+   "s08-15-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-15"
+ },
+ {
+  "set": 8,
+  "num": 16,
+  "word": "nullify",
+  "defs": [
+   "make legally null and void; invalidate."
+  ],
+  "images": [
+   "s08-16-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-16"
+ },
+ {
+  "set": 8,
+  "num": 17,
+  "word": "obviate",
+  "defs": [
+   "remove (a need or difficulty).",
+   "avoid or prevent (something undesirable)."
+  ],
+  "images": [
+   "s08-17-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-17"
+ },
+ {
+  "set": 8,
+  "num": 18,
+  "word": "omnipresent",
+  "defs": [
+   "widely or constantly encountered; widespread."
+  ],
+  "images": [
+   "s08-18-0.webp"
+  ],
+  "page": 31,
+  "id": "s08-18"
+ },
+ {
+  "set": 8,
+  "num": 19,
+  "word": "oust",
+  "defs": [
+   "drive out or expel (someone) from a position or place."
+  ],
+  "images": [
+   "s08-19-0.webp"
+  ],
+  "page": 32,
+  "id": "s08-19"
+ },
+ {
+  "set": 8,
+  "num": 20,
+  "word": "palpable",
+  "defs": [
+   "(of a feeling or atmosphere) so intense as to seem almost tangible.",
+   "able to be touched or felt."
+  ],
+  "images": [
+   "s08-20-0.webp"
+  ],
+  "page": 32,
+  "id": "s08-20"
+ },
+ {
+  "set": 8,
+  "num": 21,
+  "word": "perfidy",
+  "defs": [
+   "the state of being deceitful and untrustworthy."
+  ],
+  "images": [
+   "s08-21-0.webp"
+  ],
+  "page": 32,
+  "id": "s08-21"
+ },
+ {
+  "set": 8,
+  "num": 22,
+  "word": "profuse",
+  "defs": [
+   "(especially of something offered or discharged) very plentiful; abundant."
+  ],
+  "images": [
+   "s08-22-0.webp"
+  ],
+  "page": 32,
+  "id": "s08-22"
+ },
+ {
+  "set": 8,
+  "num": 23,
+  "word": "pugnacious",
+  "defs": [
+   "eager or quick to argue, quarrel, or fight."
+  ],
+  "images": [
+   "s08-23-0.webp"
+  ],
+  "page": 32,
+  "id": "s08-23"
+ },
+ {
+  "set": 8,
+  "num": 24,
+  "word": "sagacious",
+  "defs": [
+   "having or showing keen mental discernment and good judgement; wise or shrewd."
+  ],
+  "images": [
+   "s08-24-0.webp"
+  ],
+  "page": 32,
+  "id": "s08-24"
+ },
+ {
+  "set": 8,
+  "num": 25,
+  "word": "sanguine",
+  "defs": [
+   "optimistic or positive, especially in an apparently bad or difficult situation."
+  ],
+  "images": [
+   "s08-25-0.webp"
+  ],
+  "page": 33,
+  "id": "s08-25"
+ },
+ {
+  "set": 8,
+  "num": 26,
+  "word": "scant",
+  "defs": [
+   "barely sufficient or adequate."
+  ],
+  "images": [
+   "s08-26-0.webp"
+  ],
+  "page": 33,
+  "id": "s08-26"
+ },
+ {
+  "set": 8,
+  "num": 27,
+  "word": "skulduggery",
+  "defs": [
+   "underhand, unscrupulous, or dishonest behaviour or activities."
+  ],
+  "images": [
+   "s08-27-0.webp"
+  ],
+  "page": 33,
+  "id": "s08-27"
+ },
+ {
+  "set": 8,
+  "num": 28,
+  "word": "trivial",
+  "defs": [
+   "of little value or importance."
+  ],
+  "images": [
+   "s08-28-0.webp"
+  ],
+  "page": 33,
+  "id": "s08-28"
+ },
+ {
+  "set": 8,
+  "num": 29,
+  "word": "utilitarian",
+  "defs": [
+   "designed to be useful or practical rather than attractive.",
+   "relating to or adhering to the doctrine of utilitarianism."
+  ],
+  "images": [
+   "s08-29-0.webp"
+  ],
+  "page": 33,
+  "id": "s08-29"
+ },
+ {
+  "set": 8,
+  "num": 30,
+  "word": "vapid",
+  "defs": [
+   "offering nothing that is stimulating or challenging; bland."
+  ],
+  "images": [
+   "s08-30-0.webp"
+  ],
+  "page": 33,
+  "id": "s08-30"
+ },
+ {
+  "set": 9,
+  "num": 1,
+  "word": "boorish",
+  "defs": [
+   "rough and bad-mannered; coarse."
+  ],
+  "images": [
+   "s09-01-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-01"
+ },
+ {
+  "set": 9,
+  "num": 2,
+  "word": "brook",
+  "defs": [
+   "a small stream."
+  ],
+  "images": [
+   "s09-02-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-02"
+ },
+ {
+  "set": 9,
+  "num": 3,
+  "word": "circumspect",
+  "defs": [
+   "wary and unwilling to take risks."
+  ],
+  "images": [
+   "s09-03-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-03"
+ },
+ {
+  "set": 9,
+  "num": 4,
+  "word": "comity",
+  "defs": [
+   "an association of nations for their mutual benefit.",
+   "courtesy and considerate behavior towards others."
+  ],
+  "images": [
+   "s09-04-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-04"
+ },
+ {
+  "set": 9,
+  "num": 5,
+  "word": "commensurate",
+  "defs": [
+   "corresponding in size or degree; in proportion."
+  ],
+  "images": [
+   "s09-05-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-05"
+ },
+ {
+  "set": 9,
+  "num": 6,
+  "word": "cordial",
+  "defs": [
+   "warm and friendly.",
+   "strongly felt."
+  ],
+  "images": [
+   "s09-06-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-06"
+ },
+ {
+  "set": 9,
+  "num": 7,
+  "word": "deleterious",
+  "defs": [
+   "causing harm or damage."
+  ],
+  "images": [
+   "s09-07-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-07"
+ },
+ {
+  "set": 9,
+  "num": 8,
+  "word": "dichotomy",
+  "defs": [
+   "a division or contrast between two things that are or are represented as being opposed or entirely different."
+  ],
+  "images": [
+   "s09-08-0.webp"
+  ],
+  "page": 34,
+  "id": "s09-08"
+ },
+ {
+  "set": 9,
+  "num": 9,
+  "word": "edify",
+  "defs": [
+   "instruct or improve (someone) morally or intellectually."
+  ],
+  "images": [
+   "s09-09-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-09"
+ },
+ {
+  "set": 9,
+  "num": 10,
+  "word": "elicit",
+  "defs": [
+   "evoke or draw out (a reaction, answer, or fact) from someone."
+  ],
+  "images": [
+   "s09-10-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-10"
+ },
+ {
+  "set": 9,
+  "num": 11,
+  "word": "erudite",
+  "defs": [
+   "having or showing great knowledge or learning."
+  ],
+  "images": [
+   "s09-11-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-11"
+ },
+ {
+  "set": 9,
+  "num": 12,
+  "word": "fecund",
+  "defs": [
+   "producing or capable of producing an abundance of offspring or new growth; highly fertile."
+  ],
+  "images": [
+   "s09-12-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-12"
+ },
+ {
+  "set": 9,
+  "num": 13,
+  "word": "feeble",
+  "defs": [
+   "lacking physical strength, especially as a result of age or illness.",
+   "lacking strength of character.",
+   "failing to convince or impress."
+  ],
+  "images": [
+   "s09-13-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-13"
+ },
+ {
+  "set": 9,
+  "num": 14,
+  "word": "felicitous",
+  "defs": [
+   "well chosen or suited to the circumstances..",
+   "pleasing and fortunate."
+  ],
+  "images": [
+   "s09-14-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-14"
+ },
+ {
+  "set": 9,
+  "num": 15,
+  "word": "forbear",
+  "defs": [
+   "politely or patiently restrain an impulse to do something; refrain."
+  ],
+  "images": [
+   "s09-15-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-15"
+ },
+ {
+  "set": 9,
+  "num": 16,
+  "word": "haphazard",
+  "defs": [
+   "lacking any obvious principle of organization."
+  ],
+  "images": [
+   "s09-16-0.webp"
+  ],
+  "page": 35,
+  "id": "s09-16"
+ },
+ {
+  "set": 9,
+  "num": 17,
+  "word": "hodgepodge",
+  "defs": [
+   "a confused mixture; a hotchpotch."
+  ],
+  "images": [
+   "s09-17-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-17"
+ },
+ {
+  "set": 9,
+  "num": 18,
+  "word": "impede",
+  "defs": [
+   "delay or prevent (someone or something) by obstructing them; hinder."
+  ],
+  "images": [
+   "s09-18-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-18"
+ },
+ {
+  "set": 9,
+  "num": 19,
+  "word": "impetuous",
+  "defs": [
+   "acting or done quickly and without thought or care."
+  ],
+  "images": [
+   "s09-19-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-19"
+ },
+ {
+  "set": 9,
+  "num": 20,
+  "word": "irascible",
+  "defs": [
+   "having or showing a tendency to be easily angered."
+  ],
+  "images": [
+   "s09-20-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-20"
+ },
+ {
+  "set": 9,
+  "num": 21,
+  "word": "mercenary",
+  "defs": [
+   "primarily concerned with making money at the expense of ethics.",
+   "a professional soldier hired to serve in a foreign army."
+  ],
+  "images": [
+   "s09-21-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-21"
+ },
+ {
+  "set": 9,
+  "num": 22,
+  "word": "meticulous",
+  "defs": [
+   "showing great attention to detail; very careful and precise."
+  ],
+  "images": [
+   "s09-22-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-22"
+ },
+ {
+  "set": 9,
+  "num": 23,
+  "word": "mordant",
+  "defs": [
+   "especially of humor) having or showing a sharp or critical quality; biting."
+  ],
+  "images": [
+   "s09-23-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-23"
+ },
+ {
+  "set": 9,
+  "num": 24,
+  "word": "outstrip",
+  "defs": [
+   "move faster than and overtake (someone else)./exceed"
+  ],
+  "images": [
+   "s09-24-0.webp"
+  ],
+  "page": 36,
+  "id": "s09-24"
+ },
+ {
+  "set": 9,
+  "num": 25,
+  "word": "precarious",
+  "defs": [
+   "not securely held or in position; dangerously likely to fall or collapse."
+  ],
+  "images": [
+   "s09-25-0.webp"
+  ],
+  "page": 37,
+  "id": "s09-25"
+ },
+ {
+  "set": 9,
+  "num": 26,
+  "word": "quirky",
+  "defs": [
+   "having or characterized by peculiar or unexpected traits or aspects."
+  ],
+  "images": [
+   "s09-26-0.webp"
+  ],
+  "page": 37,
+  "id": "s09-26"
+ },
+ {
+  "set": 9,
+  "num": 27,
+  "word": "repudiate",
+  "defs": [
+   "refuse to accept; reject.",
+   "deny the truth or validity of."
+  ],
+  "images": [
+   "s09-27-0.webp"
+  ],
+  "page": 37,
+  "id": "s09-27"
+ },
+ {
+  "set": 9,
+  "num": 28,
+  "word": "tact",
+  "defs": [
+   "skill and sensitivity in dealing with others or with difficult issues."
+  ],
+  "images": [
+   "s09-28-0.webp"
+  ],
+  "page": 37,
+  "id": "s09-28"
+ },
+ {
+  "set": 9,
+  "num": 29,
+  "word": "trifling",
+  "defs": [
+   "unimportant or trivial."
+  ],
+  "images": [
+   "s09-29-0.webp"
+  ],
+  "page": 37,
+  "id": "s09-29"
+ },
+ {
+  "set": 9,
+  "num": 30,
+  "word": "turbulent",
+  "defs": [
+   "characterized by conflict, disorder, or confusion; not stable or calm."
+  ],
+  "images": [
+   "s09-30-0.webp"
+  ],
+  "page": 37,
+  "id": "s09-30"
+ },
+ {
+  "set": 10,
+  "num": 1,
+  "word": "acumen",
+  "defs": [
+   "the ability to make good judgments and take quick decisions."
+  ],
+  "images": [],
+  "page": 38,
+  "id": "s10-01"
+ },
+ {
+  "set": 10,
+  "num": 2,
+  "word": "antithesis",
+  "defs": [
+   "a person or thing that is the direct opposite of someone or something else.",
+   "(in Hegelian philosophy) the negation of the thesis as the second stage in the process of dialectical reasoning."
+  ],
+  "images": [
+   "s10-02-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-02"
+ },
+ {
+  "set": 10,
+  "num": 3,
+  "word": "ascribe",
+  "defs": [
+   "regard something as being due to (a cause)./assign"
+  ],
+  "images": [
+   "s10-03-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-03"
+ },
+ {
+  "set": 10,
+  "num": 4,
+  "word": "befuddled",
+  "defs": [
+   "cause to become unable to think clearly."
+  ],
+  "images": [
+   "s10-04-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-04"
+ },
+ {
+  "set": 10,
+  "num": 5,
+  "word": "eschew",
+  "defs": [
+   "deliberately avoid using; abstain from."
+  ],
+  "images": [
+   "s10-05-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-05"
+ },
+ {
+  "set": 10,
+  "num": 6,
+  "word": "esoteric",
+  "defs": [
+   "intended for or likely to be understood by only a small number of people with a specialized knowledge or interest."
+  ],
+  "images": [
+   "s10-06-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-06"
+ },
+ {
+  "set": 10,
+  "num": 7,
+  "word": "evasive",
+  "defs": [
+   "tending to avoid commitment or self-revelation, especially by responding only indirectly."
+  ],
+  "images": [
+   "s10-07-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-07"
+ },
+ {
+  "set": 10,
+  "num": 8,
+  "word": "exculpate",
+  "defs": [
+   "show or declare that (someone) is not guilty of wrongdoing."
+  ],
+  "images": [
+   "s10-08-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-08"
+ },
+ {
+  "set": 10,
+  "num": 9,
+  "word": "expedite",
+  "defs": [
+   "make (an action or process) happen sooner or be accomplished more quickly."
+  ],
+  "images": [
+   "s10-09-0.webp"
+  ],
+  "page": 38,
+  "id": "s10-09"
+ },
+ {
+  "set": 10,
+  "num": 10,
+  "word": "fastidious",
+  "defs": [
+   "very attentive to and concerned about accuracy and detail."
+  ],
+  "images": [
+   "s10-10-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-10"
+ },
+ {
+  "set": 10,
+  "num": 11,
+  "word": "feign",
+  "defs": [
+   "pretend to be affected by (a feeling, state, or injury)."
+  ],
+  "images": [
+   "s10-11-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-11"
+ },
+ {
+  "set": 10,
+  "num": 12,
+  "word": "furtive",
+  "defs": [
+   "attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive."
+  ],
+  "images": [
+   "s10-12-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-12"
+ },
+ {
+  "set": 10,
+  "num": 13,
+  "word": "hamper",
+  "defs": [
+   "hinder or impede the movement or progress of.",
+   "a basket with a carrying handle and a hinged lid, used for food, cutlery, and plates on a picnic."
+  ],
+  "images": [
+   "s10-13-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-13"
+ },
+ {
+  "set": 10,
+  "num": 14,
+  "word": "indispensable",
+  "defs": [
+   "absolutely necessary."
+  ],
+  "images": [
+   "s10-14-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-14"
+ },
+ {
+  "set": 10,
+  "num": 15,
+  "word": "lament",
+  "defs": [
+   "a passionate expression of grief or sorrow."
+  ],
+  "images": [
+   "s10-15-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-15"
+ },
+ {
+  "set": 10,
+  "num": 16,
+  "word": "myopic",
+  "defs": [
+   "short-sighted.",
+   "lacking foresight or intellectual insight."
+  ],
+  "images": [
+   "s10-16-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-16"
+ },
+ {
+  "set": 10,
+  "num": 17,
+  "word": "nonchalant",
+  "defs": [
+   "(of a person or manner) feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm."
+  ],
+  "images": [
+   "s10-17-0.webp"
+  ],
+  "page": 39,
+  "id": "s10-17"
+ },
+ {
+  "set": 10,
+  "num": 18,
+  "word": "partial",
+  "defs": [
+   "existing only in part; incomplete.",
+   "favoring one side in a dispute above the other; biased.",
+   "having a liking for."
+  ],
+  "images": [
+   "s10-18-0.webp"
+  ],
+  "page": 40,
+  "id": "s10-18"
+ },
+ {
+  "set": 10,
+  "num": 19,
+  "word": "pensive",
+  "defs": [
+   "engaged in, involving, or reflecting deep or serious thought."
+  ],
+  "images": [
+   "s10-19-0.webp"
+  ],
+  "page": 40,
+  "id": "s10-19"
+ },
+ {
+  "set": 10,
+  "num": 20,
+  "word": "portend",
+  "defs": [
+   "be a sign of warning that (something, especially something momentous or calamitous) is likely to happen."
+  ],
+  "images": [
+   "s10-20-0.webp"
+  ],
+  "page": 40,
+  "id": "s10-20"
+ },
+ {
+  "set": 10,
+  "num": 21,
+  "word": "provincial",
+  "defs": [
+   "of or concerning a province of a country or empire.",
+   "of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded."
+  ],
+  "images": [],
+  "page": 40,
+  "id": "s10-21"
+ },
+ {
+  "set": 10,
+  "num": 22,
+  "word": "rudimentary",
+  "defs": [
+   "involving or limited to basic principles."
+  ],
+  "images": [
+   "s10-22-0.webp"
+  ],
+  "page": 40,
+  "id": "s10-22"
+ },
+ {
+  "set": 10,
+  "num": 23,
+  "word": "salutary",
+  "defs": [
+   "(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial."
+  ],
+  "images": [
+   "s10-23-0.webp"
+  ],
+  "page": 40,
+  "id": "s10-23"
+ },
+ {
+  "set": 10,
+  "num": 24,
+  "word": "sever",
+  "defs": [
+   "divide by cutting or slicing, especially suddenly and forcibly.",
+   "put an end to (a connection or relationship); break off."
+  ],
+  "images": [
+   "s10-24-0.webp"
+  ],
+  "page": 40,
+  "id": "s10-24"
+ },
+ {
+  "set": 10,
+  "num": 25,
+  "word": "slight",
+  "defs": [
+   "insult (someone) by treating or speaking of them without proper respect or attention.",
+   "small in degree; inconsiderable.",
+   "(of a person or their build) not sturdy; thin or slender."
+  ],
+  "images": [
+   "s10-25-0.webp"
+  ],
+  "page": 41,
+  "id": "s10-25"
+ },
+ {
+  "set": 10,
+  "num": 26,
+  "word": "somnolent",
+  "defs": [
+   "sleepy; drowsy."
+  ],
+  "images": [
+   "s10-26-0.webp"
+  ],
+  "page": 41,
+  "id": "s10-26"
+ },
+ {
+  "set": 10,
+  "num": 27,
+  "word": "stoic",
+  "defs": [
+   "a person who can endure pain or hardship without showing their feelings or complaining.",
+   "a member of the ancient philosophical school of Stoicism."
+  ],
+  "images": [
+   "s10-27-0.webp"
+  ],
+  "page": 41,
+  "id": "s10-27"
+ },
+ {
+  "set": 10,
+  "num": 28,
+  "word": "supersede",
+  "defs": [
+   "take the place of (a person or thing previously in authority or use); supplant."
+  ],
+  "images": [
+   "s10-28-0.webp"
+  ],
+  "page": 41,
+  "id": "s10-28"
+ },
+ {
+  "set": 10,
+  "num": 29,
+  "word": "tout",
+  "defs": [
+   "attempt to sell (something), typically by a direct or persistent approach.",
+   "attempt to persuade people of the merits of."
+  ],
+  "images": [
+   "s10-29-0.webp"
+  ],
+  "page": 41,
+  "id": "s10-29"
+ },
+ {
+  "set": 10,
+  "num": 30,
+  "word": "wane",
+  "defs": [
+   "(of a state or feeling) decrease in vigor or extent; become weaker.",
+   "(of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size."
+  ],
+  "images": [
+   "s10-30-0.webp"
+  ],
+  "page": 41,
+  "id": "s10-30"
+ },
+ {
+  "set": 11,
+  "num": 1,
+  "word": "abhor",
+  "defs": [
+   "regard with disgust and hatred."
+  ],
+  "images": [
+   "s11-01-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-01"
+ },
+ {
+  "set": 11,
+  "num": 2,
+  "word": "boisterous",
+  "defs": [
+   "noisy, energetic, and cheerful.",
+   "(of weather or water) wild or stormy."
+  ],
+  "images": [
+   "s11-02-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-02"
+ },
+ {
+  "set": 11,
+  "num": 3,
+  "word": "chivalrous",
+  "defs": [
+   "(of a man or his behaviour) courteous and gallant, especially towards women. 2. relating to the historical concept of chivalry."
+  ],
+  "images": [
+   "s11-03-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-03"
+ },
+ {
+  "set": 11,
+  "num": 4,
+  "word": "churlish",
+  "defs": [
+   "rude in a mean-spirited and surly way."
+  ],
+  "images": [
+   "s11-04-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-04"
+ },
+ {
+  "set": 11,
+  "num": 5,
+  "word": "clandestine",
+  "defs": [
+   "kept secret or done secretively, especially because illicit."
+  ],
+  "images": [
+   "s11-05-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-05"
+ },
+ {
+  "set": 11,
+  "num": 6,
+  "word": "complacent",
+  "defs": [
+   "showing smug or uncritical satisfaction with oneself or one's achievements."
+  ],
+  "images": [
+   "s11-06-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-06"
+ },
+ {
+  "set": 11,
+  "num": 7,
+  "word": "cumbersome",
+  "defs": [
+   "large or heavy and therefore difficult to carry or use; unwieldy.",
+   "slow or complicated and therefore inefficient."
+  ],
+  "images": [
+   "s11-07-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-07"
+ },
+ {
+  "set": 11,
+  "num": 8,
+  "word": "debilitating",
+  "defs": [
+   "make (someone) very weak and infirm."
+  ],
+  "images": [
+   "s11-08-0.webp"
+  ],
+  "page": 42,
+  "id": "s11-08"
+ },
+ {
+  "set": 11,
+  "num": 9,
+  "word": "deliberate",
+  "defs": [
+   "done consciously and intentionally."
+  ],
+  "images": [
+   "s11-09-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-09"
+ },
+ {
+  "set": 11,
+  "num": 10,
+  "word": "droll",
+  "defs": [
+   "curious or unusual in a way that provokes dry amusement."
+  ],
+  "images": [
+   "s11-10-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-10"
+ },
+ {
+  "set": 11,
+  "num": 11,
+  "word": "eccentric",
+  "defs": [
+   "(of a person or their behavior) unconventional and slightly strange."
+  ],
+  "images": [
+   "s11-11-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-11"
+ },
+ {
+  "set": 11,
+  "num": 12,
+  "word": "fractious",
+  "defs": [
+   "(typically of children) irritable and quarrelsome.",
+   "(of a group or organization) difficult to control; unruly."
+  ],
+  "images": [
+   "s11-12-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-12"
+ },
+ {
+  "set": 11,
+  "num": 13,
+  "word": "limpid",
+  "defs": [
+   "completely clear and transparent.",
+   "(especially of writing or music) clear and accessible or melodious."
+  ],
+  "images": [
+   "s11-13-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-13"
+ },
+ {
+  "set": 11,
+  "num": 14,
+  "word": "mawkish",
+  "defs": [
+   "sentimental in an exaggerated or false way."
+  ],
+  "images": [
+   "s11-14-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-14"
+ },
+ {
+  "set": 11,
+  "num": 15,
+  "word": "obeisance",
+  "defs": [
+   "a gesture expressing deferential respect, such as a bow or curtsy."
+  ],
+  "images": [
+   "s11-15-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-15"
+ },
+ {
+  "set": 11,
+  "num": 16,
+  "word": "ostentatious",
+  "defs": [
+   "characterized by pretentious or showy display; designed to impress."
+  ],
+  "images": [
+   "s11-16-0.webp"
+  ],
+  "page": 43,
+  "id": "s11-16"
+ },
+ {
+  "set": 11,
+  "num": 17,
+  "word": "panacea",
+  "defs": [
+   "a solution or remedy for all difficulties or diseases."
+  ],
+  "images": [
+   "s11-17-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-17"
+ },
+ {
+  "set": 11,
+  "num": 18,
+  "word": "perfunctory",
+  "defs": [
+   "(of an action) carried out without real interest, feeling, or effort."
+  ],
+  "images": [
+   "s11-18-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-18"
+ },
+ {
+  "set": 11,
+  "num": 19,
+  "word": "perilous",
+  "defs": [
+   "full of danger or risk."
+  ],
+  "images": [
+   "s11-19-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-19"
+ },
+ {
+  "set": 11,
+  "num": 20,
+  "word": "pervasive",
+  "defs": [
+   "(especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people."
+  ],
+  "images": [
+   "s11-20-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-20"
+ },
+ {
+  "set": 11,
+  "num": 21,
+  "word": "preclude",
+  "defs": [
+   "prevent from happening; make impossible."
+  ],
+  "images": [
+   "s11-21-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-21"
+ },
+ {
+  "set": 11,
+  "num": 22,
+  "word": "predilection",
+  "defs": [
+   "a preference or special liking for something; a bias in favour of something."
+  ],
+  "images": [
+   "s11-22-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-22"
+ },
+ {
+  "set": 11,
+  "num": 23,
+  "word": "rapacious",
+  "defs": [
+   "aggressively greedy or grasping."
+  ],
+  "images": [
+   "s11-23-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-23"
+ },
+ {
+  "set": 11,
+  "num": 24,
+  "word": "relish",
+  "defs": [
+   "enjoy greatly.",
+   "anticipate with pleasure."
+  ],
+  "images": [
+   "s11-24-0.webp"
+  ],
+  "page": 44,
+  "id": "s11-24"
+ },
+ {
+  "set": 11,
+  "num": 25,
+  "word": "satirical",
+  "defs": [
+   "sarcastic, critical, and mocking another's weaknesses."
+  ],
+  "images": [
+   "s11-25-0.webp"
+  ],
+  "page": 45,
+  "id": "s11-25"
+ },
+ {
+  "set": 11,
+  "num": 26,
+  "word": "sham",
+  "defs": [
+   "falsely present something as the truth."
+  ],
+  "images": [
+   "s11-26-0.webp"
+  ],
+  "page": 45,
+  "id": "s11-26"
+ },
+ {
+  "set": 11,
+  "num": 27,
+  "word": "skirt",
+  "defs": [
+   "attempt to ignore; avoid dealing with.",
+   "go round or past the edge of."
+  ],
+  "images": [],
+  "page": 45,
+  "id": "s11-27"
+ },
+ {
+  "set": 11,
+  "num": 28,
+  "word": "sluggish",
+  "defs": [
+   "slow-moving or inactive.",
+   "lacking energy or alertness."
+  ],
+  "images": [
+   "s11-28-0.webp"
+  ],
+  "page": 45,
+  "id": "s11-28"
+ },
+ {
+  "set": 11,
+  "num": 29,
+  "word": "spartan",
+  "defs": [
+   "showing or characterized by austerity or a lack of comfort or luxury."
+  ],
+  "images": [
+   "s11-29-0.webp"
+  ],
+  "page": 45,
+  "id": "s11-29"
+ },
+ {
+  "set": 11,
+  "num": 30,
+  "word": "truculent",
+  "defs": [
+   "eager or quick to argue or fight; aggressively defiant."
+  ],
+  "images": [
+   "s11-30-0.webp"
+  ],
+  "page": 45,
+  "id": "s11-30"
+ },
+ {
+  "set": 12,
+  "num": 1,
+  "word": "acrimonious",
+  "defs": [
+   "(typically of speech or discussion) angry and bitter."
+  ],
+  "images": [
+   "s12-01-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-01"
+ },
+ {
+  "set": 12,
+  "num": 2,
+  "word": "belligerent",
+  "defs": [
+   "hostile and aggressive."
+  ],
+  "images": [
+   "s12-02-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-02"
+ },
+ {
+  "set": 12,
+  "num": 3,
+  "word": "beneficent",
+  "defs": [
+   "(of a person) generous or doing good."
+  ],
+  "images": [
+   "s12-03-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-03"
+ },
+ {
+  "set": 12,
+  "num": 4,
+  "word": "canny",
+  "defs": [
+   "having or showing shrewdness and good judgement, especially in money or business matters."
+  ],
+  "images": [
+   "s12-04-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-04"
+ },
+ {
+  "set": 12,
+  "num": 5,
+  "word": "cavalier",
+  "defs": [
+   "showing a lack of proper concern; offhand.",
+   "a dashing and attentive man, especially one acting as a lady's escort.",
+   "a small spaniel of a breed with a long snout."
+  ],
+  "images": [
+   "s12-05-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-05"
+ },
+ {
+  "set": 12,
+  "num": 6,
+  "word": "distressed",
+  "defs": [
+   "suffering from extreme anxiety, sorrow, or pain.",
+   "(of furniture or clothing) having simulated marks of age and wear."
+  ],
+  "images": [
+   "s12-06-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-06"
+ },
+ {
+  "set": 12,
+  "num": 7,
+  "word": "dwindling",
+  "defs": [
+   "gradually diminishing in size, amount, or strength."
+  ],
+  "images": [
+   "s12-07-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-07"
+ },
+ {
+  "set": 12,
+  "num": 8,
+  "word": "eclipse",
+  "defs": [
+   "1.an obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination..",
+   "a loss of significance or power in relation to another person or thing."
+  ],
+  "images": [
+   "s12-08-0.webp"
+  ],
+  "page": 46,
+  "id": "s12-08"
+ },
+ {
+  "set": 12,
+  "num": 9,
+  "word": "encyclopedic",
+  "defs": [
+   "comprehensive in terms of information."
+  ],
+  "images": [
+   "s12-09-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-09"
+ },
+ {
+  "set": 12,
+  "num": 10,
+  "word": "exacerbate",
+  "defs": [
+   "make (a problem, bad situation, or negative feeling) worse."
+  ],
+  "images": [
+   "s12-10-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-10"
+ },
+ {
+  "set": 12,
+  "num": 11,
+  "word": "exasperated",
+  "defs": [
+   "intensely irritated and frustrated."
+  ],
+  "images": [
+   "s12-11-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-11"
+ },
+ {
+  "set": 12,
+  "num": 12,
+  "word": "fungible",
+  "defs": [
+   "(of goods contracted for without an individual specimen being specified) replaceable by another identical item; mutually interchangeable."
+  ],
+  "images": [
+   "s12-12-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-12"
+ },
+ {
+  "set": 12,
+  "num": 13,
+  "word": "hackneyed",
+  "defs": [
+   "(of a phrase or idea) having been overused; unoriginal and trite."
+  ],
+  "images": [
+   "s12-13-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-13"
+ },
+ {
+  "set": 12,
+  "num": 14,
+  "word": "incongruous",
+  "defs": [
+   "not in harmony or keeping with the surroundings or other aspects of something."
+  ],
+  "images": [
+   "s12-14-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-14"
+ },
+ {
+  "set": 12,
+  "num": 15,
+  "word": "interchangeable",
+  "defs": [
+   "apparently identical; very similar.",
+   "(of two things) able to be interchanged."
+  ],
+  "images": [
+   "s12-15-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-15"
+ },
+ {
+  "set": 12,
+  "num": 16,
+  "word": "laconic",
+  "defs": [
+   "(of a person, speech, or style of writing) using very few words."
+  ],
+  "images": [
+   "s12-16-0.webp"
+  ],
+  "page": 47,
+  "id": "s12-16"
+ },
+ {
+  "set": 12,
+  "num": 17,
+  "word": "lucrative",
+  "defs": [
+   "producing a great deal of profit."
+  ],
+  "images": [
+   "s12-17-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-17"
+ },
+ {
+  "set": 12,
+  "num": 18,
+  "word": "magisterial",
+  "defs": [
+   "having or showing great authority./domineering; dictatorial."
+  ],
+  "images": [
+   "s12-18-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-18"
+ },
+ {
+  "set": 12,
+  "num": 19,
+  "word": "onerous",
+  "defs": [
+   "(of a task or responsibility) involving a great deal of effort, trouble, or difficulty."
+  ],
+  "images": [
+   "s12-19-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-19"
+ },
+ {
+  "set": 12,
+  "num": 20,
+  "word": "opprobrium",
+  "defs": [
+   "harsh criticism or censure."
+  ],
+  "images": [
+   "s12-20-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-20"
+ },
+ {
+  "set": 12,
+  "num": 21,
+  "word": "parsimonious",
+  "defs": [
+   "very unwilling to spend money or use resources."
+  ],
+  "images": [
+   "s12-21-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-21"
+ },
+ {
+  "set": 12,
+  "num": 22,
+  "word": "peripheral",
+  "defs": [
+   "relating to or situated on the edge or periphery of something.",
+   "of secondary or minor importance; marginal."
+  ],
+  "images": [],
+  "page": 48,
+  "id": "s12-22"
+ },
+ {
+  "set": 12,
+  "num": 23,
+  "word": "provocative",
+  "defs": [
+   "causing anger or another strong reaction, especially deliberately."
+  ],
+  "images": [
+   "s12-23-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-23"
+ },
+ {
+  "set": 12,
+  "num": 24,
+  "word": "renounce",
+  "defs": [
+   "formally declare one's abandonment of (a claim, right, or possession)."
+  ],
+  "images": [
+   "s12-24-0.webp"
+  ],
+  "page": 48,
+  "id": "s12-24"
+ },
+ {
+  "set": 12,
+  "num": 25,
+  "word": "tempestuous",
+  "defs": [
+   "characterized by strong and turbulent or conflicting emotion.",
+   "very stormy."
+  ],
+  "images": [
+   "s12-25-0.webp"
+  ],
+  "page": 49,
+  "id": "s12-25"
+ },
+ {
+  "set": 12,
+  "num": 26,
+  "word": "tenable",
+  "defs": [
+   "able to be maintained or defended against attack or objection.",
+   "(of an office, position, scholarship, etc.) able to be held or used."
+  ],
+  "images": [
+   "s12-26-0.webp"
+  ],
+  "page": 49,
+  "id": "s12-26"
+ },
+ {
+  "set": 12,
+  "num": 27,
+  "word": "transgression",
+  "defs": [
+   "an act that goes against a law, rule, or code of conduct; an offence."
+  ],
+  "images": [
+   "s12-27-0.webp"
+  ],
+  "page": 49,
+  "id": "s12-27"
+ },
+ {
+  "set": 12,
+  "num": 28,
+  "word": "urbane",
+  "defs": [
+   "(of a person, especially a man) courteous and refined in manner."
+  ],
+  "images": [],
+  "page": 49,
+  "id": "s12-28"
+ },
+ {
+  "set": 12,
+  "num": 29,
+  "word": "verisimilitude",
+  "defs": [
+   "the appearance of being true or real."
+  ],
+  "images": [
+   "s12-29-0.webp"
+  ],
+  "page": 49,
+  "id": "s12-29"
+ },
+ {
+  "set": 12,
+  "num": 30,
+  "word": "vitiate",
+  "defs": [
+   "spoil or impair the quality or efficiency of."
+  ],
+  "images": [
+   "s12-30-0.webp"
+  ],
+  "page": 49,
+  "id": "s12-30"
+ },
+ {
+  "set": 13,
+  "num": 1,
+  "word": "affinity",
+  "defs": [
+   "a natural liking for and understanding of someone or something."
+  ],
+  "images": [
+   "s13-01-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-01"
+ },
+ {
+  "set": 13,
+  "num": 2,
+  "word": "altruistic",
+  "defs": [
+   "showing a disinterested and selfless concern for the well-being of others; unselfish."
+  ],
+  "images": [
+   "s13-02-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-02"
+ },
+ {
+  "set": 13,
+  "num": 3,
+  "word": "baroque",
+  "defs": [
+   "highly ornate and extravagant in style."
+  ],
+  "images": [
+   "s13-03-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-03"
+ },
+ {
+  "set": 13,
+  "num": 4,
+  "word": "byzantine",
+  "defs": [
+   "(of a system or situation) excessively complicated, and typically involving a great deal of administrative detail."
+  ],
+  "images": [],
+  "page": 50,
+  "id": "s13-04"
+ },
+ {
+  "set": 13,
+  "num": 5,
+  "word": "compromise",
+  "defs": [
+   "settle a dispute by mutual concession.",
+   "weaken or harm by accepting standards that are lower than is desirable."
+  ],
+  "images": [
+   "s13-05-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-05"
+ },
+ {
+  "set": 13,
+  "num": 6,
+  "word": "conciliatory",
+  "defs": [
+   "intended or likely to placate or pacify."
+  ],
+  "images": [
+   "s13-06-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-06"
+ },
+ {
+  "set": 13,
+  "num": 7,
+  "word": "countenance",
+  "defs": [
+   "admit as acceptable or possible.",
+   "a person's face or facial expression."
+  ],
+  "images": [
+   "s13-07-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-07"
+ },
+ {
+  "set": 13,
+  "num": 8,
+  "word": "covert",
+  "defs": [
+   "not openly acknowledged or displayed."
+  ],
+  "images": [
+   "s13-08-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-08"
+ },
+ {
+  "set": 13,
+  "num": 9,
+  "word": "credible",
+  "defs": [
+   "able to be believed; convincing."
+  ],
+  "images": [
+   "s13-09-0.webp"
+  ],
+  "page": 50,
+  "id": "s13-09"
+ },
+ {
+  "set": 13,
+  "num": 10,
+  "word": "diffuse",
+  "defs": [
+   "spread out over a large area; not concentrated.",
+   "lacking clarity or conciseness."
+  ],
+  "images": [
+   "s13-10-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-10"
+ },
+ {
+  "set": 13,
+  "num": 11,
+  "word": "documentary",
+  "defs": [
+   "1.consisting of or based on official documents.",
+   "using pictures or interviews with people involved in real events to provide a factual report on a particular subject."
+  ],
+  "images": [],
+  "page": 51,
+  "id": "s13-11"
+ },
+ {
+  "set": 13,
+  "num": 12,
+  "word": "exhaustive",
+  "defs": [
+   "including or considering all elements or aspects; fully comprehensive."
+  ],
+  "images": [
+   "s13-12-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-12"
+ },
+ {
+  "set": 13,
+  "num": 13,
+  "word": "exhilarating",
+  "defs": [
+   "making one feel very happy, animated, or elated; thrilling."
+  ],
+  "images": [
+   "s13-13-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-13"
+ },
+ {
+  "set": 13,
+  "num": 14,
+  "word": "extraneous",
+  "defs": [
+   "irrelevant or unrelated to the subject being dealt with. 2. of external origin."
+  ],
+  "images": [
+   "s13-14-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-14"
+ },
+ {
+  "set": 13,
+  "num": 15,
+  "word": "fervor",
+  "defs": [
+   "intense and passionate feeling."
+  ],
+  "images": [
+   "s13-15-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-15"
+ },
+ {
+  "set": 13,
+  "num": 16,
+  "word": "futile",
+  "defs": [
+   "incapable of producing any useful result; pointless."
+  ],
+  "images": [
+   "s13-16-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-16"
+ },
+ {
+  "set": 13,
+  "num": 17,
+  "word": "illusory",
+  "defs": [
+   "based on illusion; not real."
+  ],
+  "images": [
+   "s13-17-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-17"
+ },
+ {
+  "set": 13,
+  "num": 18,
+  "word": "invidious",
+  "defs": [
+   "(of an action or situation) likely to arouse or incur resentment or anger in others.",
+   "(of a comparison or distinction) unfairly discriminating; unjust."
+  ],
+  "images": [
+   "s13-18-0.webp"
+  ],
+  "page": 51,
+  "id": "s13-18"
+ },
+ {
+  "set": 13,
+  "num": 19,
+  "word": "lethargic",
+  "defs": [
+   "affected by lethargy; sluggish and apathetic."
+  ],
+  "images": [
+   "s13-19-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-19"
+ },
+ {
+  "set": 13,
+  "num": 20,
+  "word": "metaphorical",
+  "defs": [
+   "characteristic of or relating to metaphor; figurative."
+  ],
+  "images": [
+   "s13-20-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-20"
+ },
+ {
+  "set": 13,
+  "num": 21,
+  "word": "mimic",
+  "defs": [
+   "imitate (someone or their actions or words), especially in order to entertain or ridicule."
+  ],
+  "images": [
+   "s13-21-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-21"
+ },
+ {
+  "set": 13,
+  "num": 22,
+  "word": "numinous",
+  "defs": [
+   "having a strong religious or spiritual quality; indicating or suggesting the presence of a divinity."
+  ],
+  "images": [
+   "s13-22-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-22"
+ },
+ {
+  "set": 13,
+  "num": 23,
+  "word": "obscure",
+  "defs": [
+   "not discovered or known about; uncertain.",
+   "not clearly expressed or easily understood."
+  ],
+  "images": [
+   "s13-23-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-23"
+ },
+ {
+  "set": 13,
+  "num": 24,
+  "word": "overt",
+  "defs": [
+   "done or shown openly; plainly apparent."
+  ],
+  "images": [
+   "s13-24-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-24"
+ },
+ {
+  "set": 13,
+  "num": 25,
+  "word": "pellucid",
+  "defs": [
+   "easily understood; lucid."
+  ],
+  "images": [
+   "s13-25-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-25"
+ },
+ {
+  "set": 13,
+  "num": 26,
+  "word": "perpetuate",
+  "defs": [
+   "make (something) continue indefinitely."
+  ],
+  "images": [
+   "s13-26-0.webp"
+  ],
+  "page": 52,
+  "id": "s13-26"
+ },
+ {
+  "set": 13,
+  "num": 27,
+  "word": "rational",
+  "defs": [
+   "based on or in accordance with reason or logic."
+  ],
+  "images": [
+   "s13-27-0.webp"
+  ],
+  "page": 53,
+  "id": "s13-27"
+ },
+ {
+  "set": 13,
+  "num": 28,
+  "word": "scathing",
+  "defs": [
+   "witheringly scornful; severely critical."
+  ],
+  "images": [
+   "s13-28-0.webp"
+  ],
+  "page": 53,
+  "id": "s13-28"
+ },
+ {
+  "set": 13,
+  "num": 29,
+  "word": "subtle",
+  "defs": [
+   "(especially of a change or distinction) so delicate or precise as to be difficult to analyse or describe.",
+   "making use of clever and indirect methods to achieve something."
+  ],
+  "images": [],
+  "page": 53,
+  "id": "s13-29"
+ },
+ {
+  "set": 13,
+  "num": 30,
+  "word": "superficial",
+  "defs": [
+   "existing or occurring at or on the surface.",
+   "appearing to be true or real only until examined more closely.",
+   "not thorough, deep, or complete; cursory."
+  ],
+  "images": [],
+  "page": 53,
+  "id": "s13-30"
+ },
+ {
+  "set": 14,
+  "num": 1,
+  "word": "acquiesce",
+  "defs": [
+   "accept something reluctantly but without protest."
+  ],
+  "images": [
+   "s14-01-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-01"
+ },
+ {
+  "set": 14,
+  "num": 2,
+  "word": "adroit",
+  "defs": [
+   "clever or skilful."
+  ],
+  "images": [
+   "s14-02-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-02"
+ },
+ {
+  "set": 14,
+  "num": 3,
+  "word": "amend",
+  "defs": [
+   "make minor changes to (a text, piece of legislation, etc.) in order to make it fairer or more accurate, or to reflect changing circumstances.",
+   "improve the texture or fertility of (soil)."
+  ],
+  "images": [
+   "s14-03-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-03"
+ },
+ {
+  "set": 14,
+  "num": 4,
+  "word": "animus",
+  "defs": [
+   "hostility or ill feeling.",
+   "motivation to do something."
+  ],
+  "images": [
+   "s14-04-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-04"
+ },
+ {
+  "set": 14,
+  "num": 5,
+  "word": "apologist",
+  "defs": [
+   "a person who offers an argument in defence of something controversial."
+  ],
+  "images": [
+   "s14-05-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-05"
+ },
+ {
+  "set": 14,
+  "num": 6,
+  "word": "astringent",
+  "defs": [
+   "causing the contraction of skin cells and other body tissues.",
+   "(of taste or smell) slightly acidic or bitter.",
+   "sharp or severe in manner or style."
+  ],
+  "images": [
+   "s14-06-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-06"
+ },
+ {
+  "set": 14,
+  "num": 7,
+  "word": "collaborate",
+  "defs": [
+   "produced by or involving two or more parties working together."
+  ],
+  "images": [
+   "s14-07-0.webp"
+  ],
+  "page": 54,
+  "id": "s14-07"
+ },
+ {
+  "set": 14,
+  "num": 8,
+  "word": "competent",
+  "defs": [
+   "having the necessary ability, knowledge, or skill to do something successfully."
+  ],
+  "images": [
+   "s14-08-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-08"
+ },
+ {
+  "set": 14,
+  "num": 9,
+  "word": "correlate",
+  "defs": [
+   "have a mutual relationship or connection, in which one thing affects or depends on another."
+  ],
+  "images": [
+   "s14-09-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-09"
+ },
+ {
+  "set": 14,
+  "num": 10,
+  "word": "deride",
+  "defs": [
+   "express contempt for; ridicule."
+  ],
+  "images": [
+   "s14-10-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-10"
+ },
+ {
+  "set": 14,
+  "num": 11,
+  "word": "dictate",
+  "defs": [
+   "state or order authoritatively.",
+   "say or read aloud (words to be typed, written down, or recorded on tape)."
+  ],
+  "images": [
+   "s14-11-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-11"
+ },
+ {
+  "set": 14,
+  "num": 12,
+  "word": "discreet",
+  "defs": [
+   "careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment."
+  ],
+  "images": [
+   "s14-12-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-12"
+ },
+ {
+  "set": 14,
+  "num": 13,
+  "word": "divorced",
+  "defs": [
+   "separate or dissociate (something) from something else, typically with an undesirable effect."
+  ],
+  "images": [
+   "s14-13-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-13"
+ },
+ {
+  "set": 14,
+  "num": 14,
+  "word": "elitist",
+  "defs": [
+   "relating to or supporting the view that a society or system should be led by an elite."
+  ],
+  "images": [
+   "s14-14-0.webp"
+  ],
+  "page": 55,
+  "id": "s14-14"
+ },
+ {
+  "set": 14,
+  "num": 15,
+  "word": "exacting",
+  "defs": [
+   "making great demands on one's skill, attention, or other resources."
+  ],
+  "images": [
+   "s14-15-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-15"
+ },
+ {
+  "set": 14,
+  "num": 16,
+  "word": "flummoxed",
+  "defs": [
+   "bewildered or perplexed."
+  ],
+  "images": [
+   "s14-16-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-16"
+ },
+ {
+  "set": 14,
+  "num": 17,
+  "word": "fruitful",
+  "defs": [
+   "producing good or helpful results; productive."
+  ],
+  "images": [
+   "s14-17-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-17"
+ },
+ {
+  "set": 14,
+  "num": 18,
+  "word": "inborn",
+  "defs": [
+   "existing from birth."
+  ],
+  "images": [
+   "s14-18-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-18"
+ },
+ {
+  "set": 14,
+  "num": 19,
+  "word": "polymath",
+  "defs": [
+   "a person of wide knowledge or learning."
+  ],
+  "images": [
+   "s14-19-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-19"
+ },
+ {
+  "set": 14,
+  "num": 20,
+  "word": "reticent",
+  "defs": [
+   "not revealing one's thoughts or feelings readily."
+  ],
+  "images": [
+   "s14-20-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-20"
+ },
+ {
+  "set": 14,
+  "num": 21,
+  "word": "stringent",
+  "defs": [
+   "(of regulations, requirements, or conditions) strict, precise, and exacting."
+  ],
+  "images": [
+   "s14-21-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-21"
+ },
+ {
+  "set": 14,
+  "num": 22,
+  "word": "subservient",
+  "defs": [
+   "prepared to obey others unquestioningly."
+  ],
+  "images": [
+   "s14-22-0.webp"
+  ],
+  "page": 56,
+  "id": "s14-22"
+ },
+ {
+  "set": 14,
+  "num": 23,
+  "word": "surreptitious",
+  "defs": [
+   "kept secret, especially because it would not be approved of."
+  ],
+  "images": [
+   "s14-23-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-23"
+ },
+ {
+  "set": 14,
+  "num": 24,
+  "word": "tantalizing",
+  "defs": [
+   "tormenting or teasing with the sight or promise of something unobtainable."
+  ],
+  "images": [
+   "s14-24-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-24"
+ },
+ {
+  "set": 14,
+  "num": 25,
+  "word": "tantamount",
+  "defs": [
+   "equivalent in seriousness to; virtually the same as."
+  ],
+  "images": [
+   "s14-25-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-25"
+ },
+ {
+  "set": 14,
+  "num": 26,
+  "word": "torpor",
+  "defs": [
+   "a state of physical or mental inactivity; lethargy."
+  ],
+  "images": [
+   "s14-26-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-26"
+ },
+ {
+  "set": 14,
+  "num": 27,
+  "word": "trenchant",
+  "defs": [
+   "vigorous or incisive in expression or style."
+  ],
+  "images": [
+   "s14-27-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-27"
+ },
+ {
+  "set": 14,
+  "num": 28,
+  "word": "umbrage",
+  "defs": [
+   "offence or annoyance."
+  ],
+  "images": [
+   "s14-28-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-28"
+ },
+ {
+  "set": 14,
+  "num": 29,
+  "word": "versatile",
+  "defs": [
+   "able to adapt or be adapted to many different functions or activities."
+  ],
+  "images": [
+   "s14-29-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-29"
+ },
+ {
+  "set": 14,
+  "num": 30,
+  "word": "wayward",
+  "defs": [
+   "difficult to control or predict because of wilful or perverse behaviour."
+  ],
+  "images": [
+   "s14-30-0.webp"
+  ],
+  "page": 57,
+  "id": "s14-30"
+ },
+ {
+  "set": 15,
+  "num": 1,
+  "word": "alienate",
+  "defs": [
+   "make (someone) feel isolated or estranged."
+  ],
+  "images": [
+   "s15-01-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-01"
+ },
+ {
+  "set": 15,
+  "num": 2,
+  "word": "apathy",
+  "defs": [
+   "lack of interest, enthusiasm, or concern."
+  ],
+  "images": [
+   "s15-02-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-02"
+ },
+ {
+  "set": 15,
+  "num": 3,
+  "word": "apropos",
+  "defs": [
+   "with reference to; concerning.",
+   "very appropriate to a particular situation."
+  ],
+  "images": [
+   "s15-03-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-03"
+ },
+ {
+  "set": 15,
+  "num": 4,
+  "word": "apt",
+  "defs": [
+   "1.appropriate or suitable in the circumstances.",
+   "having a tendency to do something.",
+   "quick to learn."
+  ],
+  "images": [
+   "s15-04-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-04"
+ },
+ {
+  "set": 15,
+  "num": 5,
+  "word": "cloak",
+  "defs": [
+   "a sleeveless outdoor overgarment that hangs loosely from the shoulders.",
+   "something serving to hide or disguise something."
+  ],
+  "images": [
+   "s15-05-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-05"
+ },
+ {
+  "set": 15,
+  "num": 6,
+  "word": "consensus",
+  "defs": [
+   "a general agreement."
+  ],
+  "images": [
+   "s15-06-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-06"
+ },
+ {
+  "set": 15,
+  "num": 7,
+  "word": "distort",
+  "defs": [
+   "pull or twist out of shape.",
+   "give a misleading or false account or impression of.",
+   "change the form of (an electrical signal or sound wave) during transmission, amplification, or other processing."
+  ],
+  "images": [
+   "s15-07-0.webp"
+  ],
+  "page": 58,
+  "id": "s15-07"
+ },
+ {
+  "set": 15,
+  "num": 8,
+  "word": "divergent",
+  "defs": [
+   "tending to be different or develop in different directions."
+  ],
+  "images": [
+   "s15-08-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-08"
+ },
+ {
+  "set": 15,
+  "num": 9,
+  "word": "elated",
+  "defs": [
+   "make (someone) ecstatically happy."
+  ],
+  "images": [
+   "s15-09-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-09"
+ },
+ {
+  "set": 15,
+  "num": 10,
+  "word": "enchant",
+  "defs": [
+   "fill (someone) with great delight; charm.",
+   "put (someone or something) under a spell; bewitch."
+  ],
+  "images": [
+   "s15-10-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-10"
+ },
+ {
+  "set": 15,
+  "num": 11,
+  "word": "entrenched",
+  "defs": [
+   "(of an attitude, habit, or belief) firmly established and difficult or unlikely to change; ingrained."
+  ],
+  "images": [
+   "s15-11-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-11"
+ },
+ {
+  "set": 15,
+  "num": 12,
+  "word": "exotic",
+  "defs": [
+   "originating in or characteristic of a distant foreign country.",
+   "attractive or striking because colourful or out of the ordinary."
+  ],
+  "images": [
+   "s15-12-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-12"
+ },
+ {
+  "set": 15,
+  "num": 13,
+  "word": "exploitative",
+  "defs": [
+   "making use of a situation or treating others unfairly in order to gain an advantage or benefit."
+  ],
+  "images": [
+   "s15-13-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-13"
+ },
+ {
+  "set": 15,
+  "num": 14,
+  "word": "foreseeable",
+  "defs": [
+   "able to be foreseen or predicted."
+  ],
+  "images": [
+   "s15-14-0.webp"
+  ],
+  "page": 59,
+  "id": "s15-14"
+ },
+ {
+  "set": 15,
+  "num": 15,
+  "word": "forsake",
+  "defs": [
+   "abandon or leave./renounce or give up (something valued or pleasant)."
+  ],
+  "images": [
+   "s15-15-0.webp"
+  ],
+  "page": 60,
+  "id": "s15-15"
+ },
+ {
+  "set": 15,
+  "num": 16,
+  "word": "gratify",
+  "defs": [
+   "give (someone) pleasure or satisfaction."
+  ],
+  "images": [
+   "s15-16-0.webp"
+  ],
+  "page": 60,
+  "id": "s15-16"
+ },
+ {
+  "set": 15,
+  "num": 17,
+  "word": "heed",
+  "defs": [
+   "pay attention to; take notice of."
+  ],
+  "images": [
+   "s15-17-0.webp"
+  ],
+  "page": 60,
+  "id": "s15-17"
+ },
+ {
+  "set": 15,
+  "num": 18,
+  "word": "judicious",
+  "defs": [
+   "having, showing, or done with good judgement or sense."
+  ],
+  "images": [
+   "s15-18-0.webp"
+  ],
+  "page": 60,
+  "id": "s15-18"
+ },
+ {
+  "set": 15,
+  "num": 19,
+  "word": "lucid",
+  "defs": [
+   "expressed clearly; easy to understand."
+  ],
+  "images": [
+   "s15-19-0.webp"
+  ],
+  "page": 60,
+  "id": "s15-19"
+ },
+ {
+  "set": 15,
+  "num": 20,
+  "word": "pertinent",
+  "defs": [
+   "relevant or applicable to a particular matter; apposite."
+  ],
+  "images": [
+   "s15-20-0.webp"
+  ],
+  "page": 60,
+  "id": "s15-20"
+ },
+ {
+  "set": 15,
+  "num": 21,
+  "word": "propriety",
+  "defs": [
+   "conformity to conventionally accepted standards of behavior or morals.",
+   "the condition of being right, appropriate, or fitting."
+  ],
+  "images": [
+   "s15-21-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-21"
+ },
+ {
+  "set": 15,
+  "num": 22,
+  "word": "scintillating",
+  "defs": [
+   "sparkling or shining brightly.",
+   "brilliantly and excitingly clever or skilful."
+  ],
+  "images": [
+   "s15-22-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-22"
+ },
+ {
+  "set": 15,
+  "num": 23,
+  "word": "sensational",
+  "defs": [
+   "causing great public interest and excitement."
+  ],
+  "images": [
+   "s15-23-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-23"
+ },
+ {
+  "set": 15,
+  "num": 24,
+  "word": "sophisticated",
+  "defs": [
+   "1.having, revealing, or involving a great deal of worldly experience and knowledge of fashion and culture.",
+   "(of a machine, system, or technique) developed to a high degree of complexity."
+  ],
+  "images": [
+   "s15-24-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-24"
+ },
+ {
+  "set": 15,
+  "num": 25,
+  "word": "strife",
+  "defs": [
+   "angry or bitter disagreement over fundamental issues; conflict."
+  ],
+  "images": [
+   "s15-25-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-25"
+ },
+ {
+  "set": 15,
+  "num": 26,
+  "word": "understated",
+  "defs": [
+   "presented or expressed in a subtle and effective way."
+  ],
+  "images": [
+   "s15-26-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-26"
+ },
+ {
+  "set": 15,
+  "num": 27,
+  "word": "unscrupulous",
+  "defs": [
+   "having or showing no moral principles; not honest or fair."
+  ],
+  "images": [
+   "s15-27-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-27"
+ },
+ {
+  "set": 15,
+  "num": 28,
+  "word": "veracity",
+  "defs": [
+   "conformity to facts; accuracy./habitual truthfulness."
+  ],
+  "images": [
+   "s15-28-0.webp"
+  ],
+  "page": 61,
+  "id": "s15-28"
+ },
+ {
+  "set": 15,
+  "num": 29,
+  "word": "virulent",
+  "defs": [
+   "1.(of a disease or poison) extremely severe or harmful in its effects.",
+   "bitterly hostile."
+  ],
+  "images": [
+   "s15-29-0.webp"
+  ],
+  "page": 62,
+  "id": "s15-29"
+ },
+ {
+  "set": 15,
+  "num": 30,
+  "word": "volatile",
+  "defs": [
+   "(of a substance) easily evaporated at normal temperatures.",
+   "liable to change rapidly and unpredictably, especially for the worse."
+  ],
+  "images": [
+   "s15-30-0.webp"
+  ],
+  "page": 62,
+  "id": "s15-30"
+ },
+ {
+  "set": 16,
+  "num": 1,
+  "word": "antedate",
+  "defs": [
+   "precede in time; come before (something) in date."
+  ],
+  "images": [
+   "s16-01-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-01"
+ },
+ {
+  "set": 16,
+  "num": 2,
+  "word": "banish",
+  "defs": [
+   "send (someone) away from a country or place as an official punishment.",
+   "get rid of (something unwanted)."
+  ],
+  "images": [
+   "s16-02-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-02"
+ },
+ {
+  "set": 16,
+  "num": 3,
+  "word": "bridle",
+  "defs": [
+   "show one's resentment or anger, especially by throwing up one's head and drawing in one's chin.",
+   "put a bridle on (a horse)."
+  ],
+  "images": [
+   "s16-03-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-03"
+ },
+ {
+  "set": 16,
+  "num": 4,
+  "word": "comply",
+  "defs": [
+   "act in accordance with a wish or command."
+  ],
+  "images": [
+   "s16-04-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-04"
+ },
+ {
+  "set": 16,
+  "num": 5,
+  "word": "crestfallen",
+  "defs": [
+   "sad and disappointed."
+  ],
+  "images": [
+   "s16-05-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-05"
+ },
+ {
+  "set": 16,
+  "num": 6,
+  "word": "curtail",
+  "defs": [
+   "reduce in extent or quantity; impose a restriction on."
+  ],
+  "images": [
+   "s16-06-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-06"
+ },
+ {
+  "set": 16,
+  "num": 7,
+  "word": "elucidate",
+  "defs": [
+   "make (something) clear; explain."
+  ],
+  "images": [
+   "s16-07-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-07"
+ },
+ {
+  "set": 16,
+  "num": 8,
+  "word": "evade",
+  "defs": [
+   "escape or avoid (someone or something), especially by guile or trickery."
+  ],
+  "images": [
+   "s16-08-0.webp"
+  ],
+  "page": 63,
+  "id": "s16-08"
+ },
+ {
+  "set": 16,
+  "num": 9,
+  "word": "feckless",
+  "defs": [
+   "lacking initiative or strength of character; irresponsible."
+  ],
+  "images": [
+   "s16-09-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-09"
+ },
+ {
+  "set": 16,
+  "num": 10,
+  "word": "fester",
+  "defs": [
+   "(of a wound or sore) become septic; suppurate.",
+   "(of a negative feeling or a problem) become worse or more intense, especially through long-term neglect or indifference."
+  ],
+  "images": [
+   "s16-10-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-10"
+ },
+ {
+  "set": 16,
+  "num": 11,
+  "word": "iconoclastic",
+  "defs": [
+   "criticizing or attacking cherished beliefs or institutions."
+  ],
+  "images": [
+   "s16-11-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-11"
+ },
+ {
+  "set": 16,
+  "num": 12,
+  "word": "immure",
+  "defs": [
+   "enclose or confine (someone) against their will."
+  ],
+  "images": [
+   "s16-12-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-12"
+ },
+ {
+  "set": 16,
+  "num": 13,
+  "word": "improvise",
+  "defs": [
+   "create and perform (music, drama, or verse) spontaneously or without preparation.",
+   "produce or make (something) from whatever is available."
+  ],
+  "images": [
+   "s16-13-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-13"
+ },
+ {
+  "set": 16,
+  "num": 14,
+  "word": "inhibit",
+  "defs": [
+   "hinder, restrain, or prevent (an action or process).",
+   "make (someone) self-conscious and unable to act in a relaxed and natural way.",
+   "(in ecclesiastical law) forbid (a member of the clergy) to exercise clerical functions."
+  ],
+  "images": [],
+  "page": 64,
+  "id": "s16-14"
+ },
+ {
+  "set": 16,
+  "num": 15,
+  "word": "inscrutable",
+  "defs": [
+   "impossible to understand or interpret."
+  ],
+  "images": [
+   "s16-15-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-15"
+ },
+ {
+  "set": 16,
+  "num": 16,
+  "word": "lionize",
+  "defs": [
+   "give a lot of public attention and approval to (someone); treat as a celebrity."
+  ],
+  "images": [
+   "s16-16-0.webp"
+  ],
+  "page": 64,
+  "id": "s16-16"
+ },
+ {
+  "set": 16,
+  "num": 17,
+  "word": "monotonous",
+  "defs": [
+   "dull, tedious, and repetitious; lacking in variety and interest."
+  ],
+  "images": [
+   "s16-17-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-17"
+ },
+ {
+  "set": 16,
+  "num": 18,
+  "word": "peculiar",
+  "defs": [
+   "different to what is normal or expected; strange.",
+   "particular; special."
+  ],
+  "images": [
+   "s16-18-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-18"
+ },
+ {
+  "set": 16,
+  "num": 19,
+  "word": "premeditate",
+  "defs": [
+   "think out or plan (an action, especially a crime) beforehand."
+  ],
+  "images": [
+   "s16-19-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-19"
+ },
+ {
+  "set": 16,
+  "num": 20,
+  "word": "profligate",
+  "defs": [
+   "recklessly extravagant or wasteful in the use of resources.",
+   "licentious; dissolute."
+  ],
+  "images": [
+   "s16-20-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-20"
+ },
+ {
+  "set": 16,
+  "num": 21,
+  "word": "reconcile",
+  "defs": [
+   "restore friendly relations between.",
+   "make (one account) consistent with another, especially by allowing for transactions begun but not yet completed."
+  ],
+  "images": [
+   "s16-21-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-21"
+ },
+ {
+  "set": 16,
+  "num": 22,
+  "word": "refine",
+  "defs": [
+   "remove impurities or unwanted elements from (a substance), typically as part of an industrial process."
+  ],
+  "images": [
+   "s16-22-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-22"
+ },
+ {
+  "set": 16,
+  "num": 23,
+  "word": "relinquish",
+  "defs": [
+   "voluntarily cease to keep or claim; give up."
+  ],
+  "images": [
+   "s16-23-0.webp"
+  ],
+  "page": 65,
+  "id": "s16-23"
+ },
+ {
+  "set": 16,
+  "num": 24,
+  "word": "ruminate",
+  "defs": [
+   "think deeply about something.",
+   "(of a ruminant) chew the cud."
+  ],
+  "images": [
+   "s16-24-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-24"
+ },
+ {
+  "set": 16,
+  "num": 25,
+  "word": "skittish",
+  "defs": [
+   "(of a person) playfully frivolous or unpredictable.",
+   "(of an animal, especially a horse) nervous or excitable; easily scared."
+  ],
+  "images": [
+   "s16-25-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-25"
+ },
+ {
+  "set": 16,
+  "num": 26,
+  "word": "superfluous",
+  "defs": [
+   "unnecessary, especially through being more than enough."
+  ],
+  "images": [
+   "s16-26-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-26"
+ },
+ {
+  "set": 16,
+  "num": 27,
+  "word": "synoptic",
+  "defs": [
+   "taking or involving a comprehensive mental view."
+  ],
+  "images": [
+   "s16-27-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-27"
+ },
+ {
+  "set": 16,
+  "num": 28,
+  "word": "thorough",
+  "defs": [
+   "complete with regard to every detail; not superficial or partial."
+  ],
+  "images": [
+   "s16-28-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-28"
+ },
+ {
+  "set": 16,
+  "num": 29,
+  "word": "visionary",
+  "defs": [
+   "thinking about or planning the future with imagination or wisdom.",
+   "relating to or having the ability to see visions in a dream or trance, or as a supernatural apparition."
+  ],
+  "images": [
+   "s16-29-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-29"
+ },
+ {
+  "set": 16,
+  "num": 30,
+  "word": "vociferous",
+  "defs": [
+   "expressing or characterized by vehement opinions; loud and forceful."
+  ],
+  "images": [
+   "s16-30-0.webp"
+  ],
+  "page": 66,
+  "id": "s16-30"
+ },
+ {
+  "set": 17,
+  "num": 1,
+  "word": "acclaim",
+  "defs": [
+   "praise enthusiastically and publicly."
+  ],
+  "images": [
+   "s17-01-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-01"
+ },
+ {
+  "set": 17,
+  "num": 2,
+  "word": "ascertain",
+  "defs": [
+   "find (something) out for certain; make sure of."
+  ],
+  "images": [
+   "s17-02-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-02"
+ },
+ {
+  "set": 17,
+  "num": 3,
+  "word": "assertive",
+  "defs": [
+   "having or showing a confident and forceful personality."
+  ],
+  "images": [
+   "s17-03-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-03"
+ },
+ {
+  "set": 17,
+  "num": 4,
+  "word": "bogus",
+  "defs": [
+   "not genuine or true (used in a disapproving manner when deception has been attempted)."
+  ],
+  "images": [
+   "s17-04-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-04"
+ },
+ {
+  "set": 17,
+  "num": 5,
+  "word": "cataclysmic",
+  "defs": [
+   "(of a natural event) large-scale and violent."
+  ],
+  "images": [
+   "s17-05-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-05"
+ },
+ {
+  "set": 17,
+  "num": 6,
+  "word": "circumscribe",
+  "defs": [
+   "restrict (something) within limits."
+  ],
+  "images": [
+   "s17-06-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-06"
+ },
+ {
+  "set": 17,
+  "num": 7,
+  "word": "complementary",
+  "defs": [
+   "combining in such a way as to enhance or emphasize the qualities of each other or another."
+  ],
+  "images": [
+   "s17-07-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-07"
+ },
+ {
+  "set": 17,
+  "num": 8,
+  "word": "contentious",
+  "defs": [
+   "causing or likely to cause an argument; controversial."
+  ],
+  "images": [
+   "s17-08-0.webp"
+  ],
+  "page": 67,
+  "id": "s17-08"
+ },
+ {
+  "set": 17,
+  "num": 9,
+  "word": "disingenuous",
+  "defs": [
+   "not candid or sincere, typically by pretending that one knows less about something than one really does."
+  ],
+  "images": [
+   "s17-09-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-09"
+ },
+ {
+  "set": 17,
+  "num": 10,
+  "word": "divulge",
+  "defs": [
+   "make known (private or sensitive information)."
+  ],
+  "images": [
+   "s17-10-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-10"
+ },
+ {
+  "set": 17,
+  "num": 11,
+  "word": "dogmatic",
+  "defs": [
+   "inclined to lay down principles as undeniably true./opinionated"
+  ],
+  "images": [
+   "s17-11-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-11"
+ },
+ {
+  "set": 17,
+  "num": 12,
+  "word": "fallacious",
+  "defs": [
+   "based on a mistaken belief."
+  ],
+  "images": [
+   "s17-12-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-12"
+ },
+ {
+  "set": 17,
+  "num": 13,
+  "word": "foolhardy",
+  "defs": [
+   "recklessly bold or rash."
+  ],
+  "images": [
+   "s17-13-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-13"
+ },
+ {
+  "set": 17,
+  "num": 14,
+  "word": "hinder",
+  "defs": [
+   "make it difficult for (someone) to do something or for (something) to happen."
+  ],
+  "images": [
+   "s17-14-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-14"
+ },
+ {
+  "set": 17,
+  "num": 15,
+  "word": "impair",
+  "defs": [
+   "weaken or damage (something, especially a faculty or function)."
+  ],
+  "images": [
+   "s17-15-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-15"
+ },
+ {
+  "set": 17,
+  "num": 16,
+  "word": "impugn",
+  "defs": [
+   "dispute the truth, validity, or honesty of (a statement or motive); call into question."
+  ],
+  "images": [
+   "s17-16-0.webp"
+  ],
+  "page": 68,
+  "id": "s17-16"
+ },
+ {
+  "set": 17,
+  "num": 17,
+  "word": "incessant",
+  "defs": [
+   "(of something regarded as unpleasant) continuing without pause or interruption."
+  ],
+  "images": [
+   "s17-17-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-17"
+ },
+ {
+  "set": 17,
+  "num": 18,
+  "word": "inclined",
+  "defs": [
+   "be favorably disposed towards or willing to do something.",
+   "have a tendency to do something.",
+   "lean or turn away from a given plane or direction, especially the vertical or horizontal."
+  ],
+  "images": [
+   "s17-18-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-18"
+ },
+ {
+  "set": 17,
+  "num": 19,
+  "word": "inveterate",
+  "defs": [
+   "having a particular habit, activity, or interest that is long-established and unlikely to change."
+  ],
+  "images": [
+   "s17-19-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-19"
+ },
+ {
+  "set": 17,
+  "num": 20,
+  "word": "miserly",
+  "defs": [
+   "of or characteristic of a miser.",
+   "(of a quantity) pitiably small or inadequate."
+  ],
+  "images": [
+   "s17-20-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-20"
+ },
+ {
+  "set": 17,
+  "num": 21,
+  "word": "patent",
+  "defs": [
+   "a government authority or licence conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+   "easily recognizable; obvious."
+  ],
+  "images": [
+   "s17-21-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-21"
+ },
+ {
+  "set": 17,
+  "num": 22,
+  "word": "petulant",
+  "defs": [
+   "(of a person or their manner) childishly sulky or bad-tempered."
+  ],
+  "images": [
+   "s17-22-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-22"
+ },
+ {
+  "set": 17,
+  "num": 23,
+  "word": "pithy",
+  "defs": [
+   "(of language or style) terse and vigorously expressive. 2. (of a fruit or plant) containing much pith."
+  ],
+  "images": [
+   "s17-23-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-23"
+ },
+ {
+  "set": 17,
+  "num": 24,
+  "word": "pliant",
+  "defs": [
+   "easily bent.",
+   "easily influenced or directed; yielding."
+  ],
+  "images": [
+   "s17-24-0.webp"
+  ],
+  "page": 69,
+  "id": "s17-24"
+ },
+ {
+  "set": 17,
+  "num": 25,
+  "word": "sanctimonious",
+  "defs": [
+   "making a show of being morally superior to other people."
+  ],
+  "images": [
+   "s17-25-0.webp"
+  ],
+  "page": 70,
+  "id": "s17-25"
+ },
+ {
+  "set": 17,
+  "num": 26,
+  "word": "sound",
+  "defs": [
+   "vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.",
+   "an idea or impression conveyed by words.",
+   "in good condition; not damaged, injured, or diseased."
+  ],
+  "images": [
+   "s17-26-0.webp"
+  ],
+  "page": 70,
+  "id": "s17-26"
+ },
+ {
+  "set": 17,
+  "num": 27,
+  "word": "tarnish",
+  "defs": [
+   "damage or harm done to something.",
+   "dullness of color; loss of brightness."
+  ],
+  "images": [
+   "s17-27-0.webp"
+  ],
+  "page": 70,
+  "id": "s17-27"
+ },
+ {
+  "set": 17,
+  "num": 28,
+  "word": "tepid",
+  "defs": [
+   "(especially of a liquid) only slightly warm; lukewarm.",
+   "showing little enthusiasm."
+  ],
+  "images": [
+   "s17-28-0.webp"
+  ],
+  "page": 70,
+  "id": "s17-28"
+ },
+ {
+  "set": 17,
+  "num": 29,
+  "word": "upbraid",
+  "defs": [
+   "find fault with (someone); scold."
+  ],
+  "images": [
+   "s17-29-0.webp"
+  ],
+  "page": 70,
+  "id": "s17-29"
+ },
+ {
+  "set": 17,
+  "num": 30,
+  "word": "vexation",
+  "defs": [
+   "the state of being annoyed, frustrated, or worried."
+  ],
+  "images": [
+   "s17-30-0.webp"
+  ],
+  "page": 70,
+  "id": "s17-30"
+ },
+ {
+  "set": 18,
+  "num": 1,
+  "word": "abet",
+  "defs": [
+   "encourage or assist (someone) to do something wrong, in particular to commit a crime."
+  ],
+  "images": [
+   "s18-01-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-01"
+ },
+ {
+  "set": 18,
+  "num": 2,
+  "word": "accessible",
+  "defs": [
+   "(of a place) able to be reached or entered.",
+   "(of a person, especially one in a position of authority) friendly and easy to talk to; approachable."
+  ],
+  "images": [
+   "s18-02-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-02"
+ },
+ {
+  "set": 18,
+  "num": 3,
+  "word": "acquisitive",
+  "defs": [
+   "excessively interested in acquiring money or material things."
+  ],
+  "images": [
+   "s18-03-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-03"
+ },
+ {
+  "set": 18,
+  "num": 4,
+  "word": "amalgamate",
+  "defs": [
+   "combine or unite to form one organization or structure."
+  ],
+  "images": [
+   "s18-04-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-04"
+ },
+ {
+  "set": 18,
+  "num": 5,
+  "word": "attenuate",
+  "defs": [
+   "reduce the force, effect, or value of."
+  ],
+  "images": [
+   "s18-05-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-05"
+ },
+ {
+  "set": 18,
+  "num": 6,
+  "word": "augment",
+  "defs": [
+   "make (something) greater by adding to it; increase."
+  ],
+  "images": [
+   "s18-06-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-06"
+ },
+ {
+  "set": 18,
+  "num": 7,
+  "word": "aversion",
+  "defs": [
+   "a strong dislike or disinclination."
+  ],
+  "images": [
+   "s18-07-0.webp"
+  ],
+  "page": 71,
+  "id": "s18-07"
+ },
+ {
+  "set": 18,
+  "num": 8,
+  "word": "blithe",
+  "defs": [
+   "showing a casual and cheerful indifference considered to be callous or improper."
+  ],
+  "images": [
+   "s18-08-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-08"
+ },
+ {
+  "set": 18,
+  "num": 9,
+  "word": "contempt",
+  "defs": [
+   "the feeling that a person or a thing is worthless or beneath consideration."
+  ],
+  "images": [
+   "s18-09-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-09"
+ },
+ {
+  "set": 18,
+  "num": 10,
+  "word": "dawdle",
+  "defs": [
+   "waste time; be slow."
+  ],
+  "images": [
+   "s18-10-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-10"
+ },
+ {
+  "set": 18,
+  "num": 11,
+  "word": "deflect",
+  "defs": [
+   "cause (something) to change direction; turn aside from a straight course.",
+   "cause (someone) to deviate from an intended purpose."
+  ],
+  "images": [
+   "s18-11-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-11"
+ },
+ {
+  "set": 18,
+  "num": 12,
+  "word": "discount",
+  "defs": [
+   "deduct an amount from (the usual price of something). 2. regard (a possibility or fact) as being unworthy of consideration because it lacks credibility."
+  ],
+  "images": [
+   "s18-12-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-12"
+ },
+ {
+  "set": 18,
+  "num": 13,
+  "word": "dissident",
+  "defs": [
+   "a person who opposes official policy, especially that of an authoritarian state."
+  ],
+  "images": [
+   "s18-13-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-13"
+ },
+ {
+  "set": 18,
+  "num": 14,
+  "word": "efficacious",
+  "defs": [
+   "(of something inanimate or abstract) successful in producing a desired or intended result; effective."
+  ],
+  "images": [
+   "s18-14-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-14"
+ },
+ {
+  "set": 18,
+  "num": 15,
+  "word": "equitable",
+  "defs": [
+   "fair and impartial."
+  ],
+  "images": [
+   "s18-15-0.webp"
+  ],
+  "page": 72,
+  "id": "s18-15"
+ },
+ {
+  "set": 18,
+  "num": 16,
+  "word": "erratic",
+  "defs": [
+   "not even or regular in pattern or movement; unpredictable."
+  ],
+  "images": [
+   "s18-16-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-16"
+ },
+ {
+  "set": 18,
+  "num": 17,
+  "word": "industrious",
+  "defs": [
+   "diligent and hard-working."
+  ],
+  "images": [
+   "s18-17-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-17"
+ },
+ {
+  "set": 18,
+  "num": 18,
+  "word": "inform",
+  "defs": [
+   "give (someone) facts or information; tell.",
+   "give an essential or formative principle or quality to."
+  ],
+  "images": [
+   "s18-18-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-18"
+ },
+ {
+  "set": 18,
+  "num": 19,
+  "word": "irksome",
+  "defs": [
+   "irritating; annoying."
+  ],
+  "images": [
+   "s18-19-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-19"
+ },
+ {
+  "set": 18,
+  "num": 20,
+  "word": "manacle",
+  "defs": [
+   "one of two metal bands joined by a chain, for fastening a person's hands or ankles./shackles"
+  ],
+  "images": [
+   "s18-20-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-20"
+ },
+ {
+  "set": 18,
+  "num": 21,
+  "word": "modest",
+  "defs": [
+   "unassuming in the estimation of one's abilities or achievements.",
+   "(of an amount, rate, or level) relatively moderate, limited, or small."
+  ],
+  "images": [
+   "s18-21-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-21"
+ },
+ {
+  "set": 18,
+  "num": 22,
+  "word": "noxious",
+  "defs": [
+   "harmful, poisonous, or very unpleasant."
+  ],
+  "images": [
+   "s18-22-0.webp"
+  ],
+  "page": 73,
+  "id": "s18-22"
+ },
+ {
+  "set": 18,
+  "num": 23,
+  "word": "pernicious",
+  "defs": [
+   "having a harmful effect, especially in a gradual or subtle way."
+  ],
+  "images": [
+   "s18-23-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-23"
+ },
+ {
+  "set": 18,
+  "num": 24,
+  "word": "predicament",
+  "defs": [
+   "a difficult, unpleasant, or embarrassing situation."
+  ],
+  "images": [
+   "s18-24-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-24"
+ },
+ {
+  "set": 18,
+  "num": 25,
+  "word": "proficient",
+  "defs": [
+   "competent or skilled in doing or using something."
+  ],
+  "images": [
+   "s18-25-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-25"
+ },
+ {
+  "set": 18,
+  "num": 26,
+  "word": "prolix",
+  "defs": [
+   "(of speech or writing) using or containing too many words; tediously lengthy."
+  ],
+  "images": [
+   "s18-26-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-26"
+ },
+ {
+  "set": 18,
+  "num": 27,
+  "word": "scorn",
+  "defs": [
+   "a feeling and expression of contempt or disdain for someone or something."
+  ],
+  "images": [
+   "s18-27-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-27"
+ },
+ {
+  "set": 18,
+  "num": 28,
+  "word": "subordinate",
+  "defs": [
+   "of less or secondary importance."
+  ],
+  "images": [
+   "s18-28-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-28"
+ },
+ {
+  "set": 18,
+  "num": 29,
+  "word": "unseemly",
+  "defs": [
+   "(of behavior or actions) not proper or appropriate."
+  ],
+  "images": [
+   "s18-29-0.webp"
+  ],
+  "page": 74,
+  "id": "s18-29"
+ },
+ {
+  "set": 18,
+  "num": 30,
+  "word": "veritable",
+  "defs": [
+   "used for emphasis, often to qualify a metaphor."
+  ],
+  "images": [
+   "s18-30-0.webp"
+  ],
+  "page": 75,
+  "id": "s18-30"
+ },
+ {
+  "set": 19,
+  "num": 1,
+  "word": "acolyte",
+  "defs": [
+   "a person assisting a priest in a religious service or procession."
+  ],
+  "images": [
+   "s19-01-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-01"
+ },
+ {
+  "set": 19,
+  "num": 2,
+  "word": "anoint",
+  "defs": [
+   "smear or rub with oil, typically as part of a religious ceremony.",
+   "nominate or choose (someone) as successor to or leading candidate for a position."
+  ],
+  "images": [
+   "s19-02-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-02"
+ },
+ {
+  "set": 19,
+  "num": 3,
+  "word": "base",
+  "defs": [
+   "use (something specified) as the foundation or starting point for something.",
+   "(adjective)without moral principles; ignoble."
+  ],
+  "images": [
+   "s19-03-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-03"
+ },
+ {
+  "set": 19,
+  "num": 4,
+  "word": "coercion",
+  "defs": [
+   "the action or practice of persuading someone to do something by using force or threats."
+  ],
+  "images": [
+   "s19-04-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-04"
+ },
+ {
+  "set": 19,
+  "num": 5,
+  "word": "coin",
+  "defs": [
+   "invent",
+   "a flat disc or piece of metal with an official stamp, used as money."
+  ],
+  "images": [
+   "s19-05-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-05"
+ },
+ {
+  "set": 19,
+  "num": 6,
+  "word": "cunning",
+  "defs": [
+   "having or showing skill in achieving one's ends by deceit or evasion."
+  ],
+  "images": [
+   "s19-06-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-06"
+ },
+ {
+  "set": 19,
+  "num": 7,
+  "word": "discomfit",
+  "defs": [
+   "make (someone) feel uneasy or embarrassed."
+  ],
+  "images": [
+   "s19-07-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-07"
+ },
+ {
+  "set": 19,
+  "num": 8,
+  "word": "dissent",
+  "defs": [
+   "hold or express opinions that are at variance with those commonly or officially held."
+  ],
+  "images": [
+   "s19-08-0.webp"
+  ],
+  "page": 76,
+  "id": "s19-08"
+ },
+ {
+  "set": 19,
+  "num": 9,
+  "word": "distill",
+  "defs": [
+   "purify (a liquid) by heating it so that it vaporizes, then cooling and condensing the vapour and collecting the resulting liquid."
+  ],
+  "images": [
+   "s19-09-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-09"
+ },
+ {
+  "set": 19,
+  "num": 10,
+  "word": "dubious",
+  "defs": [
+   "hesitating or doubting.",
+   "not to be relied upon; suspect."
+  ],
+  "images": [
+   "s19-10-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-10"
+ },
+ {
+  "set": 19,
+  "num": 11,
+  "word": "ebullient",
+  "defs": [
+   "cheerful and full of energy."
+  ],
+  "images": [
+   "s19-11-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-11"
+ },
+ {
+  "set": 19,
+  "num": 12,
+  "word": "facetious",
+  "defs": [
+   "treating serious issues with deliberately inappropriate humour; flippant."
+  ],
+  "images": [
+   "s19-12-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-12"
+ },
+ {
+  "set": 19,
+  "num": 13,
+  "word": "fallible",
+  "defs": [
+   "capable of making mistakes or being wrong."
+  ],
+  "images": [
+   "s19-13-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-13"
+ },
+ {
+  "set": 19,
+  "num": 14,
+  "word": "florid",
+  "defs": [
+   "excessively intricate or elaborate.",
+   "having a red or flushed complexion."
+  ],
+  "images": [
+   "s19-14-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-14"
+ },
+ {
+  "set": 19,
+  "num": 15,
+  "word": "gawky",
+  "defs": [
+   "nervously awkward and ungainly."
+  ],
+  "images": [
+   "s19-15-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-15"
+ },
+ {
+  "set": 19,
+  "num": 16,
+  "word": "inveigle",
+  "defs": [
+   "persuade (someone) to do something by means of deception or flattery."
+  ],
+  "images": [
+   "s19-16-0.webp"
+  ],
+  "page": 77,
+  "id": "s19-16"
+ },
+ {
+  "set": 19,
+  "num": 17,
+  "word": "jettison",
+  "defs": [
+   "abandon or discard (someone or something that is no longer wanted)."
+  ],
+  "images": [
+   "s19-17-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-17"
+ },
+ {
+  "set": 19,
+  "num": 18,
+  "word": "mendacity",
+  "defs": [
+   "untruthfulness."
+  ],
+  "images": [
+   "s19-18-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-18"
+ },
+ {
+  "set": 19,
+  "num": 19,
+  "word": "munificent",
+  "defs": [
+   "characterized by or displaying great generosity."
+  ],
+  "images": [
+   "s19-19-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-19"
+ },
+ {
+  "set": 19,
+  "num": 20,
+  "word": "naive",
+  "defs": [
+   "(of a person or action) showing a lack of experience, wisdom, or judgement."
+  ],
+  "images": [
+   "s19-20-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-20"
+ },
+ {
+  "set": 19,
+  "num": 21,
+  "word": "noble",
+  "defs": [
+   "belonging by rank, title, or birth to the aristocracy.",
+   "having or showing fine personal qualities or high moral principles."
+  ],
+  "images": [
+   "s19-21-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-21"
+ },
+ {
+  "set": 19,
+  "num": 22,
+  "word": "parochial",
+  "defs": [
+   "having a limited or narrow outlook or scope."
+  ],
+  "images": [
+   "s19-22-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-22"
+ },
+ {
+  "set": 19,
+  "num": 23,
+  "word": "pedestrian",
+  "defs": [
+   "a person walking rather than travelling in a vehicle.",
+   "lacking inspiration or excitement; dull."
+  ],
+  "images": [
+   "s19-23-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-23"
+ },
+ {
+  "set": 19,
+  "num": 24,
+  "word": "prevaricate",
+  "defs": [
+   "speak or act in an evasive way."
+  ],
+  "images": [
+   "s19-24-0.webp"
+  ],
+  "page": 78,
+  "id": "s19-24"
+ },
+ {
+  "set": 19,
+  "num": 25,
+  "word": "prime",
+  "defs": [
+   "of first importance; main.",
+   "the state or time of greatest vigor or success in a person's life.",
+   "make (something) ready for use or action."
+  ],
+  "images": [
+   "s19-25-0.webp"
+  ],
+  "page": 79,
+  "id": "s19-25"
+ },
+ {
+  "set": 19,
+  "num": 26,
+  "word": "radical",
+  "defs": [
+   "(especially of change or action) relating to or affecting the fundamental nature of something; far-reaching or thorough.",
+   "advocating or based on thorough or complete political or social change"
+  ],
+  "images": [],
+  "page": 79,
+  "id": "s19-26"
+ },
+ {
+  "set": 19,
+  "num": 27,
+  "word": "recrudescent",
+  "defs": [
+   "break out again; recur."
+  ],
+  "images": [
+   "s19-27-0.webp"
+  ],
+  "page": 79,
+  "id": "s19-27"
+ },
+ {
+  "set": 19,
+  "num": 28,
+  "word": "temporal",
+  "defs": [
+   "relating to worldly as opposed to spiritual affairs; secular.",
+   "relating to time."
+  ],
+  "images": [],
+  "page": 79,
+  "id": "s19-28"
+ },
+ {
+  "set": 19,
+  "num": 29,
+  "word": "transitory",
+  "defs": [
+   "not permanent."
+  ],
+  "images": [
+   "s19-29-0.webp"
+  ],
+  "page": 79,
+  "id": "s19-29"
+ },
+ {
+  "set": 19,
+  "num": 30,
+  "word": "viable",
+  "defs": [
+   "capable of working successfully;feasible"
+  ],
+  "images": [
+   "s19-30-0.webp"
+  ],
+  "page": 79,
+  "id": "s19-30"
+ },
+ {
+  "set": 20,
+  "num": 1,
+  "word": "abreast",
+  "defs": [
+   "1.side by side and facing the same way. 2. alongside or level with something."
+  ],
+  "images": [],
+  "page": 80,
+  "id": "s20-01"
+ },
+ {
+  "set": 20,
+  "num": 2,
+  "word": "confound",
+  "defs": [
+   "cause surprise or confusion in (someone), especially by not according with their expectations.",
+   "mix up (something) with something else."
+  ],
+  "images": [
+   "s20-02-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-02"
+ },
+ {
+  "set": 20,
+  "num": 3,
+  "word": "digression",
+  "defs": [
+   "a temporary departure from the main subject in speech or writing."
+  ],
+  "images": [
+   "s20-03-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-03"
+ },
+ {
+  "set": 20,
+  "num": 4,
+  "word": "discrepancy",
+  "defs": [
+   "an illogical or surprising lack of compatibility or similarity between two or more facts."
+  ],
+  "images": [
+   "s20-04-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-04"
+ },
+ {
+  "set": 20,
+  "num": 5,
+  "word": "duplicitous",
+  "defs": [
+   "deceitful."
+  ],
+  "images": [
+   "s20-05-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-05"
+ },
+ {
+  "set": 20,
+  "num": 6,
+  "word": "expedient",
+  "defs": [
+   "(of an action) convenient and practical although possibly improper or immoral."
+  ],
+  "images": [
+   "s20-06-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-06"
+ },
+ {
+  "set": 20,
+  "num": 7,
+  "word": "fabricate",
+  "defs": [
+   "invent (something) in order to deceive.",
+   "construct or manufacture (an industrial product), especially from prepared components."
+  ],
+  "images": [
+   "s20-07-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-07"
+ },
+ {
+  "set": 20,
+  "num": 8,
+  "word": "glum",
+  "defs": [
+   "looking or feeling dejected; morose."
+  ],
+  "images": [
+   "s20-08-0.webp"
+  ],
+  "page": 80,
+  "id": "s20-08"
+ },
+ {
+  "set": 20,
+  "num": 9,
+  "word": "harbinger",
+  "defs": [
+   "a person or thing that announces or signals the approach of another./indicator"
+  ],
+  "images": [
+   "s20-09-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-09"
+ },
+ {
+  "set": 20,
+  "num": 10,
+  "word": "intrinsic",
+  "defs": [
+   "belonging naturally; essential."
+  ],
+  "images": [
+   "s20-10-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-10"
+ },
+ {
+  "set": 20,
+  "num": 11,
+  "word": "largesse",
+  "defs": [
+   "generosity in bestowing money or gifts upon others."
+  ],
+  "images": [
+   "s20-11-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-11"
+ },
+ {
+  "set": 20,
+  "num": 12,
+  "word": "libertine",
+  "defs": [
+   "1.a person, especially a man, who freely indulges in sensual pleasures without regard to moral principles.",
+   "a freethinker in matters of religion."
+  ],
+  "images": [
+   "s20-12-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-12"
+ },
+ {
+  "set": 20,
+  "num": 13,
+  "word": "malfeasance",
+  "defs": [
+   "wrongdoing, especially (US) by a public official."
+  ],
+  "images": [
+   "s20-13-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-13"
+ },
+ {
+  "set": 20,
+  "num": 14,
+  "word": "manifest",
+  "defs": [
+   "show (a quality or feeling) by one's acts or appearance; demonstrate.",
+   "a document listing a ship's contents, cargo, passengers, and crew, for the use of customs officers."
+  ],
+  "images": [],
+  "page": 81,
+  "id": "s20-14"
+ },
+ {
+  "set": 20,
+  "num": 15,
+  "word": "minute",
+  "defs": [
+   "so small as to be insignificant.",
+   "(of an investigation or account) taking the smallest points into consideration; precise and meticulous. 3.a summarized record of the proceedings at a meeting."
+  ],
+  "images": [
+   "s20-15-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-15"
+ },
+ {
+  "set": 20,
+  "num": 16,
+  "word": "modish",
+  "defs": [
+   "conforming to or following what is currently popular and fashionable."
+  ],
+  "images": [
+   "s20-16-0.webp"
+  ],
+  "page": 81,
+  "id": "s20-16"
+ },
+ {
+  "set": 20,
+  "num": 17,
+  "word": "nascent",
+  "defs": [
+   "(especially of a process or organization) just coming into existence and beginning to display signs of future potential."
+  ],
+  "images": [
+   "s20-17-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-17"
+ },
+ {
+  "set": 20,
+  "num": 18,
+  "word": "perennial",
+  "defs": [
+   "lasting or existing for a long or apparently infinite time; enduring or continually recurring."
+  ],
+  "images": [
+   "s20-18-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-18"
+ },
+ {
+  "set": 20,
+  "num": 19,
+  "word": "pious",
+  "defs": [
+   "devoutly religious.",
+   "(of a hope) sincere but unlikely to be fulfilled."
+  ],
+  "images": [
+   "s20-19-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-19"
+ },
+ {
+  "set": 20,
+  "num": 20,
+  "word": "providential",
+  "defs": [
+   "occurring at a favorable time; opportune.",
+   "involving divine foresight or providence."
+  ],
+  "images": [
+   "s20-20-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-20"
+ },
+ {
+  "set": 20,
+  "num": 21,
+  "word": "prowess",
+  "defs": [
+   "skill or expertise in a particular activity or field.",
+   "bravery in battle."
+  ],
+  "images": [
+   "s20-21-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-21"
+ },
+ {
+  "set": 20,
+  "num": 22,
+  "word": "schism",
+  "defs": [
+   "a split or division between strongly opposed sections or parties, caused by differences in opinion or belief."
+  ],
+  "images": [
+   "s20-22-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-22"
+ },
+ {
+  "set": 20,
+  "num": 23,
+  "word": "slander",
+  "defs": [
+   "make false and damaging statements about (someone)."
+  ],
+  "images": [
+   "s20-23-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-23"
+ },
+ {
+  "set": 20,
+  "num": 24,
+  "word": "stalwart",
+  "defs": [
+   "loyal, reliable, and hard-working."
+  ],
+  "images": [
+   "s20-24-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-24"
+ },
+ {
+  "set": 20,
+  "num": 25,
+  "word": "supplicate",
+  "defs": [
+   "ask or beg for something earnestly or humbly."
+  ],
+  "images": [
+   "s20-25-0.webp"
+  ],
+  "page": 82,
+  "id": "s20-25"
+ },
+ {
+  "set": 20,
+  "num": 26,
+  "word": "terse",
+  "defs": [
+   "sparing in the use of words; abrupt."
+  ],
+  "images": [
+   "s20-26-0.webp"
+  ],
+  "page": 83,
+  "id": "s20-26"
+ },
+ {
+  "set": 20,
+  "num": 27,
+  "word": "tirade",
+  "defs": [
+   "a long, angry speech of criticism or accusation."
+  ],
+  "images": [
+   "s20-27-0.webp"
+  ],
+  "page": 83,
+  "id": "s20-27"
+ },
+ {
+  "set": 20,
+  "num": 28,
+  "word": "universal",
+  "defs": [
+   "relating to or done by all people or things in the world or in a particular group; applicable to all cases./ubiquitous"
+  ],
+  "images": [
+   "s20-28-0.webp"
+  ],
+  "page": 83,
+  "id": "s20-28"
+ },
+ {
+  "set": 20,
+  "num": 29,
+  "word": "vanquish",
+  "defs": [
+   "defeat thoroughly./conquer"
+  ],
+  "images": [
+   "s20-29-0.webp"
+  ],
+  "page": 83,
+  "id": "s20-29"
+ },
+ {
+  "set": 20,
+  "num": 30,
+  "word": "woeful",
+  "defs": [
+   "characterized by, expressive of, or causing sorrow or misery.",
+   "very bad; deplorable."
+  ],
+  "images": [
+   "s20-30-0.webp"
+  ],
+  "page": 83,
+  "id": "s20-30"
+ },
+ {
+  "set": 21,
+  "num": 1,
+  "word": "abject",
+  "defs": [
+   "(of something bad) experienced or present to the maximum degree.",
+   "(of a person or their behavior) completely without pride or dignity; self-abasing."
+  ],
+  "images": [
+   "s21-01-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-01"
+ },
+ {
+  "set": 21,
+  "num": 2,
+  "word": "amicable",
+  "defs": [
+   "characterized by friendliness and absence of discord."
+  ],
+  "images": [
+   "s21-02-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-02"
+ },
+ {
+  "set": 21,
+  "num": 3,
+  "word": "animosity",
+  "defs": [
+   "strong hostility."
+  ],
+  "images": [
+   "s21-03-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-03"
+ },
+ {
+  "set": 21,
+  "num": 4,
+  "word": "aver",
+  "defs": [
+   "state or assert to be the case."
+  ],
+  "images": [
+   "s21-04-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-04"
+ },
+ {
+  "set": 21,
+  "num": 5,
+  "word": "barrage",
+  "defs": [
+   "1.bombard (someone) with questions, criticisms, complaints, etc.",
+   "an artificial barrier across a river or estuary to prevent flooding, aid irrigation or navigation, or to generate electricity by tidal power."
+  ],
+  "images": [
+   "s21-05-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-05"
+ },
+ {
+  "set": 21,
+  "num": 6,
+  "word": "cathartic",
+  "defs": [
+   "providing psychological relief through the open expression of strong emotions; causing catharsis."
+  ],
+  "images": [
+   "s21-06-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-06"
+ },
+ {
+  "set": 21,
+  "num": 7,
+  "word": "decipher",
+  "defs": [
+   "succeed in understanding, interpreting, or identifying (something)."
+  ],
+  "images": [
+   "s21-07-0.webp"
+  ],
+  "page": 84,
+  "id": "s21-07"
+ },
+ {
+  "set": 21,
+  "num": 8,
+  "word": "delusion",
+  "defs": [
+   "an idiosyncratic belief or impression maintained despite being contradicted by reality or rational argument.",
+   "the action of deluding or the state of being deluded./deception"
+  ],
+  "images": [
+   "s21-08-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-08"
+ },
+ {
+  "set": 21,
+  "num": 9,
+  "word": "dispense",
+  "defs": [
+   "distribute or provide (a service or information) to a number of people.",
+   "manage without or get rid of."
+  ],
+  "images": [
+   "s21-09-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-09"
+ },
+ {
+  "set": 21,
+  "num": 10,
+  "word": "eloquent",
+  "defs": [
+   "fluent or persuasive in speaking or writing."
+  ],
+  "images": [
+   "s21-10-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-10"
+ },
+ {
+  "set": 21,
+  "num": 11,
+  "word": "enthrall",
+  "defs": [
+   "capture the fascinated attention of."
+  ],
+  "images": [
+   "s21-11-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-11"
+ },
+ {
+  "set": 21,
+  "num": 12,
+  "word": "eradicate",
+  "defs": [
+   "destroy completely; put an end to."
+  ],
+  "images": [
+   "s21-12-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-12"
+ },
+ {
+  "set": 21,
+  "num": 13,
+  "word": "fledgling",
+  "defs": [
+   "a person or organization that is immature, inexperienced, or underdeveloped."
+  ],
+  "images": [
+   "s21-13-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-13"
+ },
+ {
+  "set": 21,
+  "num": 14,
+  "word": "fortitude",
+  "defs": [
+   "courage in pain or adversity."
+  ],
+  "images": [
+   "s21-14-0.webp"
+  ],
+  "page": 85,
+  "id": "s21-14"
+ },
+ {
+  "set": 21,
+  "num": 15,
+  "word": "fortuitous",
+  "defs": [
+   "happening by chance rather than intention./happening by a lucky chance; fortunate."
+  ],
+  "images": [
+   "s21-15-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-15"
+ },
+ {
+  "set": 21,
+  "num": 16,
+  "word": "goad",
+  "defs": [
+   "provoke or annoy (someone) so as to stimulate an action or reaction.",
+   "drive (an animal) with a spiked stick."
+  ],
+  "images": [
+   "s21-16-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-16"
+ },
+ {
+  "set": 21,
+  "num": 17,
+  "word": "imminent",
+  "defs": [
+   "about to happen"
+  ],
+  "images": [
+   "s21-17-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-17"
+ },
+ {
+  "set": 21,
+  "num": 18,
+  "word": "incontrovertible",
+  "defs": [
+   "not able to be denied or disputed."
+  ],
+  "images": [
+   "s21-18-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-18"
+ },
+ {
+  "set": 21,
+  "num": 19,
+  "word": "itinerant",
+  "defs": [
+   "travelling from place to place."
+  ],
+  "images": [
+   "s21-19-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-19"
+ },
+ {
+  "set": 21,
+  "num": 20,
+  "word": "magnanimous",
+  "defs": [
+   "generous or forgiving, especially towards a rival or less powerful person."
+  ],
+  "images": [
+   "s21-20-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-20"
+ },
+ {
+  "set": 21,
+  "num": 21,
+  "word": "meritorious",
+  "defs": [
+   "deserving reward or praise."
+  ],
+  "images": [
+   "s21-21-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-21"
+ },
+ {
+  "set": 21,
+  "num": 22,
+  "word": "mutiny",
+  "defs": [
+   "an open rebellion against the proper authorities, especially by soldiers or sailors against their officers."
+  ],
+  "images": [
+   "s21-22-0.webp"
+  ],
+  "page": 86,
+  "id": "s21-22"
+ },
+ {
+  "set": 21,
+  "num": 23,
+  "word": "paradoxical",
+  "defs": [
+   "seemingly absurd or self-contradictory."
+  ],
+  "images": [
+   "s21-23-0.webp"
+  ],
+  "page": 87,
+  "id": "s21-23"
+ },
+ {
+  "set": 21,
+  "num": 24,
+  "word": "perseverance",
+  "defs": [
+   "persistence in doing something despite difficulty or delay in achieving success."
+  ],
+  "images": [
+   "s21-24-0.webp"
+  ],
+  "page": 87,
+  "id": "s21-24"
+ },
+ {
+  "set": 21,
+  "num": 25,
+  "word": "render",
+  "defs": [
+   "provide or give (a service, help, etc.). 2.cause to be or become; make. 3.represent or depict artistically.",
+   "covertly send (a foreign criminal or terrorist suspect) for interrogation abroad; subject to extraordinary rendition.",
+   "melt down (fat) in order to clarify it.",
+   "cover (stone or brick) with a coat of plaster."
+  ],
+  "images": [
+   "s21-25-0.webp"
+  ],
+  "page": 87,
+  "id": "s21-25"
+ },
+ {
+  "set": 21,
+  "num": 26,
+  "word": "repertoire",
+  "defs": [
+   "a stock of plays, dances, or items that a company or a performer knows or is prepared to perform.",
+   "a stock of skills or types of behavior that a person habitually uses."
+  ],
+  "images": [
+   "s21-26-0.webp"
+  ],
+  "page": 87,
+  "id": "s21-26"
+ },
+ {
+  "set": 21,
+  "num": 27,
+  "word": "resilient",
+  "defs": [
+   "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
+   "(of a substance or object) able to recoil or spring back into shape after bending, stretching, or being compressed."
+  ],
+  "images": [
+   "s21-27-0.webp"
+  ],
+  "page": 87,
+  "id": "s21-27"
+ },
+ {
+  "set": 21,
+  "num": 28,
+  "word": "resolute",
+  "defs": [
+   "admirably purposeful, determined, and unwavering."
+  ],
+  "images": [
+   "s21-28-0.webp"
+  ],
+  "page": 87,
+  "id": "s21-28"
+ },
+ {
+  "set": 21,
+  "num": 29,
+  "word": "supple",
+  "defs": [
+   "bending and moving easily and gracefully; flexible."
+  ],
+  "images": [
+   "s21-29-0.webp"
+  ],
+  "page": 88,
+  "id": "s21-29"
+ },
+ {
+  "set": 21,
+  "num": 30,
+  "word": "valor",
+  "defs": [
+   "great courage in the face of danger, especially in battle."
+  ],
+  "images": [
+   "s21-30-0.webp"
+  ],
+  "page": 88,
+  "id": "s21-30"
+ },
+ {
+  "set": 22,
+  "num": 1,
+  "word": "arresting",
+  "defs": [
+   "striking; eye-catching.",
+   "denoting a person or agency that seizes and detains someone by legal authority."
+  ],
+  "images": [
+   "s22-01-0.webp"
+  ],
+  "page": 89,
+  "id": "s22-01"
+ },
+ {
+  "set": 22,
+  "num": 2,
+  "word": "chastise",
+  "defs": [
+   "rebuke or reprimand severely./scold"
+  ],
+  "images": [
+   "s22-02-0.webp"
+  ],
+  "page": 89,
+  "id": "s22-02"
+ },
+ {
+  "set": 22,
+  "num": 3,
+  "word": "cumbersome",
+  "defs": [
+   "large or heavy and therefore difficult to carry or use; unwieldy./slow or complicated and therefore inefficient."
+  ],
+  "images": [
+   "s22-03-0.webp"
+  ],
+  "page": 89,
+  "id": "s22-03"
+ },
+ {
+  "set": 22,
+  "num": 4,
+  "word": "economy",
+  "defs": [
+   "the state of a country or region in terms of the production and consumption of goods and services and the supply of money.",
+   "careful management of available resources."
+  ],
+  "images": [
+   "s22-04-0.webp"
+  ],
+  "page": 89,
+  "id": "s22-04"
+ },
+ {
+  "set": 22,
+  "num": 5,
+  "word": "elementary",
+  "defs": [
+   "relating to the rudiments of a subject.",
+   "not decomposable into elements or other primary constituents."
+  ],
+  "images": [
+   "s22-05-0.webp"
+  ],
+  "page": 89,
+  "id": "s22-05"
+ },
+ {
+  "set": 22,
+  "num": 6,
+  "word": "embellish",
+  "defs": [
+   "make (something) more attractive by the addition of decorative details or features."
+  ],
+  "images": [
+   "s22-06-0.webp"
+  ],
+  "page": 89,
+  "id": "s22-06"
+ },
+ {
+  "set": 22,
+  "num": 7,
+  "word": "euphoric",
+  "defs": [
+   "characterized by or feeling intense excitement and happiness."
+  ],
+  "images": [
+   "s22-07-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-07"
+ },
+ {
+  "set": 22,
+  "num": 8,
+  "word": "exonerate",
+  "defs": [
+   "(of an official body) absolve (someone) from blame for a fault or wrongdoing.",
+   "release someone from (a duty or obligation)."
+  ],
+  "images": [
+   "s22-08-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-08"
+ },
+ {
+  "set": 22,
+  "num": 9,
+  "word": "extrapolate",
+  "defs": [
+   "extend the application of (a method or conclusion) to an unknown situation by assuming that existing trends will continue or similar methods will be applicable."
+  ],
+  "images": [
+   "s22-09-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-09"
+ },
+ {
+  "set": 22,
+  "num": 10,
+  "word": "falter",
+  "defs": [
+   "lose strength or momentum."
+  ],
+  "images": [
+   "s22-10-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-10"
+ },
+ {
+  "set": 22,
+  "num": 11,
+  "word": "fervent",
+  "defs": [
+   "having or displaying a passionate intensity."
+  ],
+  "images": [
+   "s22-11-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-11"
+ },
+ {
+  "set": 22,
+  "num": 12,
+  "word": "foment",
+  "defs": [
+   "instigate or stir up (an undesirable or violent sentiment or course of action)."
+  ],
+  "images": [
+   "s22-12-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-12"
+ },
+ {
+  "set": 22,
+  "num": 13,
+  "word": "gaffe",
+  "defs": [
+   "an unintentional act or remark causing embarrassment to its originator; a blunder."
+  ],
+  "images": [
+   "s22-13-0.webp"
+  ],
+  "page": 90,
+  "id": "s22-13"
+ },
+ {
+  "set": 22,
+  "num": 14,
+  "word": "heterodox",
+  "defs": [
+   "not conforming with accepted or orthodox standards or beliefs."
+  ],
+  "images": [
+   "s22-14-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-14"
+ },
+ {
+  "set": 22,
+  "num": 15,
+  "word": "histrionic",
+  "defs": [
+   "excessively theatrical or dramatic in character or style."
+  ],
+  "images": [
+   "s22-15-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-15"
+ },
+ {
+  "set": 22,
+  "num": 16,
+  "word": "implicit",
+  "defs": [
+   "suggested though not directly expressed.",
+   "always to be found in; essentially connected with.",
+   "with no qualification or question; absolute."
+  ],
+  "images": [
+   "s22-16-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-16"
+ },
+ {
+  "set": 22,
+  "num": 17,
+  "word": "inviolate",
+  "defs": [
+   "free or safe from injury or violation."
+  ],
+  "images": [
+   "s22-17-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-17"
+ },
+ {
+  "set": 22,
+  "num": 18,
+  "word": "liability",
+  "defs": [
+   "the state of being legally responsible for something.",
+   "a person or thing whose presence or behavior is likely to put one at a disadvantage."
+  ],
+  "images": [
+   "s22-18-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-18"
+ },
+ {
+  "set": 22,
+  "num": 19,
+  "word": "obstinate",
+  "defs": [
+   "stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so."
+  ],
+  "images": [
+   "s22-19-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-19"
+ },
+ {
+  "set": 22,
+  "num": 20,
+  "word": "painstaking",
+  "defs": [
+   "done with or employing great care and thoroughness."
+  ],
+  "images": [
+   "s22-20-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-20"
+ },
+ {
+  "set": 22,
+  "num": 21,
+  "word": "phlegmatic",
+  "defs": [
+   "(of a person) having an unemotional and stolidly calm disposition."
+  ],
+  "images": [
+   "s22-21-0.webp"
+  ],
+  "page": 91,
+  "id": "s22-21"
+ },
+ {
+  "set": 22,
+  "num": 22,
+  "word": "prodigious",
+  "defs": [
+   "remarkably or impressively great in extent, size, or degree."
+  ],
+  "images": [
+   "s22-22-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-22"
+ },
+ {
+  "set": 22,
+  "num": 23,
+  "word": "propensity",
+  "defs": [
+   "an inclination or natural tendency to behave in a particular way."
+  ],
+  "images": [
+   "s22-23-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-23"
+ },
+ {
+  "set": 22,
+  "num": 24,
+  "word": "qualm",
+  "defs": [
+   "an uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving."
+  ],
+  "images": [
+   "s22-24-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-24"
+ },
+ {
+  "set": 22,
+  "num": 25,
+  "word": "renege",
+  "defs": [
+   "go back on a promise, undertaking, or contract."
+  ],
+  "images": [
+   "s22-25-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-25"
+ },
+ {
+  "set": 22,
+  "num": 26,
+  "word": "stinting",
+  "defs": [
+   "supply a very ungenerous or inadequate amount of (something)."
+  ],
+  "images": [
+   "s22-26-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-26"
+ },
+ {
+  "set": 22,
+  "num": 27,
+  "word": "temper",
+  "defs": [
+   "a person's state of mind seen in terms of their being angry or calm.",
+   "the degree of hardness and elasticity in steel or other metal.",
+   "act as a neutralizing or counterbalancing force to (something)."
+  ],
+  "images": [
+   "s22-27-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-27"
+ },
+ {
+  "set": 22,
+  "num": 28,
+  "word": "tentative",
+  "defs": [
+   "not certain or fixed; provisional.",
+   "done without confidence; hesitant."
+  ],
+  "images": [
+   "s22-28-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-28"
+ },
+ {
+  "set": 22,
+  "num": 29,
+  "word": "unprecedented",
+  "defs": [
+   "never done or known before."
+  ],
+  "images": [
+   "s22-29-0.webp"
+  ],
+  "page": 92,
+  "id": "s22-29"
+ },
+ {
+  "set": 22,
+  "num": 30,
+  "word": "vivacious",
+  "defs": [
+   "(especially of a woman) attractively lively and animated."
+  ],
+  "images": [
+   "s22-30-0.webp"
+  ],
+  "page": 93,
+  "id": "s22-30"
+ },
+ {
+  "set": 23,
+  "num": 1,
+  "word": "allusive",
+  "defs": [
+   "using or containing suggestion rather than explicit mention."
+  ],
+  "images": [
+   "s23-01-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-01"
+ },
+ {
+  "set": 23,
+  "num": 2,
+  "word": "astute",
+  "defs": [
+   "having or showing an ability to accurately assess situations or people and turn this to one's advantage."
+  ],
+  "images": [
+   "s23-02-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-02"
+ },
+ {
+  "set": 23,
+  "num": 3,
+  "word": "commence",
+  "defs": [
+   "begin."
+  ],
+  "images": [
+   "s23-03-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-03"
+ },
+ {
+  "set": 23,
+  "num": 4,
+  "word": "convalescent",
+  "defs": [
+   "(of a person) recovering from an illness or medical treatment."
+  ],
+  "images": [
+   "s23-04-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-04"
+ },
+ {
+  "set": 23,
+  "num": 5,
+  "word": "curb",
+  "defs": [
+   "a check or restraint on something.",
+   "a type of bit with a strap or chain attached which passes under a horse's lower jaw, used as a check."
+  ],
+  "images": [
+   "s23-05-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-05"
+ },
+ {
+  "set": 23,
+  "num": 6,
+  "word": "decry",
+  "defs": [
+   "publicly denounce."
+  ],
+  "images": [
+   "s23-06-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-06"
+ },
+ {
+  "set": 23,
+  "num": 7,
+  "word": "duress",
+  "defs": [
+   "threats, violence, constraints, or other action used to coerce someone into doing something against their will or better judgement."
+  ],
+  "images": [
+   "s23-07-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-07"
+ },
+ {
+  "set": 23,
+  "num": 8,
+  "word": "evoke",
+  "defs": [
+   "bring or recall (a feeling, memory, or image) to the conscious mind.",
+   "invoke (a spirit or deity)."
+  ],
+  "images": [
+   "s23-08-0.webp"
+  ],
+  "page": 94,
+  "id": "s23-08"
+ },
+ {
+  "set": 23,
+  "num": 9,
+  "word": "fawn",
+  "defs": [
+   "(of a person) give a servile display of exaggerated flattery or affection, typically in order to gain favour.",
+   "(of a deer) produce young."
+  ],
+  "images": [
+   "s23-09-0.webp"
+  ],
+  "page": 95,
+  "id": "s23-09"
+ },
+ {
+  "set": 23,
+  "num": 10,
+  "word": "fret",
+  "defs": [
+   "be constantly or visibly anxious.",
+   "gradually wear away (something) by rubbing or gnawing.",
+   "flow or move in small waves."
+  ],
+  "images": [
+   "s23-10-0.webp"
+  ],
+  "page": 95,
+  "id": "s23-10"
+ },
+ {
+  "set": 23,
+  "num": 11,
+  "word": "glib",
+  "defs": [
+   "(of words or a speaker) fluent but insincere and shallow."
+  ],
+  "images": [
+   "s23-11-0.webp"
+  ],
+  "page": 95,
+  "id": "s23-11"
+ },
+ {
+  "set": 23,
+  "num": 12,
+  "word": "headstrong",
+  "defs": [
+   "energetically willful and determined."
+  ],
+  "images": [
+   "s23-12-0.webp"
+  ],
+  "page": 95,
+  "id": "s23-12"
+ },
+ {
+  "set": 23,
+  "num": 13,
+  "word": "intermittent",
+  "defs": [
+   "occurring at irregular intervals; not continuous or steady."
+  ],
+  "images": [],
+  "page": 95,
+  "id": "s23-13"
+ },
+ {
+  "set": 23,
+  "num": 14,
+  "word": "ire",
+  "defs": [
+   "anger."
+  ],
+  "images": [
+   "s23-14-0.webp"
+  ],
+  "page": 95,
+  "id": "s23-14"
+ },
+ {
+  "set": 23,
+  "num": 15,
+  "word": "languid",
+  "defs": [
+   "(of a person, manner, or gesture) having or showing a disinclination for physical exertion or effort.",
+   "weak or faint from illness or fatigue."
+  ],
+  "images": [
+   "s23-15-0.webp"
+  ],
+  "page": 95,
+  "id": "s23-15"
+ },
+ {
+  "set": 23,
+  "num": 16,
+  "word": "lull",
+  "defs": [
+   "make (someone) feel deceptively secure or confident.",
+   "calm or send to sleep, typically with soothing sounds or movements. 3.a temporary interval of quiet or lack of activity."
+  ],
+  "images": [
+   "s23-16-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-16"
+ },
+ {
+  "set": 23,
+  "num": 17,
+  "word": "mettlesome",
+  "defs": [
+   "(of a person or animal) full of spirit and courage; lively."
+  ],
+  "images": [
+   "s23-17-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-17"
+ },
+ {
+  "set": 23,
+  "num": 18,
+  "word": "mollify",
+  "defs": [
+   "appease the anger or anxiety of (someone)."
+  ],
+  "images": [
+   "s23-18-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-18"
+ },
+ {
+  "set": 23,
+  "num": 19,
+  "word": "neutralize",
+  "defs": [
+   "make (something) ineffective by applying an opposite force or effect."
+  ],
+  "images": [
+   "s23-19-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-19"
+ },
+ {
+  "set": 23,
+  "num": 20,
+  "word": "nonplussed",
+  "defs": [
+   "so surprised and confused that one is unsure how to react."
+  ],
+  "images": [
+   "s23-20-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-20"
+ },
+ {
+  "set": 23,
+  "num": 21,
+  "word": "precipitous",
+  "defs": [
+   "(of an action) done suddenly and without careful consideration.",
+   "dangerously high or steep."
+  ],
+  "images": [
+   "s23-21-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-21"
+ },
+ {
+  "set": 23,
+  "num": 22,
+  "word": "pretentious",
+  "defs": [
+   "attempting to impress by affecting greater importance or merit than is actually possessed."
+  ],
+  "images": [
+   "s23-22-0.webp"
+  ],
+  "page": 96,
+  "id": "s23-22"
+ },
+ {
+  "set": 23,
+  "num": 23,
+  "word": "profound",
+  "defs": [
+   "(of a state, quality, or emotion) very great or intense.",
+   "(of a person or statement) having or showing great knowledge or insight."
+  ],
+  "images": [
+   "s23-23-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-23"
+ },
+ {
+  "set": 23,
+  "num": 24,
+  "word": "propagate",
+  "defs": [
+   "spread and promote (an idea, theory, etc.) widely.",
+   "breed specimens of (a plant or animal) by natural processes from the parent stock."
+  ],
+  "images": [
+   "s23-24-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-24"
+ },
+ {
+  "set": 23,
+  "num": 25,
+  "word": "recourse",
+  "defs": [
+   "a source of help in a difficult situation."
+  ],
+  "images": [
+   "s23-25-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-25"
+ },
+ {
+  "set": 23,
+  "num": 26,
+  "word": "refute",
+  "defs": [
+   "prove (a statement or theory) to be wrong or false; disprove."
+  ],
+  "images": [
+   "s23-26-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-26"
+ },
+ {
+  "set": 23,
+  "num": 27,
+  "word": "regress",
+  "defs": [
+   "return to a former or less developed state."
+  ],
+  "images": [
+   "s23-27-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-27"
+ },
+ {
+  "set": 23,
+  "num": 28,
+  "word": "repercussion",
+  "defs": [
+   "an unintended consequence of an event or action, especially an unwelcome one."
+  ],
+  "images": [
+   "s23-28-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-28"
+ },
+ {
+  "set": 23,
+  "num": 29,
+  "word": "replenish",
+  "defs": [
+   "restore (a stock or supply) to a former level or condition."
+  ],
+  "images": [
+   "s23-29-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-29"
+ },
+ {
+  "set": 23,
+  "num": 30,
+  "word": "vigilant",
+  "defs": [
+   "keeping careful watch for possible danger or difficulties."
+  ],
+  "images": [
+   "s23-30-0.webp"
+  ],
+  "page": 97,
+  "id": "s23-30"
+ },
+ {
+  "set": 24,
+  "num": 1,
+  "word": "assail",
+  "defs": [
+   "make a concerted or violent attack on./ criticize strongly"
+  ],
+  "images": [
+   "s24-01-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-01"
+ },
+ {
+  "set": 24,
+  "num": 2,
+  "word": "benevolent",
+  "defs": [
+   "well meaning and kindly./(of an organization) serving a charitable rather than a profit-making purpose."
+  ],
+  "images": [
+   "s24-02-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-02"
+ },
+ {
+  "set": 24,
+  "num": 3,
+  "word": "berate",
+  "defs": [
+   "scold or criticize (someone) angrily."
+  ],
+  "images": [
+   "s24-03-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-03"
+ },
+ {
+  "set": 24,
+  "num": 4,
+  "word": "buoyant",
+  "defs": [
+   "able or tending to keep afloat or rise to the top of a liquid or gas.",
+   "cheerful and optimistic.",
+   "(of an economy, business, or market) involving or engaged in much successful trade or activity."
+  ],
+  "images": [
+   "s24-04-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-04"
+ },
+ {
+  "set": 24,
+  "num": 5,
+  "word": "buttress",
+  "defs": [
+   "provide (a building or structure) with buttresses.",
+   "increase the strength of or justification for; reinforce."
+  ],
+  "images": [
+   "s24-05-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-05"
+ },
+ {
+  "set": 24,
+  "num": 6,
+  "word": "condone",
+  "defs": [
+   "accept (behaviour that is considered morally wrong or offensive)."
+  ],
+  "images": [
+   "s24-06-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-06"
+ },
+ {
+  "set": 24,
+  "num": 7,
+  "word": "contravene",
+  "defs": [
+   "offend against the prohibition or order of (a law, treaty, or code of conduct)./conflict with (a right, principle, etc.), especially to its detriment."
+  ],
+  "images": [
+   "s24-07-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-07"
+ },
+ {
+  "set": 24,
+  "num": 8,
+  "word": "denounce",
+  "defs": [
+   "publicly declare to be wrong or evil./inform against."
+  ],
+  "images": [
+   "s24-08-0.webp"
+  ],
+  "page": 98,
+  "id": "s24-08"
+ },
+ {
+  "set": 24,
+  "num": 9,
+  "word": "despotic",
+  "defs": [
+   "of or typical of a despot; tyrannical."
+  ],
+  "images": [
+   "s24-09-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-09"
+ },
+ {
+  "set": 24,
+  "num": 10,
+  "word": "deviate",
+  "defs": [
+   "depart from usual or accepted standards."
+  ],
+  "images": [
+   "s24-10-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-10"
+ },
+ {
+  "set": 24,
+  "num": 11,
+  "word": "disinterested",
+  "defs": [
+   "not influenced by considerations of personal advantage.",
+   "having or feeling no interest in something; uninterested."
+  ],
+  "images": [
+   "s24-11-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-11"
+ },
+ {
+  "set": 24,
+  "num": 12,
+  "word": "escalate",
+  "defs": [
+   "increase rapidly./make or become more intense or serious."
+  ],
+  "images": [
+   "s24-12-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-12"
+ },
+ {
+  "set": 24,
+  "num": 13,
+  "word": "exorcise",
+  "defs": [
+   "completely remove (something unpleasant) from one's mind or memory.",
+   "rid (a person or place) of a supposed evil spirit."
+  ],
+  "images": [
+   "s24-13-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-13"
+ },
+ {
+  "set": 24,
+  "num": 14,
+  "word": "finicky",
+  "defs": [
+   "(of a person) fussy about their needs or requirements./showing or requiring great attention to detail."
+  ],
+  "images": [
+   "s24-14-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-14"
+ },
+ {
+  "set": 24,
+  "num": 15,
+  "word": "foil",
+  "defs": [
+   "prevent (something considered wrong or undesirable) from succeeding.",
+   "frustrate the efforts or plans of."
+  ],
+  "images": [
+   "s24-15-0.webp"
+  ],
+  "page": 99,
+  "id": "s24-15"
+ },
+ {
+  "set": 24,
+  "num": 16,
+  "word": "intertwined",
+  "defs": [
+   "twist or twine together./connect or link (two or more things) closely."
+  ],
+  "images": [
+   "s24-16-0.webp"
+  ],
+  "page": 100,
+  "id": "s24-16"
+ },
+ {
+  "set": 24,
+  "num": 17,
+  "word": "inundate",
+  "defs": [
+   "overwhelm (someone) with things or people to be dealt with.",
+   "flood."
+  ],
+  "images": [
+   "s24-17-0.webp"
+  ],
+  "page": 100,
+  "id": "s24-17"
+ },
+ {
+  "set": 24,
+  "num": 18,
+  "word": "ironclad",
+  "defs": [
+   "impossible to contradict, weaken, or change."
+  ],
+  "images": [],
+  "page": 100,
+  "id": "s24-18"
+ },
+ {
+  "set": 24,
+  "num": 19,
+  "word": "jeopardize",
+  "defs": [
+   "put (someone or something) into a situation in which there is a danger of loss, harm, or failure."
+  ],
+  "images": [
+   "s24-19-0.webp"
+  ],
+  "page": 100,
+  "id": "s24-19"
+ },
+ {
+  "set": 24,
+  "num": 20,
+  "word": "mercurial",
+  "defs": [
+   "subject to sudden or unpredictable changes of mood or mind.",
+   "of or containing the element mercury."
+  ],
+  "images": [
+   "s24-20-0.webp"
+  ],
+  "page": 100,
+  "id": "s24-20"
+ },
+ {
+  "set": 24,
+  "num": 21,
+  "word": "oblivious",
+  "defs": [
+   "not aware of or concerned about what is happening around one."
+  ],
+  "images": [
+   "s24-21-0.webp"
+  ],
+  "page": 100,
+  "id": "s24-21"
+ },
+ {
+  "set": 24,
+  "num": 22,
+  "word": "perpetrate",
+  "defs": [
+   "carry out or commit (a harmful, illegal, or immoral action)."
+  ],
+  "images": [
+   "s24-22-0.webp"
+  ],
+  "page": 100,
+  "id": "s24-22"
+ },
+ {
+  "set": 24,
+  "num": 23,
+  "word": "plaintive",
+  "defs": [
+   "sounding sad and mournful."
+  ],
+  "images": [
+   "s24-23-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-23"
+ },
+ {
+  "set": 24,
+  "num": 24,
+  "word": "poignant",
+  "defs": [
+   "evoking a keen sense of sadness or regret."
+  ],
+  "images": [
+   "s24-24-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-24"
+ },
+ {
+  "set": 24,
+  "num": 25,
+  "word": "quiescent",
+  "defs": [
+   "in a state or period of inactivity or dormancy."
+  ],
+  "images": [
+   "s24-25-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-25"
+ },
+ {
+  "set": 24,
+  "num": 26,
+  "word": "reiterate",
+  "defs": [
+   "say something again or a number of times, typically for emphasis or clarity."
+  ],
+  "images": [
+   "s24-26-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-26"
+ },
+ {
+  "set": 24,
+  "num": 27,
+  "word": "subside",
+  "defs": [
+   "become less intense, violent, or severe. 2.(of water) go down to a lower or the normal level."
+  ],
+  "images": [
+   "s24-27-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-27"
+ },
+ {
+  "set": 24,
+  "num": 28,
+  "word": "subsume",
+  "defs": [
+   "include or absorb (something) in something else."
+  ],
+  "images": [
+   "s24-28-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-28"
+ },
+ {
+  "set": 24,
+  "num": 29,
+  "word": "surmount",
+  "defs": [
+   "overcome (a difficulty or obstacle).",
+   "stand or be placed on top of."
+  ],
+  "images": [
+   "s24-29-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-29"
+ },
+ {
+  "set": 24,
+  "num": 30,
+  "word": "tangential",
+  "defs": [
+   "diverging from a previous course or line; erratic.",
+   "hardly touching a matter; peripheral.3. relating to or along a tangent."
+  ],
+  "images": [
+   "s24-30-0.webp"
+  ],
+  "page": 101,
+  "id": "s24-30"
+ },
+ {
+  "set": 25,
+  "num": 1,
+  "word": "adept",
+  "defs": [
+   "very skilled or proficient at something."
+  ],
+  "images": [
+   "s25-01-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-01"
+ },
+ {
+  "set": 25,
+  "num": 2,
+  "word": "adverse",
+  "defs": [
+   "preventing success or development; harmful; unfavourable."
+  ],
+  "images": [
+   "s25-02-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-02"
+ },
+ {
+  "set": 25,
+  "num": 3,
+  "word": "appropriate",
+  "defs": [
+   "take (something) for one's own use, typically without the owner's permission.",
+   "devote (money or assets) to a special purpose.",
+   "suitable or proper in the circumstances."
+  ],
+  "images": [
+   "s25-03-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-03"
+ },
+ {
+  "set": 25,
+  "num": 4,
+  "word": "archetype",
+  "defs": [
+   "a very typical example of a certain person or thing.",
+   "an original which has been imitated; a prototype."
+  ],
+  "images": [
+   "s25-04-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-04"
+ },
+ {
+  "set": 25,
+  "num": 5,
+  "word": "articulate",
+  "defs": [
+   "having or showing the ability to speak fluently and coherently."
+  ],
+  "images": [
+   "s25-05-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-05"
+ },
+ {
+  "set": 25,
+  "num": 6,
+  "word": "auspicious",
+  "defs": [
+   "conducive to success; favorable./giving or being a sign of future success."
+  ],
+  "images": [
+   "s25-06-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-06"
+ },
+ {
+  "set": 25,
+  "num": 7,
+  "word": "bereft",
+  "defs": [
+   "deprived of or lacking (something).",
+   "(of a person) sad and lonely, especially through someone's death or departure."
+  ],
+  "images": [
+   "s25-07-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-07"
+ },
+ {
+  "set": 25,
+  "num": 8,
+  "word": "captious",
+  "defs": [
+   "tending to find fault or raise petty objections."
+  ],
+  "images": [
+   "s25-08-0.webp"
+  ],
+  "page": 102,
+  "id": "s25-08"
+ },
+ {
+  "set": 25,
+  "num": 9,
+  "word": "conclusive",
+  "defs": [
+   "of evidence or argument) having or likely to have the effect of proving a case; decisive."
+  ],
+  "images": [
+   "s25-09-0.webp"
+  ],
+  "page": 103,
+  "id": "s25-09"
+ },
+ {
+  "set": 25,
+  "num": 10,
+  "word": "conspire",
+  "defs": [
+   "make secret plans jointly to commit an unlawful or harmful act.",
+   "(of events or circumstances) seem to be working together to bring about a particular negative result."
+  ],
+  "images": [
+   "s25-10-0.webp"
+  ],
+  "page": 103,
+  "id": "s25-10"
+ },
+ {
+  "set": 25,
+  "num": 11,
+  "word": "delineate",
+  "defs": [
+   "describe or portray (something) precisely.",
+   "indicate the exact position of (a border or boundary)."
+  ],
+  "images": [
+   "s25-11-0.webp"
+  ],
+  "page": 103,
+  "id": "s25-11"
+ },
+ {
+  "set": 25,
+  "num": 12,
+  "word": "disentangle",
+  "defs": [
+   "free (something or someone) from something that they are entangled with."
+  ],
+  "images": [
+   "s25-12-0.webp"
+  ],
+  "page": 103,
+  "id": "s25-12"
+ },
+ {
+  "set": 25,
+  "num": 13,
+  "word": "exhort",
+  "defs": [
+   "strongly encourage or urge (someone) to do something."
+  ],
+  "images": [
+   "s25-13-0.webp"
+  ],
+  "page": 103,
+  "id": "s25-13"
+ },
+ {
+  "set": 25,
+  "num": 14,
+  "word": "frailty",
+  "defs": [
+   "the condition of being weak and delicate./weakness in character or morals."
+  ],
+  "images": [
+   "s25-14-0.webp"
+  ],
+  "page": 103,
+  "id": "s25-14"
+ },
+ {
+  "set": 25,
+  "num": 15,
+  "word": "grievance",
+  "defs": [
+   "a real or imagined cause for complaint, especially unfair treatment"
+  ],
+  "images": [
+   "s25-15-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-15"
+ },
+ {
+  "set": 25,
+  "num": 16,
+  "word": "harangue",
+  "defs": [
+   "a lengthy and aggressive speech."
+  ],
+  "images": [
+   "s25-16-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-16"
+ },
+ {
+  "set": 25,
+  "num": 17,
+  "word": "ploy",
+  "defs": [
+   "a cunning plan or action designed to turn a situation to one's own advantage."
+  ],
+  "images": [
+   "s25-17-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-17"
+ },
+ {
+  "set": 25,
+  "num": 18,
+  "word": "poise",
+  "defs": [
+   "graceful and elegant bearing in a person.",
+   "be or cause to be balanced or suspended./be ready and prepared to do something."
+  ],
+  "images": [
+   "s25-18-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-18"
+ },
+ {
+  "set": 25,
+  "num": 19,
+  "word": "pomposity",
+  "defs": [
+   "the quality of being pompous; self-importance."
+  ],
+  "images": [
+   "s25-19-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-19"
+ },
+ {
+  "set": 25,
+  "num": 20,
+  "word": "proxy",
+  "defs": [
+   "the authority to represent someone else, especially in voting.",
+   "a figure that can be used to represent the value of something in a calculation."
+  ],
+  "images": [
+   "s25-20-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-20"
+ },
+ {
+  "set": 25,
+  "num": 21,
+  "word": "relent",
+  "defs": [
+   "abandon or mitigate a severe or harsh attitude, especially by finally yielding to a request./become less severe."
+  ],
+  "images": [
+   "s25-21-0.webp"
+  ],
+  "page": 104,
+  "id": "s25-21"
+ },
+ {
+  "set": 25,
+  "num": 22,
+  "word": "rhetoric",
+  "defs": [
+   "the art of effective or persuasive speaking or writing, especially the exploitation of figures of speech and other compositional techniques."
+  ],
+  "images": [
+   "s25-22-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-22"
+ },
+ {
+  "set": 25,
+  "num": 23,
+  "word": "rigor",
+  "defs": [
+   "the quality of being extremely thorough and careful.",
+   "severity or strictness.",
+   "harsh and demanding conditions."
+  ],
+  "images": [
+   "s25-23-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-23"
+ },
+ {
+  "set": 25,
+  "num": 24,
+  "word": "sparse",
+  "defs": [
+   "thinly dispersed or scattered./scanty; in short supply."
+  ],
+  "images": [
+   "s25-24-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-24"
+ },
+ {
+  "set": 25,
+  "num": 25,
+  "word": "steadfast",
+  "defs": [
+   "resolutely or dutifully firm and unwavering."
+  ],
+  "images": [
+   "s25-25-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-25"
+ },
+ {
+  "set": 25,
+  "num": 26,
+  "word": "suspect",
+  "defs": [
+   "have an idea or impression of the existence, presence, or truth of (something) without certain proof.",
+   "doubt the genuineness or truth of."
+  ],
+  "images": [
+   "s25-26-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-26"
+ },
+ {
+  "set": 25,
+  "num": 27,
+  "word": "tedious",
+  "defs": [
+   "too long, slow, or dull; tiresome or monotonous."
+  ],
+  "images": [
+   "s25-27-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-27"
+ },
+ {
+  "set": 25,
+  "num": 28,
+  "word": "vitality",
+  "defs": [
+   "the state of being strong and active; energy."
+  ],
+  "images": [
+   "s25-28-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-28"
+ },
+ {
+  "set": 25,
+  "num": 29,
+  "word": "whimsical",
+  "defs": [
+   "playfully quaint or fanciful, especially in an appealing and amusing way.",
+   "acting or behaving in a capricious manner."
+  ],
+  "images": [
+   "s25-29-0.webp"
+  ],
+  "page": 105,
+  "id": "s25-29"
+ },
+ {
+  "set": 25,
+  "num": 30,
+  "word": "yield",
+  "defs": [
+   "produce or provide (a natural, agricultural, or industrial product). 2.give way to arguments, demands, or pressure.",
+   "(of a mass or structure) give way under force or pressure."
+  ],
+  "images": [],
+  "page": 106,
+  "id": "s25-30"
+ },
+ {
+  "set": 26,
+  "num": 1,
+  "word": "apprehension",
+  "defs": [
+   "anxiety or fear that something bad or unpleasant will happen.",
+   "understanding; grasp.",
+   "the action of arresting someone."
+  ],
+  "images": [
+   "s26-01-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-01"
+ },
+ {
+  "set": 26,
+  "num": 2,
+  "word": "ardent",
+  "defs": [
+   "very enthusiastic or passionate."
+  ],
+  "images": [
+   "s26-02-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-02"
+ },
+ {
+  "set": 26,
+  "num": 3,
+  "word": "axiomatic",
+  "defs": [
+   "self-evident or unquestionable."
+  ],
+  "images": [
+   "s26-03-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-03"
+ },
+ {
+  "set": 26,
+  "num": 4,
+  "word": "cease",
+  "defs": [
+   "come or bring to an end."
+  ],
+  "images": [
+   "s26-04-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-04"
+ },
+ {
+  "set": 26,
+  "num": 5,
+  "word": "conducive",
+  "defs": [
+   "having the property of conducting something (especially heat or electricity)."
+  ],
+  "images": [
+   "s26-05-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-05"
+ },
+ {
+  "set": 26,
+  "num": 6,
+  "word": "corporeal",
+  "defs": [
+   "relating to a person's body, especially as opposed to their spirit."
+  ],
+  "images": [],
+  "page": 107,
+  "id": "s26-06"
+ },
+ {
+  "set": 26,
+  "num": 7,
+  "word": "doctrinaire",
+  "defs": [
+   "seeking to impose a doctrine in all circumstances without regard to practical considerations."
+  ],
+  "images": [
+   "s26-07-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-07"
+ },
+ {
+  "set": 26,
+  "num": 8,
+  "word": "eclectic",
+  "defs": [
+   "deriving ideas, style, or taste from a broad and diverse range of sources."
+  ],
+  "images": [
+   "s26-08-0.webp"
+  ],
+  "page": 107,
+  "id": "s26-08"
+ },
+ {
+  "set": 26,
+  "num": 9,
+  "word": "equanimity",
+  "defs": [
+   "calmness and composure, especially in a difficult situation."
+  ],
+  "images": [
+   "s26-09-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-09"
+ },
+ {
+  "set": 26,
+  "num": 10,
+  "word": "exorbitant",
+  "defs": [
+   "(of a price or amount charged) unreasonably high."
+  ],
+  "images": [
+   "s26-10-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-10"
+ },
+ {
+  "set": 26,
+  "num": 11,
+  "word": "fickle",
+  "defs": [
+   "changing frequently, especially as regards one's loyalties or affections."
+  ],
+  "images": [
+   "s26-11-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-11"
+ },
+ {
+  "set": 26,
+  "num": 12,
+  "word": "figurative",
+  "defs": [
+   "departing from a literal use of words; metaphorical.",
+   "(of an artist or work of art) representing forms that are recognizably derived from life."
+  ],
+  "images": [],
+  "page": 108,
+  "id": "s26-12"
+ },
+ {
+  "set": 26,
+  "num": 13,
+  "word": "flustered",
+  "defs": [
+   "make (someone) agitated or confused."
+  ],
+  "images": [
+   "s26-13-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-13"
+ },
+ {
+  "set": 26,
+  "num": 14,
+  "word": "gullible",
+  "defs": [
+   "easily persuaded to believe something; credulous."
+  ],
+  "images": [
+   "s26-14-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-14"
+ },
+ {
+  "set": 26,
+  "num": 15,
+  "word": "idiosyncratic",
+  "defs": [
+   "relating to idiosyncrasy; peculiar or individual."
+  ],
+  "images": [
+   "s26-15-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-15"
+ },
+ {
+  "set": 26,
+  "num": 16,
+  "word": "incidental",
+  "defs": [
+   "happening as a minor accompaniment to something else.",
+   "occurring by chance in connection with something else.",
+   "happening as a result of (an activity)."
+  ],
+  "images": [
+   "s26-16-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-16"
+ },
+ {
+  "set": 26,
+  "num": 17,
+  "word": "ingrained",
+  "defs": [
+   "1.(of a habit, belief, or attitude) firmly fixed or established; difficult to change.",
+   "(of dirt or a stain) deeply embedded and thus difficult to remove."
+  ],
+  "images": [
+   "s26-17-0.webp"
+  ],
+  "page": 108,
+  "id": "s26-17"
+ },
+ {
+  "set": 26,
+  "num": 18,
+  "word": "insolent",
+  "defs": [
+   "showing a rude and arrogant lack of respect."
+  ],
+  "images": [
+   "s26-18-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-18"
+ },
+ {
+  "set": 26,
+  "num": 19,
+  "word": "lampoon",
+  "defs": [
+   "publicly criticize (someone or something) by using ridicule, irony, or sarcasm."
+  ],
+  "images": [
+   "s26-19-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-19"
+ },
+ {
+  "set": 26,
+  "num": 20,
+  "word": "lavish",
+  "defs": [
+   "bestow something in generous or extravagant quantities on."
+  ],
+  "images": [
+   "s26-20-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-20"
+ },
+ {
+  "set": 26,
+  "num": 21,
+  "word": "lugubrious",
+  "defs": [
+   "looking or sounding sad and dismal."
+  ],
+  "images": [],
+  "page": 109,
+  "id": "s26-21"
+ },
+ {
+  "set": 26,
+  "num": 22,
+  "word": "macabre",
+  "defs": [
+   "disturbing because concerned with or causing a fear of death."
+  ],
+  "images": [
+   "s26-22-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-22"
+ },
+ {
+  "set": 26,
+  "num": 23,
+  "word": "morose",
+  "defs": [
+   "sullen and ill-tempered."
+  ],
+  "images": [
+   "s26-23-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-23"
+ },
+ {
+  "set": 26,
+  "num": 24,
+  "word": "officious",
+  "defs": [
+   "assertive of authority in a domineering way, especially with regard to trivial matters."
+  ],
+  "images": [
+   "s26-24-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-24"
+ },
+ {
+  "set": 26,
+  "num": 25,
+  "word": "ramification",
+  "defs": [
+   "a complex or unwelcome consequence of an action or event."
+  ],
+  "images": [
+   "s26-25-0.webp"
+  ],
+  "page": 109,
+  "id": "s26-25"
+ },
+ {
+  "set": 26,
+  "num": 26,
+  "word": "serene",
+  "defs": [
+   "calm, peaceful, and untroubled; tranquil."
+  ],
+  "images": [
+   "s26-26-0.webp"
+  ],
+  "page": 110,
+  "id": "s26-26"
+ },
+ {
+  "set": 26,
+  "num": 27,
+  "word": "supplant",
+  "defs": [
+   "supersede and replace."
+  ],
+  "images": [
+   "s26-27-0.webp"
+  ],
+  "page": 110,
+  "id": "s26-27"
+ },
+ {
+  "set": 26,
+  "num": 28,
+  "word": "tacit",
+  "defs": [
+   "understood or implied without being stated."
+  ],
+  "images": [
+   "s26-28-0.webp"
+  ],
+  "page": 110,
+  "id": "s26-28"
+ },
+ {
+  "set": 26,
+  "num": 29,
+  "word": "transcend",
+  "defs": [
+   "be or go beyond the range or limits of (a field of activity or conceptual sphere)."
+  ],
+  "images": [
+   "s26-29-0.webp"
+  ],
+  "page": 110,
+  "id": "s26-29"
+ },
+ {
+  "set": 26,
+  "num": 30,
+  "word": "treatise",
+  "defs": [
+   "a written work dealing formally and systematically with a subject."
+  ],
+  "images": [
+   "s26-30-0.webp"
+  ],
+  "page": 110,
+  "id": "s26-30"
+ },
+ {
+  "set": 27,
+  "num": 1,
+  "word": "antagonize",
+  "defs": [
+   "cause (someone) to become hostile."
+  ],
+  "images": [
+   "s27-01-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-01"
+ },
+ {
+  "set": 27,
+  "num": 2,
+  "word": "barren",
+  "defs": [
+   "(of land) too poor to produce much or any vegetation.",
+   "(of a place or building) bleak and lifeless."
+  ],
+  "images": [
+   "s27-02-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-02"
+ },
+ {
+  "set": 27,
+  "num": 3,
+  "word": "bombastic",
+  "defs": [
+   "high-sounding but with little meaning; inflated."
+  ],
+  "images": [
+   "s27-03-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-03"
+ },
+ {
+  "set": 27,
+  "num": 4,
+  "word": "cajole",
+  "defs": [
+   "persuade (someone) to do something by sustained coaxing or flattery."
+  ],
+  "images": [
+   "s27-04-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-04"
+ },
+ {
+  "set": 27,
+  "num": 5,
+  "word": "chary",
+  "defs": [
+   "cautiously or suspiciously reluctant to do something."
+  ],
+  "images": [
+   "s27-05-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-05"
+ },
+ {
+  "set": 27,
+  "num": 6,
+  "word": "curmudgeon",
+  "defs": [
+   "a bad-tempered person, especially an old one."
+  ],
+  "images": [
+   "s27-06-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-06"
+ },
+ {
+  "set": 27,
+  "num": 7,
+  "word": "dirge",
+  "defs": [
+   "a lament for the dead, especially one forming part of a funeral rite."
+  ],
+  "images": [
+   "s27-07-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-07"
+ },
+ {
+  "set": 27,
+  "num": 8,
+  "word": "estimable",
+  "defs": [
+   "worthy of great respect."
+  ],
+  "images": [
+   "s27-08-0.webp"
+  ],
+  "page": 111,
+  "id": "s27-08"
+ },
+ {
+  "set": 27,
+  "num": 9,
+  "word": "euphemism",
+  "defs": [
+   "a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing./polite term"
+  ],
+  "images": [
+   "s27-09-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-09"
+ },
+ {
+  "set": 27,
+  "num": 10,
+  "word": "excoriate",
+  "defs": [
+   "criticize (someone) severely.",
+   "damage or remove part of the surface of (the skin)."
+  ],
+  "images": [
+   "s27-10-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-10"
+ },
+ {
+  "set": 27,
+  "num": 11,
+  "word": "exigent",
+  "defs": [
+   "pressing; demanding."
+  ],
+  "images": [
+   "s27-11-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-11"
+ },
+ {
+  "set": 27,
+  "num": 12,
+  "word": "haughty",
+  "defs": [
+   "arrogantly superior and disdainful."
+  ],
+  "images": [
+   "s27-12-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-12"
+ },
+ {
+  "set": 27,
+  "num": 13,
+  "word": "heady",
+  "defs": [
+   "having a strong or exhilarating effect.",
+   "(of alcoholic drink) potent; intoxicating."
+  ],
+  "images": [
+   "s27-13-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-13"
+ },
+ {
+  "set": 27,
+  "num": 14,
+  "word": "imperturbable",
+  "defs": [
+   "unable to be upset or excited; calm."
+  ],
+  "images": [
+   "s27-14-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-14"
+ },
+ {
+  "set": 27,
+  "num": 15,
+  "word": "implacable",
+  "defs": [
+   "unable to be appeased or placated."
+  ],
+  "images": [
+   "s27-15-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-15"
+ },
+ {
+  "set": 27,
+  "num": 16,
+  "word": "lambaste",
+  "defs": [
+   "criticize (someone or something) harshly."
+  ],
+  "images": [
+   "s27-16-0.webp"
+  ],
+  "page": 112,
+  "id": "s27-16"
+ },
+ {
+  "set": 27,
+  "num": 17,
+  "word": "miscreant",
+  "defs": [
+   "a person who has done something wrong or unlawful."
+  ],
+  "images": [
+   "s27-17-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-17"
+ },
+ {
+  "set": 27,
+  "num": 18,
+  "word": "peccadillo",
+  "defs": [
+   "a relatively minor fault or sin."
+  ],
+  "images": [
+   "s27-18-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-18"
+ },
+ {
+  "set": 27,
+  "num": 19,
+  "word": "philistine",
+  "defs": [
+   "a person who is hostile or indifferent to culture and the arts."
+  ],
+  "images": [
+   "s27-19-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-19"
+ },
+ {
+  "set": 27,
+  "num": 20,
+  "word": "relegate",
+  "defs": [
+   "assign an inferior rank or position to."
+  ],
+  "images": [
+   "s27-20-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-20"
+ },
+ {
+  "set": 27,
+  "num": 21,
+  "word": "repugnant",
+  "defs": [
+   "extremely distasteful; unacceptable.",
+   "in conflict or incompatible with."
+  ],
+  "images": [
+   "s27-21-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-21"
+ },
+ {
+  "set": 27,
+  "num": 22,
+  "word": "sentimental",
+  "defs": [
+   "of or prompted by feelings of tenderness, sadness, or nostalgia."
+  ],
+  "images": [
+   "s27-22-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-22"
+ },
+ {
+  "set": 27,
+  "num": 23,
+  "word": "squander",
+  "defs": [
+   "1.waste (something, especially money or time) in a reckless and foolish manner.",
+   "allow (an opportunity) to pass or be lost."
+  ],
+  "images": [
+   "s27-23-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-23"
+ },
+ {
+  "set": 27,
+  "num": 24,
+  "word": "swindle",
+  "defs": [
+   "use deception to deprive (someone) of money or possessions."
+  ],
+  "images": [
+   "s27-24-0.webp"
+  ],
+  "page": 113,
+  "id": "s27-24"
+ },
+ {
+  "set": 27,
+  "num": 25,
+  "word": "tangible",
+  "defs": [
+   "perceptible by touch./clear and definite; real."
+  ],
+  "images": [
+   "s27-25-0.webp"
+  ],
+  "page": 114,
+  "id": "s27-25"
+ },
+ {
+  "set": 27,
+  "num": 26,
+  "word": "turpitude",
+  "defs": [
+   "depraved or wicked behavior or character."
+  ],
+  "images": [
+   "s27-26-0.webp"
+  ],
+  "page": 114,
+  "id": "s27-26"
+ },
+ {
+  "set": 27,
+  "num": 27,
+  "word": "unalloyed",
+  "defs": [
+   "(of metal) not alloyed; pure.",
+   "(chiefly of emotions) complete and unreserved."
+  ],
+  "images": [
+   "s27-27-0.webp"
+  ],
+  "page": 114,
+  "id": "s27-27"
+ },
+ {
+  "set": 27,
+  "num": 28,
+  "word": "undercut",
+  "defs": [
+   "1.offer goods or services at a lower price than (a competitor). 2.cut or wear away the part below or under (something, especially a cliff). 3.weaken; undermine."
+  ],
+  "images": [
+   "s27-28-0.webp"
+  ],
+  "page": 114,
+  "id": "s27-28"
+ },
+ {
+  "set": 27,
+  "num": 29,
+  "word": "wheedle",
+  "defs": [
+   "use flattery or coaxing in order to persuade someone to do something or give one something."
+  ],
+  "images": [
+   "s27-29-0.webp"
+  ],
+  "page": 114,
+  "id": "s27-29"
+ },
+ {
+  "set": 27,
+  "num": 30,
+  "word": "xenophobic",
+  "defs": [
+   "having or showing a dislike of or prejudice against people from other countries."
+  ],
+  "images": [
+   "s27-30-0.webp"
+  ],
+  "page": 114,
+  "id": "s27-30"
+ }
+]
