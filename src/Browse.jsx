@@ -1,36 +1,44 @@
-import { useMemo, useState } from 'react'
-import { useStore } from './store'
-import { SETS, WORDS } from './words'
-import { statusOf } from './lib'
-import { AddToCategory, Meaning, Pronounce, StatusChip } from './ui'
+import { useMemo, useState } from "react";
+import { useStore } from "./store";
+import { SETS, WORDS } from "./words";
+import { statusOf } from "./lib";
+import { AddToCategory, Meaning, Pronounce, StatusChip } from "./ui";
 
-const PAGE = 40
+const PAGE = 40;
 
-export default function Browse() {
-  const { state } = useStore()
-  const [q, setQ] = useState('')
-  const [setF, setSetF] = useState('all')
-  const [statusF, setStatusF] = useState('all')
-  const [catF, setCatF] = useState('all')
-  const [limit, setLimit] = useState(PAGE)
-  const [open, setOpen] = useState(null)
+export default function Browse({ onStudy, onQuiz }) {
+  const { state } = useStore();
+  const [q, setQ] = useState("");
+  const [setF, setSetF] = useState("all");
+  const [statusF, setStatusF] = useState("all");
+  const [catF, setCatF] = useState("all");
+  const [limit, setLimit] = useState(PAGE);
+  const [open, setOpen] = useState(null);
 
   const list = useMemo(() => {
-    const term = q.trim().toLowerCase()
-    const catIds = catF === 'all' ? null : new Set(state.categories.find((c) => c.id === catF)?.wordIds || [])
+    const term = q.trim().toLowerCase();
+    const catIds =
+      catF === "all"
+        ? null
+        : new Set(state.categories.find((c) => c.id === catF)?.wordIds || []);
     return WORDS.filter((w) => {
-      if (setF !== 'all' && w.set !== Number(setF)) return false
-      if (statusF !== 'all' && statusOf(state, w.id) !== statusF) return false
-      if (catIds && !catIds.has(w.id)) return false
-      if (term && !w.word.toLowerCase().includes(term) && !w.defs.some((d) => d.toLowerCase().includes(term))) return false
-      return true
-    })
-  }, [q, setF, statusF, catF, state])
+      if (setF !== "all" && w.set !== Number(setF)) return false;
+      if (statusF !== "all" && statusOf(state, w.id) !== statusF) return false;
+      if (catIds && !catIds.has(w.id)) return false;
+      if (
+        term &&
+        !w.word.toLowerCase().includes(term) &&
+        !w.defs.some((d) => d.toLowerCase().includes(term))
+      )
+        return false;
+      return true;
+    });
+  }, [q, setF, statusF, catF, state]);
 
   const reset = (fn) => (e) => {
-    fn(e.target.value)
-    setLimit(PAGE)
-  }
+    fn(e.target.value);
+    setLimit(PAGE);
+  };
 
   return (
     <section>
@@ -51,7 +59,11 @@ export default function Browse() {
             </option>
           ))}
         </select>
-        <select value={statusF} onChange={reset(setStatusF)} aria-label="Status">
+        <select
+          value={statusF}
+          onChange={reset(setStatusF)}
+          aria-label="Status"
+        >
           <option value="all">Any status</option>
           <option value="new">New</option>
           <option value="learning">Learning</option>
@@ -68,12 +80,35 @@ export default function Browse() {
       </div>
       <p className="muted count">{list.length} words</p>
 
+      <div className="row">
+        <button
+          className="btn primary"
+          disabled={!list.length}
+          onClick={() =>
+            onStudy({ kind: "custom", ids: list.map((w) => w.id) })
+          }
+        >
+          Flashcards ({list.length})
+        </button>
+        <button
+          className="btn"
+          disabled={!list.length}
+          onClick={() => onQuiz({ kind: "custom", ids: list.map((w) => w.id) })}
+        >
+          Quiz
+        </button>
+      </div>
+
       <ul className="wordlist">
         {list.slice(0, limit).map((w) => {
-          const isOpen = open === w.id
+          const isOpen = open === w.id;
           return (
-            <li key={w.id} className={isOpen ? 'open' : ''}>
-              <button className="wordrow" aria-expanded={isOpen} onClick={() => setOpen(isOpen ? null : w.id)}>
+            <li key={w.id} className={isOpen ? "open" : ""}>
+              <button
+                className="wordrow"
+                aria-expanded={isOpen}
+                onClick={() => setOpen(isOpen ? null : w.id)}
+              >
                 <b>{w.word}</b>
                 <span className="preview">{w.defs[0]}</span>
                 <StatusChip id={w.id} />
@@ -86,15 +121,17 @@ export default function Browse() {
                 </div>
               )}
             </li>
-          )
+          );
         })}
       </ul>
-      {list.length === 0 && <p className="empty">Nothing matches those filters.</p>}
+      {list.length === 0 && (
+        <p className="empty">Nothing matches those filters.</p>
+      )}
       {list.length > limit && (
         <button className="btn wide" onClick={() => setLimit((n) => n + PAGE)}>
           Show more
         </button>
       )}
     </section>
-  )
+  );
 }

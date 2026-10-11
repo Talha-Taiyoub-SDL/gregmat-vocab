@@ -102,6 +102,9 @@ export function ScopePicker({ scope, onChange }) {
         <option value="weak">Not known yet</option>
         <option value="set">One set</option>
         <option value="category">One category</option>
+        {scope.kind === "custom" && (
+          <option value="custom">Filtered words ({scope.ids.length})</option>
+        )}
       </select>
       {scope.kind === "set" && (
         <select

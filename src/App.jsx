@@ -112,7 +112,12 @@ export default function App() {
           <Flashcards key={launch.n} initialScope={launch.scope} />
         )}
         {view === "quiz" && <Quiz key={launch.n} initialScope={launch.scope} />}
-        {view === "words" && <Browse />}
+        {view === "words" && (
+          <Browse
+            onStudy={(s) => go("cards", s)}
+            onQuiz={(s) => go("quiz", s)}
+          />
+        )}
         {view === "cats" && (
           <Categories
             onStudy={(s) => go("cards", s)}
