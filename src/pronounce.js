@@ -145,11 +145,17 @@ export function preloadWord(word) {
   preloadAudio(localUrl(word));
 }
 
-function fallback(word, info) {
+// Each play gets a number. A late failure from an older play is ignored, so voices never stack.
+let playId = 0;
+
+function fallback(word, info, id) {
+  if (id !== playId) return;
   if (info?.audio) {
     const b = preloadAudio(info.audio);
     current = b;
-    b.play().catch(() => speak(word));
+    b.play().catch((err) => {
+      if (id === playId && err?.name !== "AbortError") speak(word);
+    });
   } else {
     speak(word);
   }
@@ -157,6 +163,7 @@ function fallback(word, info) {
 
 export function playWord(word, info) {
   stopAll();
+  const id = ++playId;
   const a = preloadAudio(localUrl(word));
   current = a;
   try {
@@ -164,5 +171,9 @@ export function playWord(word, info) {
   } catch {
     /* not loaded yet: it will start from the beginning anyway */
   }
-  a.play().catch(() => fallback(word, info));
+  a.play().catch((err) => {
+    // AbortError just means a newer play interrupted this one, which is not a failure.
+    if (err?.name === "AbortError") return;
+    fallback(word, info, id);
+  });
 }
