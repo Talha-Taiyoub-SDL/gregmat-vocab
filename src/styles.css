@@ -797,3 +797,11 @@ ol.defs li {
     background: var(--good-bg-hover);
   }
 }
+
+.sync-synced {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--good);
+  font-weight: 600;
+}
